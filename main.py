@@ -5,6 +5,7 @@ from __future__ import annotations
 import argparse
 import logging
 import sys
+from pathlib import Path
 
 from pandas.errors import ParserError
 from sqlalchemy.exc import SQLAlchemyError
@@ -12,6 +13,9 @@ from sqlalchemy.exc import SQLAlchemyError
 from config.settings import get_engine
 from etl.extract import extract
 from etl.load import load
+from etl.transform import transform
+
+_DEFAULT_CSV = Path(__file__).resolve().parent / "data.csv"
 
 
 def _configure_logging() -> None:
@@ -27,7 +31,12 @@ def main() -> int:
     log = logging.getLogger(__name__)
 
     parser = argparse.ArgumentParser(description="CSV → PostgreSQL ETL pipeline")
-    parser.add_argument("filepath", help="Path to the input CSV file")
+    parser.add_argument(
+        "filepath",
+        nargs="?",
+        default=str(_DEFAULT_CSV),
+        help=f"Path to the input CSV file (default: {_DEFAULT_CSV})",
+    )
     parser.add_argument(
         "--table",
         default="records",
@@ -41,10 +50,7 @@ def main() -> int:
         log.error("%s", e)
         return 1
 
-    # ✏️ TODO: import and call your transform function here
-    # Example: from etl.transform import transform
-    #          clean_df = transform(raw_df)
-    clean_df = raw_df  # remove this line once transform is added
+    clean_df = transform(raw_df)
 
     try:
         engine = get_engine()
