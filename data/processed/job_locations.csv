@@ -1,0 +1,2167 @@
+job_id,sort_order,city,district
+0,0,Hà Nội,
+1,0,Hồ Chí Minh,
+2,0,Toàn Quốc,
+3,0,Hà Nội,Cầu Giấy
+4,0,Hà Nội,Thanh Xuân
+4,1,Hải Dương,TP Hải Dương
+5,0,Hà Nội,Nam Từ Liêm
+6,0,Hồ Chí Minh,Quận 7
+7,0,Hà Nội,Cầu Giấy
+8,0,Hà Nội,Cầu Giấy
+9,0,Hà Nội,Cầu Giấy
+10,0,Hà Nội,Cầu Giấy
+11,0,Hà Nội,
+12,0,Hà Nội,Cầu Giấy
+13,0,Hà Nội,
+14,0,Hà Nội,Nam Từ Liêm
+15,0,Hồ Chí Minh,Tân Bình
+16,0,Hồ Chí Minh,Quận 10
+17,0,Hồ Chí Minh,
+18,0,Hồ Chí Minh,Quận 2
+19,0,Hồ Chí Minh,Thủ Đức
+20,0,Hà Nội,
+21,0,Hà Nội,Cầu Giấy
+22,0,Hà Nội,Cầu Giấy
+23,0,Hà Nội,Đống Đa
+24,0,Hà Nội,
+25,0,Hà Nội,
+26,0,Hồ Chí Minh,Tân Bình
+27,0,Hồ Chí Minh,Tân Bình
+28,0,Hồ Chí Minh,Tân Bình
+28,1,Hà Nội,Ba Đình
+29,0,Hồ Chí Minh,Tân Bình
+29,1,Hà Nội,Ba Đình
+30,0,Hà Nội,Ba Đình
+31,0,Hà Nội,Ba Đình
+31,1,Hồ Chí Minh,Tân Bình
+32,0,Hà Nội,Hồ Chí Minh
+33,0,Đà Nẵng,Hải Châu
+34,0,Hà Nội,Cầu Giấy
+35,0,Hà Nội,
+36,0,Hồ Chí Minh,Bình Thạnh
+37,0,Hồ Chí Minh,Bình Thạnh
+38,0,Hà Nội,Hoàn Kiếm
+39,0,Hồ Chí Minh,Bình Thạnh
+40,0,Hồ Chí Minh,Bình Thạnh
+41,0,Hà Nội,Hoàn Kiếm
+42,0,Hồ Chí Minh,Tân Bình
+43,0,Hà Nội,Cầu Giấy
+44,0,Hà Nội,Nam Từ Liêm
+45,0,Hà Nội,Nam Từ Liêm
+46,0,Hồ Chí Minh,Quận 10
+47,0,Nghệ An,TP Vinh
+48,0,Hồ Chí Minh,Quận 10
+49,0,Hà Nội,Thanh Xuân
+49,1,Hồ Chí Minh,Quận 7
+49,2,Hải Dương,TP Hải Dương
+50,0,Hà Nội,Thanh Xuân
+51,0,Hồ Chí Minh,
+52,0,Hà Nội,
+53,0,Hà Nội,Hai Bà Trưng
+54,0,Hà Nội,Long Biên
+55,0,Hồ Chí Minh,Quận 4
+56,0,Hà Nội,Nam Từ Liêm
+57,0,Hà Nội,Cầu Giấy
+58,0,Hà Nội,Nam Từ Liêm
+59,0,Hà Nội,Hai Bà Trưng
+60,0,Hà Nội,Cầu Giấy
+61,0,Hà Nội,Cầu Giấy
+62,0,Hà Nội,Nam Từ Liêm
+63,0,Hà Nội,Cầu Giấy
+64,0,Hà Nội,
+65,0,Hà Nội,Nam Từ Liêm
+66,0,Hà Nội,Cầu Giấy
+67,0,Hồ Chí Minh,Quận 3
+68,0,Hồ Chí Minh,Quận 12
+69,0,Hồ Chí Minh,Thủ Đức
+70,0,Hà Nội,Cầu Giấy
+71,0,Hà Nội,Cầu Giấy
+72,0,Hà Nội,Nam Từ Liêm
+73,0,Hà Nội,
+74,0,Hà Nội,
+75,0,Hồ Chí Minh,Quận 3
+76,0,Hồ Chí Minh,Phú Nhuận
+77,0,Hà Nội,Thanh Xuân
+78,0,Hà Nội,Thanh Xuân
+79,0,Hà Nội,Thanh Xuân
+80,0,Hà Nội,Thanh Xuân
+81,0,Hồ Chí Minh,Quận 2
+82,0,Hà Nội,
+83,0,Hà Nội,Đống Đa
+84,0,Hà Nội,Đống Đa
+85,0,Hà Nội,Nam Từ Liêm
+86,0,Hồ Chí Minh,Quận 2
+87,0,Hà Nội,Tây Hồ
+88,0,Hà Nội,Tây Hồ
+89,0,Hồ Chí Minh,
+90,0,Hồ Chí Minh,
+91,0,Hồ Chí Minh,
+92,0,Hồ Chí Minh,Quận 3
+93,0,Hà Nội,Long Biên
+94,0,Hà Nội,Thanh Xuân
+95,0,Hà Nội,Thanh Xuân
+96,0,Hà Nội,Cầu Giấy
+97,0,Hồ Chí Minh,Quận 7
+98,0,Hồ Chí Minh,Quận 2
+99,0,Hà Nội,
+100,0,Hà Nội,
+101,0,Hồ Chí Minh,Quận 9
+102,0,Hồ Chí Minh,Quận 9
+102,1,Hà Nội,Cầu Giấy
+102,2,Đà Nẵng,Ngũ Hành Sơn
+102,3,Thừa Thiên Huế,TP Huế
+103,0,Hồ Chí Minh,Quận 9
+103,1,Hà Nội,Cầu Giấy
+103,2,Đà Nẵng,Ngũ Hành Sơn
+103,3,Thừa Thiên Huế,TP Huế
+104,0,Hồ Chí Minh,Quận 3
+105,0,Hồ Chí Minh,Quận 3
+106,0,Hồ Chí Minh,Quận 9
+106,1,Hà Nội,Cầu Giấy
+106,2,Đà Nẵng,Ngũ Hành Sơn
+106,3,Thừa Thiên Huế,TP Huế
+107,0,Hồ Chí Minh,Quận 9
+108,0,Hà Nội,Đống Đa
+109,0,Hồ Chí Minh,Quận 3
+110,0,Hà Nội,Cầu Giấy
+111,0,Hà Nội,
+112,0,Hà Nội,Cầu Giấy
+113,0,Hà Nội,Cầu Giấy
+114,0,Nghệ An,TP Vinh
+115,0,Hà Nội,Đống Đa
+116,0,Hồ Chí Minh,Quận 3
+117,0,Hà Nội,
+118,0,Hà Nội,Cầu Giấy
+119,0,Hà Nội,Thanh Xuân
+120,0,Hà Nội,Nam Từ Liêm
+121,0,Hà Nội,
+122,0,Hà Nội,
+123,0,Hà Nội,Thanh Xuân
+124,0,Hà Nội,Nam Từ Liêm
+125,0,Hà Nội,Cầu Giấy
+126,0,Hà Nội,Cầu Giấy
+127,0,Hồ Chí Minh,Gò Vấp
+128,0,Hồ Chí Minh,Gò Vấp
+129,0,Hồ Chí Minh,Phú Nhuận
+130,0,Nước Ngoài,Hà Nội
+130,1,Nam Từ Liêm,
+131,0,Hà Nội,Cầu Giấy
+132,0,Hà Nội,Hồ Chí Minh
+132,1,Đà Nẵng,Thừa Thiên Huế
+133,0,Hà Nội,Hồ Chí Minh
+133,1,Thừa Thiên Huế,Đà Nẵng
+134,0,Hà Nội,
+135,0,Hà Nội,Đống Đa
+136,0,Hà Nội,Thanh Xuân
+137,0,Hà Nội,Thanh Xuân
+138,0,Hà Nội,Đống Đa
+139,0,Hồ Chí Minh,Tân Bình
+140,0,Hồ Chí Minh,Quận 7
+141,0,Hà Nội,Đống Đa
+142,0,Hà Nội,Thanh Xuân
+143,0,Hà Nội,Nam Từ Liêm
+144,0,Hà Nội,Nam Từ Liêm
+145,0,Hà Nội,Cầu Giấy
+146,0,Long An,Bến Lức
+147,0,Hà Nội,Thanh Xuân
+148,0,Hà Nội,
+149,0,Hà Nội,
+150,0,Hà Nội,Long Biên
+151,0,Hà Nội,
+152,0,Hà Nội,Tây Hồ
+153,0,Hà Nội,Tây Hồ
+154,0,Hà Nội,Cầu Giấy
+155,0,Hà Nội,Cầu Giấy
+156,0,Hà Nội,Thanh Xuân
+157,0,Nước Ngoài,Hà Nội
+157,1,Nam Từ Liêm,
+158,0,Hà Nội,Chương Mỹ
+159,0,Hồ Chí Minh,
+160,0,Hồ Chí Minh,Quận 2
+161,0,Hồ Chí Minh,Quận 4
+162,0,Hà Nội,Nam Từ Liêm
+163,0,Hà Nội,Đống Đa
+164,0,Hà Nội,Đống Đa
+165,0,Hà Nội,Cầu Giấy
+166,0,Thừa Thiên Huế,TP Huế
+166,1,Hà Nội,Cầu Giấy
+167,0,Hà Nội,Cầu Giấy
+168,0,Hà Nội,Đống Đa
+169,0,Hà Nội,Từ Liêm
+170,0,Hà Nội,Từ Liêm
+171,0,Hà Nội,Đống Đa
+172,0,Hà Nội,Đống Đa
+173,0,Hồ Chí Minh,Quận 2
+174,0,Hà Nội,Hai Bà Trưng
+175,0,Hồ Chí Minh,Quận 1
+176,0,Hà Nội,Cầu Giấy
+177,0,Hà Nội,Cầu Giấy
+178,0,Hà Nội,Tây Hồ
+179,0,Hồ Chí Minh,Bình Thạnh
+180,0,Hà Nội,Thanh Xuân
+181,0,Hà Nội,Thanh Xuân
+182,0,Hà Nội,Cầu Giấy
+183,0,Hồ Chí Minh,Quận 3
+184,0,Hồ Chí Minh,Quận 12
+185,0,Hồ Chí Minh,Gò Vấp
+186,0,Đà Nẵng,Sơn Trà
+187,0,Hồ Chí Minh,Quận 7
+188,0,Hà Nội,Cầu Giấy
+189,0,Hà Nội,Thanh Xuân
+190,0,Hà Nội,Cầu Giấy
+191,0,Hà Nội,Nam Từ Liêm
+192,0,Hồ Chí Minh,Phú Nhuận
+193,0,Hà Nội,Thanh Xuân
+194,0,Hà Nội,Cầu Giấy
+195,0,Hồ Chí Minh,Quận 10
+196,0,Hà Nội,Thanh Xuân
+197,0,Cần Thơ,Cái Răng
+198,0,Hà Nội,Tây Hồ
+199,0,Đà Nẵng,Ngũ Hành Sơn
+200,0,Hà Nội,Đống Đa
+201,0,Toàn Quốc,
+202,0,Hà Nội,Cầu Giấy
+203,0,Hà Nội,Cầu Giấy
+204,0,Hồ Chí Minh,Quận 7
+205,0,Hà Nội,Cầu Giấy
+206,0,Hà Nội,Cầu Giấy
+207,0,Hà Nội,Nam Từ Liêm
+208,0,Hà Nội,Cầu Giấy
+209,0,Hà Nội,Cầu Giấy
+210,0,Toàn Quốc,
+211,0,Toàn Quốc,
+212,0,Hà Nội,Thanh Xuân
+213,0,Hà Nội,Thanh Xuân
+214,0,Hồ Chí Minh,Quận 7
+215,0,Hồ Chí Minh,Tân Bình
+216,0,Hồ Chí Minh,Tân Bình
+217,0,Hồ Chí Minh,Tân Bình
+218,0,Hồ Chí Minh,Tân Bình
+219,0,Hồ Chí Minh,
+220,0,Hồ Chí Minh,Tân Bình
+221,0,Đà Nẵng,Sơn Trà
+222,0,Hà Nội,
+223,0,Hà Nội,
+224,0,Hà Nội,Cầu Giấy
+225,0,Hà Nội,Cầu Giấy
+226,0,Hồ Chí Minh,Thủ Đức
+226,1,Đà Nẵng,Hải Châu
+227,0,Hà Nội,Hoàng Mai
+228,0,Hồ Chí Minh,Thủ Đức
+229,0,Hồ Chí Minh,Quận 1
+230,0,Toàn Quốc,
+231,0,Hồ Chí Minh,Phú Nhuận
+232,0,Toàn Quốc,
+233,0,Hà Nội,Đống Đa
+234,0,Hồ Chí Minh,Phú Nhuận
+235,0,Toàn Quốc,
+236,0,Nghệ An,TP Vinh
+237,0,Nghệ An,TP Vinh
+238,0,Hà Nội,
+239,0,Hà Nội,Hai Bà Trưng
+240,0,Hà Nội,Cầu Giấy
+241,0,Hồ Chí Minh,
+242,0,Hồ Chí Minh,Quận 1
+243,0,Hồ Chí Minh,Quận 3
+244,0,Hà Nội,Cầu Giấy
+245,0,Hà Nội,Cầu Giấy
+246,0,Cần Thơ,Ninh Kiều
+247,0,Hà Nội,Cầu Giấy
+248,0,Hồ Chí Minh,Phú Nhuận
+249,0,Hồ Chí Minh,Tân Bình
+250,0,Hà Nội,Hai Bà Trưng
+251,0,Hà Nội,Nam Từ Liêm
+252,0,Hà Nội,Nam Từ Liêm
+253,0,Hà Nội,Thạch Thất
+254,0,Hà Nội,Nam Từ Liêm
+255,0,Hà Nội,Nam Từ Liêm
+256,0,Hà Nội,Cầu Giấy
+257,0,Hà Nội,Cầu Giấy
+258,0,Hà Nội,
+259,0,Hà Nội,
+260,0,Hà Nội,
+261,0,Hà Nội,Đống Đa
+262,0,Hồ Chí Minh,Quận 2
+262,1,Hồ Chí Minh,Quận 12
+263,0,Hà Nội,Hoàng Mai
+264,0,Hồ Chí Minh,Bình Thạnh
+265,0,Hà Nội,Hoàn Kiếm
+266,0,Hồ Chí Minh,Tân Bình
+267,0,Hà Nội,
+268,0,Hà Nội,Thanh Xuân
+269,0,Hà Nội,Nam Từ Liêm
+270,0,Hà Nội,Hai Bà Trưng
+271,0,Hà Nội,Cầu Giấy
+272,0,Hà Nội,Cầu Giấy
+273,0,Hà Nội,Đống Đa
+274,0,Hồ Chí Minh,Phú Nhuận
+275,0,Hồ Chí Minh,Quận 7
+276,0,Hà Nội,Cầu Giấy
+277,0,Thừa Thiên Huế,TP Huế
+278,0,Hồ Chí Minh,Quận 7
+279,0,Hà Nội,Cầu Giấy
+280,0,Hà Nội,Cầu Giấy
+281,0,Hà Nội,Bắc Từ Liêm
+282,0,Hà Nội,
+283,0,Hà Nội,Thanh Xuân
+284,0,Đà Nẵng,Sơn Trà
+285,0,Đà Nẵng,Thanh Khê
+286,0,Đà Nẵng,Thanh Khê
+286,1,Hồ Chí Minh,Quận 4
+286,2,Thừa Thiên Huế,TP Huế
+287,0,Đà Nẵng,Thanh Khê
+288,0,Hồ Chí Minh,Thủ Đức
+289,0,Hồ Chí Minh,Thủ Đức
+289,1,Đà Nẵng,Thanh Khê
+289,2,Thừa Thiên Huế,TP Huế
+290,0,Đà Nẵng,Thanh Khê
+291,0,Đà Nẵng,Thanh Khê
+292,0,Hồ Chí Minh,Quận 1
+293,0,Hà Nội,Hồ Chí Minh
+294,0,Hà Nội,Hồ Chí Minh
+295,0,Hà Nội,Hồ Chí Minh
+296,0,Hà Nội,Hồ Chí Minh
+296,1,Đà Nẵng,
+297,0,Hà Nội,Thanh Trì
+298,0,Hà Nội,Cầu Giấy
+299,0,Hà Nội,Hồ Chí Minh
+300,0,Hồ Chí Minh,Tân Bình
+301,0,Hà Nội,Nam Từ Liêm
+302,0,Hà Nội,Hà Đông
+303,0,Hồ Chí Minh,Hà Nội
+304,0,Hà Nội,Cầu Giấy
+305,0,Hà Nội,Thanh Xuân
+306,0,Hồ Chí Minh,Quận 10
+307,0,Hà Nội,
+308,0,Hà Nội,Cầu Giấy
+309,0,Hà Nội,Nam Từ Liêm
+310,0,Hà Nội,Cầu Giấy
+311,0,Hà Nội,Cầu Giấy
+312,0,Hà Nội,Nam Từ Liêm
+313,0,Hà Nội,Nam Từ Liêm
+314,0,Hà Nội,Hà Đông
+315,0,Hà Nội,Hà Đông
+316,0,Hồ Chí Minh,Bình Thạnh
+317,0,Hà Nội,Thanh Xuân
+318,0,Hà Nội,
+319,0,Hồ Chí Minh,Tân Bình
+320,0,Hồ Chí Minh,Quận 7
+321,0,Hà Nội,Bắc Từ Liêm
+322,0,Hà Nội,Đống Đa
+323,0,Hồ Chí Minh,Bình Thạnh
+323,1,Hồ Chí Minh,Phú Nhuận
+323,2,Hồ Chí Minh,Gò Vấp
+323,3,Hồ Chí Minh,Thủ Đức
+323,4,Bình Dương,Dĩ An
+323,5,Bình Dương,Thuận An
+323,6,Đồng Nai,Biên Hoà
+324,0,Hà Nội,Cầu Giấy
+325,0,Hà Nội,Hoàn Kiếm
+326,0,Hà Nội,Nam Từ Liêm
+327,0,Hồ Chí Minh,Quận 3
+328,0,Hà Nội,Hà Đông
+329,0,Hà Nội,Thanh Xuân
+330,0,Hồ Chí Minh,Thủ Đức
+330,1,Hồ Chí Minh,Nhà Bè
+330,2,Hồ Chí Minh,Quận 6
+330,3,Hồ Chí Minh,Quận 7
+330,4,Hồ Chí Minh,Quận 12
+330,5,Hồ Chí Minh,Bình Chánh
+331,0,Hà Nội,Cầu Giấy
+332,0,Hà Nội,Nam Từ Liêm
+333,0,Hồ Chí Minh,Quận 3
+334,0,Hà Nội,Thanh Xuân
+335,0,Hà Nội,Cầu Giấy
+335,1,Hà Nội,Thanh Xuân
+336,0,Hồ Chí Minh,Bình Thạnh
+337,0,Hồ Chí Minh,Bình Thạnh
+338,0,Hà Nội,Đống Đa
+339,0,Hà Nội,Thanh Xuân
+340,0,Hồ Chí Minh,Quận 3
+341,0,Hà Nội,Cầu Giấy
+342,0,Khánh Hoà,TP Nha Trang
+343,0,Hồ Chí Minh,Quận 7
+344,0,Hà Nội,Cầu Giấy
+345,0,Hà Nội,Hoàng Mai
+346,0,Hà Nội,Hoàng Mai
+347,0,Hà Nội,Nam Từ Liêm
+348,0,Hồ Chí Minh,Tân Bình
+349,0,Hồ Chí Minh,Tân Bình
+350,0,Hà Nội,Thanh Xuân
+351,0,Hà Nội,Cầu Giấy
+351,1,Hồ Chí Minh,Quận 7
+352,0,Hà Nội,Cầu Giấy
+352,1,Hồ Chí Minh,Quận 7
+353,0,Toàn Quốc,
+354,0,Hà Nội,Nam Từ Liêm
+355,0,Hà Nội,Ba Đình
+356,0,Hà Nội,Bắc Từ Liêm
+357,0,Hà Nội,Bắc Từ Liêm
+358,0,Hà Nội,Bắc Từ Liêm
+359,0,Hồ Chí Minh,
+360,0,Hồ Chí Minh,Quận 1
+361,0,Hà Nội,Hai Bà Trưng
+362,0,Hồ Chí Minh,Quận 1
+363,0,Hà Nội,Nam Từ Liêm
+364,0,Hà Nội,Cầu Giấy
+365,0,Hà Nội,Cầu Giấy
+366,0,Hà Nội,
+367,0,Hồ Chí Minh,Quận 1
+368,0,Hồ Chí Minh,Thủ Đức
+369,0,Hà Nội,Cầu Giấy
+370,0,Hà Nội,Hà Đông
+371,0,Hồ Chí Minh,Quận 3
+372,0,Hồ Chí Minh,Quận 3
+373,0,Hồ Chí Minh,Quận 3
+374,0,Hà Nội,
+375,0,Tây Ninh,Trảng Bàng
+376,0,Hà Nội,Cầu Giấy
+377,0,Hà Nội,Cầu Giấy
+378,0,Hà Nội,Cầu Giấy
+379,0,Hà Nội,Hà Đông
+380,0,Hà Nội,Cầu Giấy
+381,0,Hồ Chí Minh,Quận 3
+382,0,Hà Nội,Hai Bà Trưng
+383,0,Hồ Chí Minh,Thủ Đức
+384,0,Hồ Chí Minh,Thủ Đức
+385,0,Hồ Chí Minh,Tân Bình
+386,0,Hồ Chí Minh,Quận 12
+387,0,Hồ Chí Minh,Thủ Đức
+388,0,Đà Nẵng,Ngũ Hành Sơn
+389,0,Hồ Chí Minh,Quận 1
+390,0,Hà Nội,Thanh Trì
+391,0,Hà Nội,
+392,0,Long An,Bến Lức
+393,0,Hồ Chí Minh,Bình Thạnh
+394,0,Nước Ngoài,Hà Nội
+394,1,Nam Từ Liêm,
+395,0,Hà Nội,Cầu Giấy
+396,0,Hà Nội,Cầu Giấy
+397,0,Hà Nội,
+398,0,Nước Ngoài,Hà Nội
+398,1,Nam Từ Liêm,
+399,0,Đồng Nai,Trảng Bom
+400,0,Hà Nội,Đống Đa
+401,0,Hà Nội,Hoàng Mai
+402,0,Hồ Chí Minh,Quận 9
+403,0,Hà Nội,Cầu Giấy
+404,0,Hà Nội,Cầu Giấy
+405,0,Hồ Chí Minh,Thủ Đức
+406,0,Hà Nội,Đống Đa
+407,0,Hà Nội,
+408,0,Hà Nội,Thanh Xuân
+409,0,Hà Nội,Cầu Giấy
+410,0,Hà Nội,Từ Liêm
+411,0,Hồ Chí Minh,Quận 12
+412,0,Hà Nội,Từ Liêm
+413,0,Hà Nội,Nam Từ Liêm
+414,0,Hà Nội,Nam Từ Liêm
+415,0,Hà Nội,Nam Từ Liêm
+416,0,Hà Nội,Nam Từ Liêm
+417,0,Hà Nội,Cầu Giấy
+418,0,Hà Nội,Cầu Giấy
+419,0,Hà Nội,Cầu Giấy
+420,0,Hồ Chí Minh,Quận 2
+421,0,Hà Nội,Nam Từ Liêm
+422,0,Hà Nội,Nam Từ Liêm
+423,0,Hà Nội,Hồ Chí Minh
+424,0,Hồ Chí Minh,Quận 2
+425,0,Hà Nội,Tây Hồ
+426,0,Hồ Chí Minh,Quận 12
+427,0,Hà Nội,Nam Từ Liêm
+428,0,Hà Nội,Cầu Giấy
+429,0,Hà Nội,Cầu Giấy
+430,0,Hà Nội,Cầu Giấy
+431,0,Hà Nội,Cầu Giấy
+432,0,Hà Nội,Cầu Giấy
+433,0,Hà Nội,Đống Đa
+434,0,Đà Nẵng,
+435,0,Hồ Chí Minh,Quận 9
+435,1,Hà Nội,Cầu Giấy
+435,2,Đà Nẵng,Ngũ Hành Sơn
+435,3,Thừa Thiên Huế,TP Huế
+436,0,Hồ Chí Minh,Bình Thạnh
+437,0,Đà Nẵng,
+438,0,Hà Nội,Thanh Xuân
+439,0,Hà Nội,Thanh Xuân
+440,0,Hà Nội,Thanh Xuân
+441,0,Hà Nội,Thanh Xuân
+442,0,Hà Nội,Thanh Xuân
+443,0,Hồ Chí Minh,Tân Bình
+444,0,Hà Nội,Cầu Giấy
+445,0,Hồ Chí Minh,Quận 3
+446,0,Hà Nội,Nam Từ Liêm
+447,0,Hà Nội,
+448,0,Hà Nội,Ba Đình
+449,0,Đồng Nai,Biên Hoà
+450,0,Hà Nội,Thanh Xuân
+450,1,Hồ Chí Minh,Quận 7
+450,2,Hải Dương,TP Hải Dương
+451,0,Hà Nội,Thanh Xuân
+451,1,Hồ Chí Minh,Quận 7
+451,2,Hải Dương,TP Hải Dương
+452,0,Hà Nội,Thanh Xuân
+452,1,Hồ Chí Minh,Quận 7
+452,2,Hải Dương,TP Hải Dương
+453,0,Hồ Chí Minh,Quận 10
+454,0,Hà Nội,
+455,0,Hồ Chí Minh,Bình Thạnh
+456,0,Hồ Chí Minh,
+457,0,Hồ Chí Minh,Quận 7
+458,0,Hồ Chí Minh,Quận 10
+459,0,Hồ Chí Minh,
+460,0,Hà Nội,Hà Đông
+461,0,Hà Nội,Thanh Xuân
+462,0,Hồ Chí Minh,Quận 10
+463,0,Hà Nội,Thanh Xuân
+464,0,Hồ Chí Minh,
+465,0,Hà Nội,Cầu Giấy
+466,0,Hồ Chí Minh,Quận 2
+467,0,Hồ Chí Minh,Tân Bình
+468,0,Hồ Chí Minh,Tân Bình
+469,0,Hồ Chí Minh,Bình Thạnh
+469,1,Đà Nẵng,Cẩm Lệ
+470,0,Hà Nội,Ba Đình
+470,1,Hồ Chí Minh,Tân Bình
+471,0,Hồ Chí Minh,Tân Bình
+472,0,Hồ Chí Minh,Tân Bình
+473,0,Hồ Chí Minh,Tân Bình
+473,1,Hà Nội,Ba Đình
+474,0,Hồ Chí Minh,Tân Bình
+475,0,Hồ Chí Minh,Tân Bình
+476,0,Hà Nội,Thanh Xuân
+477,0,Hà Nội,Đống Đa
+478,0,Hà Nội,Cầu Giấy
+479,0,Hồ Chí Minh,Tân Bình
+480,0,Hà Nội,Nam Từ Liêm
+481,0,Hà Nội,Nam Từ Liêm
+482,0,Hà Nội,Nam Từ Liêm
+483,0,Hà Nội,Cầu Giấy
+484,0,Hà Nội,Hà Đông
+485,0,Hà Nội,Hà Đông
+486,0,Hà Nội,Nam Từ Liêm
+487,0,Hồ Chí Minh,Tân Bình
+488,0,Hồ Chí Minh,Tân Bình
+489,0,Hồ Chí Minh,Gò Vấp
+490,0,Hà Nội,Hai Bà Trưng
+491,0,Hà Nội,Hồ Chí Minh
+492,0,Hà Nội,Hà Đông
+493,0,Hà Nội,Hồ Chí Minh
+494,0,Hà Nội,Hồ Chí Minh
+495,0,Hà Nội,Hồ Chí Minh
+496,0,Hà Nội,Hồ Chí Minh
+497,0,Hà Nội,Đà Nẵng
+497,1,Hồ Chí Minh,
+498,0,Hồ Chí Minh,Quận 1
+499,0,Hồ Chí Minh,Quận 1
+500,0,Hồ Chí Minh,
+501,0,Hà Nội,Cầu Giấy
+502,0,Hà Nội,Đống Đa
+503,0,Hà Nội,Thanh Xuân
+504,0,Hà Nội,
+505,0,Hà Nội,Cầu Giấy
+506,0,Hà Nội,Cầu Giấy
+507,0,Hà Nội,
+508,0,Hồ Chí Minh,
+509,0,Hà Nội,
+510,0,Hà Nội,Cầu Giấy
+511,0,Bình Dương,Tân Uyên
+512,0,Hà Nội,Hai Bà Trưng
+513,0,Hà Nội,Hai Bà Trưng
+514,0,Hà Nội,Đống Đa
+515,0,Hà Nội,Cầu Giấy
+515,1,Hồ Chí Minh,Quận 9
+516,0,Hồ Chí Minh,Quận 12
+517,0,Hà Nội,Cầu Giấy
+518,0,Hà Nội,Thanh Xuân
+519,0,Hà Nội,Hai Bà Trưng
+520,0,Hà Nội,Cầu Giấy
+521,0,Hồ Chí Minh,Quận 10
+522,0,Hà Nội,Nam Từ Liêm
+523,0,Hồ Chí Minh,Quận 9
+524,0,Hà Nội,
+525,0,Hồ Chí Minh,Quận 3
+526,0,Hà Nội,
+527,0,Hồ Chí Minh,Quận 3
+528,0,Hồ Chí Minh,
+529,0,Hồ Chí Minh,Tân Bình
+530,0,Hồ Chí Minh,Gò Vấp
+531,0,Hà Nội,Thanh Xuân
+532,0,Hồ Chí Minh,Quận 10
+532,1,Hà Nội,Nam Từ Liêm
+533,0,Hồ Chí Minh,Quận 10
+534,0,Hà Nội,Hai Bà Trưng
+535,0,Hồ Chí Minh,
+536,0,Hà Nội,Tây Hồ
+537,0,Hồ Chí Minh,Gò Vấp
+538,0,Hà Nội,Cầu Giấy
+539,0,Hồ Chí Minh,Tân Bình
+540,0,Hà Nội,Hai Bà Trưng
+541,0,Hà Nội,
+542,0,Đà Nẵng,Ngũ Hành Sơn
+543,0,Đà Nẵng,Ngũ Hành Sơn
+544,0,Đà Nẵng,Ngũ Hành Sơn
+545,0,Đồng Nai,
+546,0,Hà Nội,Cầu Giấy
+547,0,Hà Nội,Hoàng Mai
+548,0,Hà Nội,Đống Đa
+549,0,Hà Nội,Thanh Xuân
+550,0,Hà Nội,Cầu Giấy
+551,0,Hà Nội,Thanh Xuân
+552,0,Hồ Chí Minh,Quận 4
+553,0,Lâm Đồng,TP Đà Lạt
+554,0,Hà Nội,Cầu Giấy
+555,0,Nghệ An,TP Vinh
+556,0,Hà Nam,Duy Tiên
+556,1,Hà Nam,Thanh Liêm
+557,0,Hồ Chí Minh,Quận 3
+558,0,Hồ Chí Minh,Tân Bình
+559,0,Bắc Ninh,Quế Võ
+560,0,Hồ Chí Minh,Gò Vấp
+561,0,Hà Nội,Hà Đông
+562,0,Hồ Chí Minh,Tân Bình
+563,0,Hà Nội,Ba Đình
+564,0,Hà Nội,Ba Đình
+565,0,Hồ Chí Minh,Bình Thạnh
+566,0,Đồng Tháp,Cao Lãnh
+567,0,Đồng Tháp,Cao Lãnh
+568,0,Hà Nội,Tây Hồ
+569,0,Đồng Tháp,Cao Lãnh
+570,0,Hồ Chí Minh,Đà Nẵng
+571,0,Hà Nội,Cầu Giấy
+572,0,Hà Nội,Thanh Xuân
+573,0,Hà Nội,Đống Đa
+574,0,Hà Nội,Cầu Giấy
+575,0,Hà Nội,Cầu Giấy
+576,0,Hồ Chí Minh,Thủ Đức
+577,0,Hà Nội,Nam Từ Liêm
+578,0,Hồ Chí Minh,Quận 1
+579,0,Hà Nội,Cầu Giấy
+580,0,Long An,Bến Lức
+581,0,Thanh Hoá,TP Thanh Hoá
+582,0,Thanh Hoá,TP Thanh Hoá
+583,0,Hà Nội,
+584,0,Hà Nội,Cầu Giấy
+585,0,Hà Nội,Thanh Xuân
+586,0,Hà Nội,Thanh Xuân
+587,0,Hà Nội,Cầu Giấy
+588,0,Hà Nội,Nam Từ Liêm
+589,0,Tiền Giang,
+590,0,Hà Nội,Nam Từ Liêm
+591,0,Hà Nội,Nam Từ Liêm
+592,0,Hồ Chí Minh,Quận 7
+593,0,Hồ Chí Minh,Bình Thạnh
+594,0,Hà Nội,
+595,0,Hồ Chí Minh,Thủ Đức
+596,0,Hà Nội,Nam Từ Liêm
+597,0,Hồ Chí Minh,Bình Thạnh
+598,0,Hà Nội,Nam Từ Liêm
+599,0,Hà Nội,Nam Từ Liêm
+600,0,Hồ Chí Minh,Bình Thạnh
+601,0,Hà Nội,Cầu Giấy
+602,0,Hồ Chí Minh,Quận 2
+602,1,Hồ Chí Minh,Bình Thạnh
+602,2,Hồ Chí Minh,Quận 3
+602,3,Hồ Chí Minh,Phú Nhuận
+602,4,Hồ Chí Minh,Gò Vấp
+602,5,Hồ Chí Minh,Tân Bình
+602,6,Hồ Chí Minh,Tân Phú
+602,7,Hồ Chí Minh,Bình Tân
+602,8,Hồ Chí Minh,Quận 11
+602,9,Hồ Chí Minh,Quận 7
+602,10,Bình Dương,Thủ Dầu Một
+603,0,Hồ Chí Minh,Bình Tân
+603,1,Hồ Chí Minh,Gò Vấp
+603,2,Hồ Chí Minh,Quận 2
+603,3,Hồ Chí Minh,Quận 7
+603,4,Hồ Chí Minh,Bình Thạnh
+603,5,Hồ Chí Minh,Quận 3
+603,6,Hồ Chí Minh,Tân Bình
+603,7,Hồ Chí Minh,Phú Nhuận
+603,8,Hồ Chí Minh,Tân Phú
+603,9,Hồ Chí Minh,Quận 11
+603,10,Bình Dương,Thủ Dầu Một
+604,0,Hà Nội,Đà Nẵng
+604,1,Hồ Chí Minh,
+605,0,Hà Nội,Hà Đông
+606,0,Hà Nội,Hồ Chí Minh
+607,0,Hà Nội,Cầu Giấy
+608,0,Hà Nội,Hoàng Mai
+609,0,Hà Nội,Đống Đa
+610,0,Hà Nội,Hà Đông
+611,0,Hồ Chí Minh,Thủ Đức
+611,1,Hồ Chí Minh,Nhà Bè
+611,2,Hồ Chí Minh,Quận 6
+611,3,Hồ Chí Minh,Quận 7
+611,4,Hồ Chí Minh,Quận 12
+611,5,Hồ Chí Minh,Bình Chánh
+612,0,Hà Nội,
+613,0,Hồ Chí Minh,Quận 12
+614,0,Hà Nội,Thanh Xuân
+615,0,Hà Nội,Thanh Xuân
+616,0,Hà Nội,Thanh Xuân
+617,0,Hà Nội,Hoàng Mai
+618,0,Hà Nội,Bắc Từ Liêm
+619,0,Hà Nội,Thanh Xuân
+620,0,Hồ Chí Minh,Quận 1
+621,0,Hà Nội,Cầu Giấy
+622,0,Hà Nội,Hồ Chí Minh
+623,0,Hà Nội,Cầu Giấy
+624,0,Thanh Hoá,TP Thanh Hoá
+625,0,Hà Nội,Thanh Xuân
+626,0,Hà Nội,
+627,0,Hà Nội,Cầu Giấy
+628,0,Hà Nội,Cầu Giấy
+629,0,Hà Nội,Cầu Giấy
+630,0,Hà Nội,
+631,0,Hà Nội,Cầu Giấy
+632,0,Hưng Yên,Văn Giang
+632,1,Hà Nội,Nam Từ Liêm
+633,0,Hà Nội,Hoàng Mai
+634,0,Hồ Chí Minh,Tân Bình
+635,0,Hà Nội,Cầu Giấy
+636,0,Hà Nội,Tây Hồ
+637,0,Hà Nội,Thanh Trì
+638,0,Hồ Chí Minh,Quận 1
+639,0,Hà Nội,Cầu Giấy
+640,0,Hà Nội,Đống Đa
+641,0,Hà Nội,Hà Đông
+642,0,Hà Nội,Đống Đa
+643,0,Hà Nội,
+644,0,Hồ Chí Minh,Phú Nhuận
+645,0,Hà Nội,Cầu Giấy
+646,0,Hà Nội,Cầu Giấy
+647,0,Hà Nội,Từ Liêm
+648,0,Hà Nội,Hai Bà Trưng
+649,0,Hà Nội,Nam Từ Liêm
+650,0,Hà Nội,Hoàn Kiếm
+651,0,Hà Nội,Cầu Giấy
+651,1,Hồ Chí Minh,Thủ Đức
+652,0,Hồ Chí Minh,
+653,0,Bình Định,TP Quy Nhơn
+654,0,Hà Nội,Ba Đình
+655,0,Hà Nội,
+656,0,Hà Nội,Hà Đông
+657,0,Hà Nội,Hà Đông
+658,0,Hồ Chí Minh,Bình Thạnh
+659,0,Hà Nội,Tây Hồ
+660,0,Hà Nội,Đống Đa
+661,0,Hà Nội,Cầu Giấy
+662,0,Hà Nội,Thanh Xuân
+663,0,Hà Nội,Hai Bà Trưng
+664,0,Hà Nội,Cầu Giấy
+665,0,Hồ Chí Minh,Tân Bình
+666,0,Hà Nội,Hai Bà Trưng
+667,0,Hà Nội,Từ Liêm
+668,0,Hà Nội,Thanh Xuân
+669,0,Hà Nội,Cầu Giấy
+670,0,Hồ Chí Minh,Quận 2
+671,0,Hà Nội,
+672,0,Hà Nội,Nam Từ Liêm
+673,0,Hà Nội,Thanh Xuân
+674,0,Hà Nội,Thanh Xuân
+675,0,Hà Nội,Thanh Xuân
+676,0,Hà Nội,Cầu Giấy
+676,1,Hồ Chí Minh,Tân Bình
+677,0,Hà Nội,Đống Đa
+678,0,Bình Dương,Thuận An
+679,0,Hồ Chí Minh,
+680,0,Hồ Chí Minh,
+681,0,Hà Nội,Đống Đa
+682,0,Hà Nội,
+683,0,Hà Nội,Nam Từ Liêm
+684,0,Hồ Chí Minh,
+685,0,Hà Nội,Cầu Giấy
+686,0,Hà Nội,Nam Từ Liêm
+687,0,Hà Nội,Nam Từ Liêm
+688,0,Hà Nội,Cầu Giấy
+689,0,Hà Nội,Cầu Giấy
+690,0,Hà Nội,Cầu Giấy
+691,0,Hà Nội,Từ Liêm
+692,0,Hà Nội,
+693,0,Hồ Chí Minh,Quận 8
+694,0,Hà Nội,Cầu Giấy
+695,0,Hồ Chí Minh,Quận 3
+696,0,Hà Nội,Nam Từ Liêm
+697,0,Hà Nội,Nam Từ Liêm
+698,0,Hà Nội,Hai Bà Trưng
+699,0,Hà Nội,Hai Bà Trưng
+700,0,Hà Nội,Thanh Xuân
+701,0,Hà Nội,Đống Đa
+702,0,Hồ Chí Minh,Quận 4
+703,0,Bình Dương,Tân Uyên
+704,0,Hà Nội,Nam Từ Liêm
+705,0,Hà Nội,Hoàng Mai
+706,0,Hà Nội,Bắc Từ Liêm
+707,0,Hà Nội,Nam Từ Liêm
+707,1,Hà Nội,Hoàng Mai
+708,0,Hà Nội,
+709,0,Hà Nội,Bắc Từ Liêm
+710,0,Hà Nội,Cầu Giấy
+711,0,Hà Nội,Long Biên
+712,0,Đà Nẵng,Ngũ Hành Sơn
+713,0,Hà Nội,Long Biên
+714,0,Hà Nội,Đống Đa
+715,0,Hà Nội,Thanh Xuân
+716,0,Hồ Chí Minh,Tân Bình
+717,0,Hồ Chí Minh,Quận 12
+718,0,Hồ Chí Minh,Quận 7
+719,0,Hồ Chí Minh,Quận 4
+719,1,Hà Nội,Cầu Giấy
+720,0,Hồ Chí Minh,Quận 4
+721,0,Hà Nội,Cầu Giấy
+721,1,Hồ Chí Minh,Quận 4
+722,0,Hà Nội,Đống Đa
+723,0,Hà Nội,Cầu Giấy
+724,0,Hà Nội,Cầu Giấy
+725,0,Hà Nội,Đống Đa
+726,0,Hà Nội,Cầu Giấy
+727,0,Hà Nội,Bắc Từ Liêm
+728,0,Hồ Chí Minh,Phú Nhuận
+729,0,Hồ Chí Minh,Phú Nhuận
+730,0,Hà Nội,Bắc Từ Liêm
+731,0,Hà Nội,Nam Từ Liêm
+732,0,Hồ Chí Minh,Quận 2
+733,0,Hà Nội,Đống Đa
+734,0,Hồ Chí Minh,Bình Thạnh
+735,0,Hồ Chí Minh,Bình Thạnh
+736,0,Hồ Chí Minh,Quận 2
+737,0,Hà Nội,Đống Đa
+738,0,Hồ Chí Minh,Quận 7
+739,0,Hà Nội,
+740,0,Hồ Chí Minh,Quận 10
+741,0,Hồ Chí Minh,Tân Bình
+742,0,Hà Nội,Đống Đa
+743,0,Hà Nội,Đống Đa
+744,0,Hồ Chí Minh,Quận 1
+745,0,Hồ Chí Minh,Quận 10
+746,0,Hà Nội,Thanh Xuân
+747,0,Hà Nội,Bắc Từ Liêm
+748,0,Hà Nội,Thanh Xuân
+749,0,Hà Nội,Cầu Giấy
+749,1,Hà Nội,Thanh Xuân
+750,0,Hà Nội,Từ Liêm
+751,0,Hà Nội,Nam Từ Liêm
+752,0,Hà Nội,Thanh Xuân
+753,0,Hà Nội,Thanh Xuân
+754,0,Hà Nội,
+755,0,Hồ Chí Minh,Quận 3
+756,0,Hà Nội,Hai Bà Trưng
+757,0,Hồ Chí Minh,Bình Thạnh
+758,0,Hồ Chí Minh,Thủ Đức
+759,0,Hà Nội,Nam Từ Liêm
+760,0,Hồ Chí Minh,Quận 1
+761,0,Hà Nội,Tây Hồ
+762,0,Hà Nội,Đống Đa
+763,0,Hà Nội,Cầu Giấy
+764,0,Hà Nội,Cầu Giấy
+765,0,Hà Nội,Nam Từ Liêm
+766,0,Hà Nội,Cầu Giấy
+767,0,Hà Nội,Cầu Giấy
+768,0,Hồ Chí Minh,Quận 4
+769,0,Hà Nội,Nam Từ Liêm
+770,0,Hà Nội,
+771,0,Hồ Chí Minh,Quận 1
+772,0,Bình Dương,Thủ Dầu Một
+773,0,Hà Nội,Hai Bà Trưng
+774,0,Hà Nội,Thanh Xuân
+775,0,Hồ Chí Minh,Quận 5
+776,0,Hà Nội,Nam Từ Liêm
+777,0,Hà Nội,Nam Từ Liêm
+778,0,Hà Nội,
+779,0,Hà Nội,Nam Từ Liêm
+780,0,Hà Nội,
+781,0,Hà Nội,
+782,0,Hà Nội,
+783,0,Hà Nội,
+784,0,Hà Nội,Nam Từ Liêm
+785,0,Đà Nẵng,Hải Châu
+786,0,Hồ Chí Minh,Gò Vấp
+786,1,Đà Nẵng,Sơn Trà
+786,2,Hà Nội,Đống Đa
+787,0,Hồ Chí Minh,Quận 5
+788,0,Hồ Chí Minh,Bình Thạnh
+789,0,Hà Nội,Cầu Giấy
+790,0,Hà Nội,Cầu Giấy
+791,0,Hà Nội,Cầu Giấy
+792,0,Hà Nội,Cầu Giấy
+793,0,Hà Nội,Nam Từ Liêm
+794,0,Hà Nội,Đống Đa
+795,0,Hà Nội,Đống Đa
+796,0,Hà Nội,Đống Đa
+797,0,Hà Nội,Cầu Giấy
+798,0,Hà Nội,
+799,0,Hà Nội,Ba Đình
+800,0,Hà Nội,Cầu Giấy
+801,0,Hà Nội,Cầu Giấy
+802,0,Hà Nội,Cầu Giấy
+803,0,Hồ Chí Minh,Tân Bình
+804,0,Hà Nội,Thanh Xuân
+805,0,Hà Nội,Hà Đông
+806,0,Hà Nội,
+807,0,Hà Nội,Thạch Thất
+808,0,Hà Nội,Cầu Giấy
+809,0,Hà Nội,Cầu Giấy
+810,0,Hà Nội,Bắc Từ Liêm
+811,0,Hồ Chí Minh,Tân Bình
+812,0,Đà Nẵng,Ngũ Hành Sơn
+813,0,Hà Nội,Cầu Giấy
+814,0,Hà Nội,Ba Đình
+815,0,Hà Nội,Ba Đình
+816,0,Hà Nội,Ba Đình
+817,0,Hà Nội,Ba Đình
+818,0,Hà Nội,Ba Đình
+819,0,Hà Nội,Ba Đình
+820,0,Hà Nội,Nam Từ Liêm
+821,0,Hồ Chí Minh,
+822,0,Hồ Chí Minh,Thủ Đức
+823,0,Hà Nội,Thanh Xuân
+824,0,Hà Nội,Cầu Giấy
+825,0,Hải Phòng,Lê Chân
+826,0,Hà Nội,Tây Hồ
+827,0,Hồ Chí Minh,Bình Thạnh
+828,0,Hồ Chí Minh,Phú Nhuận
+829,0,Hồ Chí Minh,Tân Bình
+830,0,Hà Nội,Nam Từ Liêm
+831,0,Hồ Chí Minh,Tân Bình
+832,0,Hồ Chí Minh,Phú Nhuận
+832,1,Đà Nẵng,Thanh Khê
+833,0,Hồ Chí Minh,Phú Nhuận
+833,1,Đà Nẵng,Thanh Khê
+834,0,Hà Nội,Đống Đa
+835,0,Hà Nội,Từ Liêm
+836,0,Hà Nội,Tây Hồ
+837,0,Hà Nội,Ba Đình
+838,0,Thanh Hoá,Thạch Thành
+839,0,Hà Nội,
+840,0,Hà Nội,Thanh Xuân
+841,0,Hà Nội,Thanh Xuân
+842,0,Hà Nội,
+843,0,Hà Nội,Nam Từ Liêm
+844,0,Hà Nội,Hồ Chí Minh
+844,1,Đà Nẵng,
+845,0,Hà Nội,Hồ Chí Minh
+845,1,Đà Nẵng,
+846,0,Hà Nội,Cầu Giấy
+847,0,Hà Nội,Đống Đa
+848,0,Hà Nội,Cầu Giấy
+849,0,Hà Nội,Tây Hồ
+850,0,Hồ Chí Minh,Tân Bình
+851,0,Hà Nội,Cầu Giấy
+852,0,Hà Nội,Nam Từ Liêm
+853,0,Hà Nội,Cầu Giấy
+854,0,Hà Nội,Cầu Giấy
+854,1,Hồ Chí Minh,Phú Nhuận
+855,0,Hồ Chí Minh,Bình Thạnh
+856,0,Hồ Chí Minh,Quận 1
+857,0,Hà Nội,Đống Đa
+858,0,Hà Nội,Từ Liêm
+859,0,Hà Nội,Nam Từ Liêm
+860,0,Hà Nội,Cầu Giấy
+861,0,Hồ Chí Minh,Quận 10
+862,0,Hà Nội,Nam Từ Liêm
+862,1,Hồ Chí Minh,Tân Bình
+863,0,Hà Nội,Nam Từ Liêm
+864,0,Hà Nội,
+865,0,Hải Phòng,Ngô Quyền
+866,0,Bắc Ninh,TP Bắc Ninh
+867,0,Hồ Chí Minh,Tân Bình
+868,0,Hà Nội,Cầu Giấy
+869,0,Hà Nội,Cầu Giấy
+870,0,Hà Nội,Đống Đa
+871,0,Hà Tĩnh,
+872,0,Hồ Chí Minh,Bình Thạnh
+873,0,Hà Nội,Đống Đa
+874,0,Hồ Chí Minh,Bình Thạnh
+875,0,Hồ Chí Minh,Bình Thạnh
+876,0,Hà Nội,Thanh Xuân
+877,0,Hà Nội,Cầu Giấy
+878,0,Hà Nội,Thanh Xuân
+879,0,Hà Nội,Cầu Giấy
+880,0,Hà Nội,Cầu Giấy
+881,0,Hà Nội,Cầu Giấy
+882,0,Hà Nội,Cầu Giấy
+883,0,Nước Ngoài,
+884,0,Hà Nội,Cầu Giấy
+885,0,Hồ Chí Minh,
+886,0,Hà Nội,Hoàng Mai
+887,0,Hà Nội,
+888,0,Hà Nội,Đống Đa
+889,0,Hồ Chí Minh,Tân Bình
+890,0,Hà Nội,Mê Linh
+891,0,Hà Nội,Hồ Chí Minh
+891,1,Đà Nẵng,
+892,0,Hà Nội,Hồ Chí Minh
+892,1,Đà Nẵng,
+893,0,Hà Nội,Hồ Chí Minh
+893,1,Đà Nẵng,
+894,0,Hà Nội,Hồ Chí Minh
+894,1,Đà Nẵng,
+895,0,Hà Nội,Hồ Chí Minh
+896,0,Hà Nội,Hồ Chí Minh
+896,1,Đà Nẵng,
+897,0,Bình Dương,Thuận An
+898,0,Nước Ngoài,
+899,0,Hà Nội,Thanh Xuân
+900,0,Hà Nội,
+901,0,Hà Nội,Cầu Giấy
+901,1,Hà Nội,Nam Từ Liêm
+902,0,Bình Dương,Thủ Dầu Một
+903,0,Hà Nội,Từ Liêm
+904,0,Hà Nội,Thanh Xuân
+905,0,Hồ Chí Minh,Quận 12
+906,0,Hồ Chí Minh,Quận 3
+907,0,Hồ Chí Minh,Bình Thạnh
+908,0,Hà Nội,Cầu Giấy
+909,0,Hà Nội,Ba Đình
+910,0,Hồ Chí Minh,Quận 7
+911,0,Hà Nội,
+912,0,Hà Nội,
+913,0,Hà Nội,Cầu Giấy
+914,0,Hà Nội,Cầu Giấy
+915,0,Hà Nội,Cầu Giấy
+916,0,Hồ Chí Minh,Tân Bình
+917,0,Hà Nội,Cầu Giấy
+918,0,Hồ Chí Minh,Quận 10
+919,0,Hồ Chí Minh,Quận 7
+920,0,Đà Nẵng,Sơn Trà
+921,0,Hà Nội,Cầu Giấy
+922,0,Hà Nội,Cầu Giấy
+923,0,Hà Nội,Cầu Giấy
+924,0,Hà Nội,Cầu Giấy
+925,0,Hà Nội,Cầu Giấy
+926,0,Hồ Chí Minh,
+927,0,Hồ Chí Minh,Tân Bình
+928,0,Hà Nội,Nam Từ Liêm
+929,0,Bình Dương,Thủ Dầu Một
+930,0,Hà Nội,Hai Bà Trưng
+931,0,Hà Nội,Cầu Giấy
+932,0,Hà Nội,Cầu Giấy
+933,0,Hà Nội,
+934,0,Hồ Chí Minh,
+935,0,Hà Nội,Thanh Xuân
+936,0,Hà Nội,Đống Đa
+937,0,Hồ Chí Minh,Bình Dương
+938,0,Hồ Chí Minh,Phú Nhuận
+939,0,Hà Nội,
+940,0,Hồ Chí Minh,Quận 3
+941,0,Hà Nội,Cầu Giấy
+942,0,Hà Nội,Đống Đa
+943,0,Hồ Chí Minh,Quận 1
+944,0,Hà Nội,Cầu Giấy
+945,0,Đà Nẵng,Thanh Khê
+946,0,Đà Nẵng,Thanh Khê
+947,0,Hồ Chí Minh,Quận 3
+948,0,Hà Nội,Thanh Xuân
+949,0,Hà Nội,Nam Từ Liêm
+950,0,Hà Nội,Cầu Giấy
+951,0,Hà Nội,Cầu Giấy
+952,0,Hà Nội,Sóc Sơn
+953,0,Hà Nội,Nam Từ Liêm
+954,0,Hà Nội,Cầu Giấy
+955,0,Hồ Chí Minh,Quận 1
+956,0,Hà Nội,Hoàng Mai
+957,0,Hà Nội,Hoàng Mai
+957,1,Hà Nội,Nam Từ Liêm
+958,0,Hồ Chí Minh,Quận 1
+959,0,Hà Nội,Nam Từ Liêm
+960,0,Đà Nẵng,Hải Châu
+961,0,Hà Nội,Nam Từ Liêm
+962,0,Hà Nội,Hoàng Mai
+963,0,Hà Nội,Nam Từ Liêm
+963,1,Hà Nội,Hoàng Mai
+964,0,Hồ Chí Minh,Thủ Đức
+965,0,Hà Nội,Cầu Giấy
+966,0,Hà Nội,Cầu Giấy
+967,0,Đà Nẵng,Sơn Trà
+968,0,Đà Nẵng,Sơn Trà
+969,0,Đà Nẵng,Sơn Trà
+970,0,Hà Nội,
+971,0,Hồ Chí Minh,Bình Chánh
+972,0,Hà Nội,
+973,0,Hà Nội,Cầu Giấy
+974,0,Hồ Chí Minh,Tân Bình
+975,0,Hà Nội,Đống Đa
+976,0,Hồ Chí Minh,Quận 9
+977,0,Hà Nội,Hai Bà Trưng
+978,0,Hồ Chí Minh,Quận 3
+979,0,Hồ Chí Minh,Phú Nhuận
+980,0,Hồ Chí Minh,Tân Bình
+981,0,Hà Nội,Đống Đa
+982,0,Bình Dương,
+983,0,Đà Nẵng,Liên Chiểu
+984,0,Hà Nội,Cầu Giấy
+984,1,Hà Nội,Hoàn Kiếm
+985,0,Hà Nội,Từ Liêm
+985,1,Hồ Chí Minh,Tân Bình
+986,0,Hà Nội,Ba Đình
+987,0,Hồ Chí Minh,Bình Thạnh
+988,0,Hà Nội,Cầu Giấy
+989,0,Hà Nội,Cầu Giấy
+990,0,Hà Nội,Từ Liêm
+991,0,Hà Nội,Từ Liêm
+992,0,Hà Nội,
+993,0,Hà Nội,Bắc Từ Liêm
+994,0,Hà Nội,Bắc Từ Liêm
+995,0,Hà Nội,Bắc Từ Liêm
+996,0,Hà Nội,Bắc Từ Liêm
+997,0,Hồ Chí Minh,Quận 10
+998,0,Hồ Chí Minh,Bình Thạnh
+999,0,Hà Nội,Từ Liêm
+1000,0,Hà Nội,Đống Đa
+1001,0,Hồ Chí Minh,Tân Phú
+1002,0,Hà Nội,Đống Đa
+1003,0,Hà Nội,Thanh Xuân
+1004,0,Hà Nội,Nam Từ Liêm
+1005,0,Hồ Chí Minh,Quận 3
+1006,0,Hà Nội,Hai Bà Trưng
+1007,0,Hà Nội,Đống Đa
+1008,0,Hà Nội,Nam Từ Liêm
+1009,0,Hồ Chí Minh,Quận 7
+1010,0,Hồ Chí Minh,Bình Thạnh
+1011,0,Hồ Chí Minh,Tân Bình
+1012,0,Hà Nội,Bắc Từ Liêm
+1013,0,Nghệ An,TP Vinh
+1014,0,Hồ Chí Minh,Quận 1
+1015,0,Hồ Chí Minh,Phú Nhuận
+1016,0,Hồ Chí Minh,Phú Nhuận
+1017,0,Hồ Chí Minh,Phú Nhuận
+1018,0,Hà Nội,Đống Đa
+1019,0,Cần Thơ,Ninh Kiều
+1020,0,Hà Nội,Cầu Giấy
+1021,0,Hà Nội,Nam Từ Liêm
+1022,0,Hà Nội,Hai Bà Trưng
+1022,1,Đà Nẵng,Thanh Khê
+1023,0,Hà Nội,Đống Đa
+1024,0,Hồ Chí Minh,Tân Bình
+1025,0,Đà Nẵng,Cẩm Lệ
+1026,0,Hà Nội,Ba Đình
+1027,0,Hà Nội,Nam Từ Liêm
+1028,0,Hà Nội,
+1029,0,Hà Nội,Đống Đa
+1030,0,Hà Nội,Đống Đa
+1031,0,Hà Nội,
+1032,0,Hà Nội,Nam Từ Liêm
+1033,0,Bình Dương,Bến Cát
+1034,0,Hà Nội,Nam Từ Liêm
+1035,0,Hồ Chí Minh,Tân Bình
+1035,1,Đà Nẵng,Hải Châu
+1036,0,Hồ Chí Minh,Quận 7
+1037,0,Hồ Chí Minh,Tân Bình
+1038,0,Cần Thơ,
+1039,0,Hồ Chí Minh,Quận 7
+1039,1,Hồ Chí Minh,Quận 1
+1040,0,Hà Nội,Ba Đình
+1041,0,Hồ Chí Minh,Tân Bình
+1042,0,Hà Nội,Thanh Xuân
+1043,0,Hà Nội,Thanh Xuân
+1044,0,Hà Nội,
+1045,0,Hà Nội,
+1046,0,Hà Nội,
+1047,0,Hà Nội,
+1048,0,Hà Nội,Cầu Giấy
+1049,0,Hồ Chí Minh,Tân Bình
+1050,0,Hà Nội,Hai Bà Trưng
+1051,0,Hà Nội,Thanh Xuân
+1052,0,Hà Nội,Thanh Xuân
+1053,0,Hà Nội,Cầu Giấy
+1054,0,Hà Nội,Thanh Xuân
+1055,0,Hà Nội,Nam Từ Liêm
+1056,0,Hà Nội,Nam Từ Liêm
+1056,1,Hồ Chí Minh,Quận 1
+1057,0,Hà Nội,Đống Đa
+1058,0,Hà Nội,Nam Từ Liêm
+1059,0,Hồ Chí Minh,Phú Nhuận
+1060,0,Hà Nội,Cầu Giấy
+1061,0,Hà Nội,Cầu Giấy
+1062,0,Hà Nội,Cầu Giấy
+1063,0,Hà Nội,Cầu Giấy
+1064,0,Thừa Thiên Huế,TP Huế
+1065,0,Thừa Thiên Huế,TP Huế
+1066,0,Thừa Thiên Huế,TP Huế
+1066,1,Đà Nẵng,Ngũ Hành Sơn
+1067,0,Thừa Thiên Huế,TP Huế
+1068,0,Hà Nội,Cầu Giấy
+1069,0,Hà Nội,Ba Đình
+1070,0,Hà Nội,Cầu Giấy
+1071,0,Hà Nội,Thanh Xuân
+1072,0,Hà Nội,Cầu Giấy
+1073,0,Hà Nội,Cầu Giấy
+1074,0,Hồ Chí Minh,Tân Bình
+1075,0,Hà Nội,
+1076,0,Hà Nội,Đống Đa
+1077,0,Hà Nội,Đống Đa
+1078,0,Nước Ngoài,
+1079,0,Nước Ngoài,
+1080,0,Hồ Chí Minh,Tân Bình
+1081,0,Hà Nội,Hải Phòng
+1082,0,Hà Nội,Hoàng Mai
+1083,0,Hà Nội,Thanh Xuân
+1084,0,Hồ Chí Minh,Gò Vấp
+1085,0,Hồ Chí Minh,Bình Thạnh
+1086,0,Nước Ngoài,
+1087,0,Hà Nội,Cầu Giấy
+1088,0,Hà Nội,Cầu Giấy
+1089,0,Hà Nội,Cầu Giấy
+1090,0,Hà Nội,Từ Liêm
+1091,0,Đà Nẵng,Hải Châu
+1092,0,Hoà Bình,Lương Sơn
+1093,0,Hồ Chí Minh,Quận 7
+1094,0,Hà Nội,Đống Đa
+1094,1,Hồ Chí Minh,Quận 3
+1095,0,Hà Nội,Nam Từ Liêm
+1096,0,Hồ Chí Minh,Tân Bình
+1097,0,Hồ Chí Minh,Tân Bình
+1098,0,Hồ Chí Minh,Tân Bình
+1099,0,Hồ Chí Minh,Tân Bình
+1100,0,Hà Nội,
+1101,0,Hà Nội,Ba Đình
+1102,0,Hà Nội,Cầu Giấy
+1103,0,Hà Nội,Nam Từ Liêm
+1104,0,Hà Nội,Cầu Giấy
+1105,0,Hà Nội,Cầu Giấy
+1106,0,Hồ Chí Minh,Tân Phú
+1107,0,Hà Nội,
+1108,0,Hà Nội,
+1109,0,Hà Nội,Cầu Giấy
+1110,0,Hà Nội,Cầu Giấy
+1111,0,Hà Nội,Cầu Giấy
+1112,0,Hà Nội,Cầu Giấy
+1113,0,Hà Nội,Cầu Giấy
+1114,0,Hà Nội,Cầu Giấy
+1115,0,Hồ Chí Minh,Tân Bình
+1116,0,Hà Nội,Cầu Giấy
+1117,0,Hà Nội,Thanh Xuân
+1118,0,Hồ Chí Minh,Quận 3
+1119,0,Hồ Chí Minh,Quận 2
+1120,0,Hà Nội,Nam Từ Liêm
+1121,0,Hồ Chí Minh,Tân Bình
+1122,0,Hồ Chí Minh,Tân Bình
+1123,0,Hà Nội,Nam Từ Liêm
+1124,0,Hà Nội,Cầu Giấy
+1125,0,Hà Nội,Cầu Giấy
+1126,0,Hà Nội,Cầu Giấy
+1127,0,Hồ Chí Minh,Gò Vấp
+1128,0,Bình Dương,Thuận An
+1129,0,Hà Nội,Cầu Giấy
+1130,0,Hà Nội,Cầu Giấy
+1131,0,Hà Nội,Cầu Giấy
+1132,0,Hồ Chí Minh,Quận 2
+1133,0,Hà Nội,Nam Từ Liêm
+1134,0,Hà Nội,Đống Đa
+1135,0,Hà Nội,Cầu Giấy
+1136,0,Hồ Chí Minh,Quận 3
+1137,0,Hà Nội,Hoàng Mai
+1138,0,Hà Nội,Cầu Giấy
+1139,0,Hà Nội,Ba Đình
+1140,0,Hà Nội,Nam Từ Liêm
+1141,0,Hà Nội,Nam Từ Liêm
+1142,0,Hà Nội,Nam Từ Liêm
+1143,0,Hà Nội,Nam Từ Liêm
+1144,0,Đà Nẵng,Liên Chiểu
+1145,0,Hà Nội,Nam Từ Liêm
+1146,0,Hồ Chí Minh,Quận 7
+1147,0,Hà Nội,Thanh Xuân
+1148,0,Hà Nội,Nam Từ Liêm
+1149,0,Hà Nội,Nam Từ Liêm
+1150,0,Hồ Chí Minh,Bình Thạnh
+1151,0,Hà Nội,Đống Đa
+1152,0,Hà Nội,Nam Từ Liêm
+1153,0,Hà Nội,Cầu Giấy
+1154,0,Hồ Chí Minh,Quận 11
+1155,0,Hồ Chí Minh,Quận 1
+1156,0,Hồ Chí Minh,Tân Bình
+1157,0,Hà Nội,Hà Đông
+1158,0,Hà Nội,Nam Từ Liêm
+1159,0,Hà Nội,
+1160,0,Hà Nội,Nam Từ Liêm
+1161,0,Hồ Chí Minh,Tân Bình
+1162,0,Hà Nội,Nam Từ Liêm
+1162,1,Đà Nẵng,Hải Châu
+1163,0,Hà Nội,Cầu Giấy
+1164,0,Hà Nội,Nam Từ Liêm
+1165,0,Hà Nội,Thanh Xuân
+1166,0,Hồ Chí Minh,Quận 1
+1167,0,Hà Nội,Thanh Xuân
+1168,0,Hà Nội,Cầu Giấy
+1169,0,Hà Nội,Thanh Xuân
+1170,0,Hồ Chí Minh,Quận 10
+1171,0,Hồ Chí Minh,
+1172,0,Hà Nội,Ba Đình
+1173,0,Hồ Chí Minh,Phú Nhuận
+1174,0,Hà Nội,Cầu Giấy
+1175,0,Hà Nội,Thạch Thất
+1176,0,Hà Nội,
+1177,0,Bắc Giang,TP Bắc Giang
+1178,0,Hà Nội,Cầu Giấy
+1179,0,Hồ Chí Minh,Quận 1
+1180,0,Hà Nội,Thạch Thất
+1181,0,Hà Nội,Đống Đa
+1182,0,Hà Nội,Đống Đa
+1182,1,Hà Nội,Cầu Giấy
+1183,0,Hà Nội,Ba Đình
+1183,1,Hồ Chí Minh,Tân Bình
+1184,0,Hà Nội,
+1185,0,Hà Nội,
+1186,0,Hà Nội,Cầu Giấy
+1187,0,Hà Nội,Đống Đa
+1188,0,Hà Nội,Nam Từ Liêm
+1189,0,Hà Nội,Cầu Giấy
+1190,0,Hà Nội,Nam Từ Liêm
+1191,0,Thái Bình,TP Thái Bình
+1192,0,Hồ Chí Minh,Quận 2
+1193,0,Hồ Chí Minh,Quận 2
+1194,0,Hà Nội,
+1195,0,Hồ Chí Minh,Tân Bình
+1196,0,Hà Nội,Nam Từ Liêm
+1197,0,Hồ Chí Minh,Quận 5
+1198,0,Hồ Chí Minh,Quận 6
+1199,0,Hồ Chí Minh,Quận 1
+1200,0,Hà Nội,Hoàng Mai
+1201,0,Hà Nội,Hai Bà Trưng
+1202,0,Hà Nội,Hai Bà Trưng
+1203,0,Hồ Chí Minh,Tân Bình
+1204,0,Hà Nội,Hoàng Mai
+1205,0,Hà Nội,Hai Bà Trưng
+1206,0,Hà Nội,
+1207,0,Hồ Chí Minh,Bình Thạnh
+1208,0,Hồ Chí Minh,Bình Thạnh
+1209,0,Hồ Chí Minh,Quận 7
+1210,0,Hà Nội,
+1211,0,Hà Nội,Cầu Giấy
+1212,0,Hà Nội,Cầu Giấy
+1213,0,Hà Nội,Cầu Giấy
+1214,0,Hồ Chí Minh,
+1215,0,Nghệ An,
+1216,0,Hồ Chí Minh,Tân Bình
+1217,0,Nước Ngoài,
+1218,0,Nước Ngoài,
+1219,0,Hà Nội,Thanh Xuân
+1220,0,Hà Nội,Cầu Giấy
+1221,0,Hà Nội,Thanh Xuân
+1222,0,Hà Nội,Nam Từ Liêm
+1223,0,Hồ Chí Minh,Quận 4
+1224,0,Hà Nội,Cầu Giấy
+1225,0,Hà Nội,Đống Đa
+1226,0,Hà Nội,Cầu Giấy
+1227,0,Hà Nội,Hoàng Mai
+1227,1,Hồ Chí Minh,Thủ Đức
+1228,0,Hà Nội,Cầu Giấy
+1229,0,Hà Nội,Cầu Giấy
+1230,0,Hà Nội,Cầu Giấy
+1231,0,Hồ Chí Minh,Quận 5
+1232,0,Hà Nội,Nam Từ Liêm
+1233,0,Hà Nội,Nam Từ Liêm
+1234,0,Hà Nội,Thanh Xuân
+1235,0,Hà Nội,
+1236,0,Hồ Chí Minh,Phú Nhuận
+1237,0,Hà Nội,Hà Đông
+1238,0,Hà Nội,Hà Đông
+1239,0,Hồ Chí Minh,Nhà Bè
+1240,0,Hà Nội,Cầu Giấy
+1241,0,Hà Nội,Nam Từ Liêm
+1242,0,Hồ Chí Minh,Tân Bình
+1243,0,Hồ Chí Minh,
+1244,0,Hồ Chí Minh,Quận 10
+1245,0,Hồ Chí Minh,Quận 10
+1246,0,Hà Nội,Nam Từ Liêm
+1247,0,Hà Nội,Cầu Giấy
+1248,0,Hồ Chí Minh,Quận 10
+1249,0,Hồ Chí Minh,Quận 1
+1250,0,Hà Nội,Ba Đình
+1251,0,Hồ Chí Minh,Quận 5
+1252,0,Hà Nội,Thanh Xuân
+1253,0,Hà Nội,Cầu Giấy
+1254,0,Hồ Chí Minh,Quận 4
+1254,1,Hà Nội,Ba Đình
+1255,0,Hà Nội,Đông Anh
+1256,0,Hồ Chí Minh,Quận 7
+1257,0,Hà Nội,Nam Từ Liêm
+1258,0,Hồ Chí Minh,Tân Bình
+1259,0,Hồ Chí Minh,Quận 5
+1260,0,Hồ Chí Minh,Quận 5
+1261,0,Hà Nội,Thanh Xuân
+1262,0,Hồ Chí Minh,Quận 5
+1263,0,Hà Nội,Hoàng Mai
+1264,0,Hà Nội,Nam Từ Liêm
+1265,0,Hà Nội,Nam Từ Liêm
+1266,0,Hà Nội,Nam Từ Liêm
+1267,0,Hồ Chí Minh,Quận 7
+1268,0,Hồ Chí Minh,Bình Thạnh
+1269,0,Hà Nội,Hai Bà Trưng
+1270,0,Hà Nội,Cầu Giấy
+1271,0,Hà Nội,Thanh Xuân
+1272,0,Hà Nội,Cầu Giấy
+1273,0,Hồ Chí Minh,Tân Bình
+1274,0,Hà Nội,Nam Từ Liêm
+1275,0,Hà Nội,Hà Đông
+1276,0,Hà Nội,Hồ Chí Minh
+1277,0,Hồ Chí Minh,Hà Nội
+1278,0,Hà Nội,Cầu Giấy
+1279,0,Hà Nội,
+1280,0,Hà Nội,Hà Đông
+1281,0,Hồ Chí Minh,Quận 11
+1282,0,Hồ Chí Minh,Phú Nhuận
+1282,1,Đà Nẵng,Thanh Khê
+1283,0,Hà Nội,Cầu Giấy
+1284,0,Hồ Chí Minh,Quận 3
+1285,0,Hồ Chí Minh,Quận 12
+1286,0,Hồ Chí Minh,
+1287,0,Hồ Chí Minh,
+1288,0,Hà Nội,
+1289,0,Hà Nội,Hoàng Mai
+1290,0,Hồ Chí Minh,Thủ Đức
+1291,0,Hồ Chí Minh,Thủ Đức
+1292,0,Hồ Chí Minh,Thủ Đức
+1293,0,Hồ Chí Minh,Thủ Đức
+1294,0,Hồ Chí Minh,Củ Chi
+1295,0,Hà Nội,Đống Đa
+1295,1,Hà Nội,Thạch Thất
+1296,0,Hà Nội,Nam Từ Liêm
+1297,0,Hà Nội,Nam Từ Liêm
+1298,0,Hà Nội,
+1299,0,Hà Nội,Thanh Xuân
+1300,0,Hồ Chí Minh,Quận 3
+1301,0,Hà Nội,Nam Từ Liêm
+1302,0,Hà Nội,
+1303,0,Hà Nội,Cầu Giấy
+1303,1,Hồ Chí Minh,Bình Thạnh
+1304,0,Hà Nội,Thanh Xuân
+1305,0,Hà Nội,Hà Đông
+1306,0,Hà Nội,Cầu Giấy
+1307,0,Hồ Chí Minh,Quận 3
+1308,0,Hà Nội,
+1309,0,Hồ Chí Minh,Phú Nhuận
+1309,1,Đà Nẵng,Thanh Khê
+1310,0,Hà Nội,Nam Từ Liêm
+1311,0,Hà Nội,Hoàn Kiếm
+1312,0,Hà Nội,Đống Đa
+1313,0,Hà Nội,Hoàn Kiếm
+1314,0,Hà Nội,Cầu Giấy
+1315,0,Hà Nội,Đống Đa
+1316,0,Hải Phòng,
+1317,0,Hà Nội,Thanh Xuân
+1318,0,Hồ Chí Minh,
+1319,0,Hồ Chí Minh,Tân Bình
+1320,0,Hà Nội,Cầu Giấy
+1321,0,Hồ Chí Minh,Quận 4
+1322,0,Hà Nội,Hoàn Kiếm
+1323,0,Hà Nội,Nam Từ Liêm
+1324,0,Hà Nội,Đống Đa
+1324,1,Đà Nẵng,
+1325,0,Hà Nội,Cầu Giấy
+1326,0,Hà Nội,Hai Bà Trưng
+1327,0,Hà Nội,
+1328,0,Đồng Nai,Biên Hoà
+1329,0,Hà Nội,
+1330,0,Hà Nội,Nam Từ Liêm
+1331,0,Hà Nội,Thanh Xuân
+1331,1,Hà Nội,Ba Đình
+1332,0,Hà Nội,Cầu Giấy
+1332,1,Hà Nội,Hai Bà Trưng
+1333,0,Hà Nội,
+1334,0,Hồ Chí Minh,Đà Nẵng
+1335,0,Hồ Chí Minh,Bình Thạnh
+1335,1,Hà Nội,Cầu Giấy
+1336,0,Hà Nội,Hà Đông
+1337,0,Hà Nội,
+1338,0,Hồ Chí Minh,Quận 1
+1339,0,Hà Nội,Đống Đa
+1339,1,Hồ Chí Minh,Tân Bình
+1340,0,Hà Nội,Cầu Giấy
+1341,0,Đồng Nai,Long Khánh
+1342,0,Hà Nội,Cầu Giấy
+1343,0,Hồ Chí Minh,Quận 11
+1344,0,Hồ Chí Minh,Quận 1
+1345,0,Hồ Chí Minh,
+1346,0,Hồ Chí Minh,Quận 8
+1347,0,Hồ Chí Minh,Tân Bình
+1348,0,Hồ Chí Minh,Tân Bình
+1349,0,Hồ Chí Minh,Quận 7
+1350,0,Đà Nẵng,Ngũ Hành Sơn
+1351,0,Đà Nẵng,Ngũ Hành Sơn
+1352,0,Hà Nội,Cầu Giấy
+1353,0,Hồ Chí Minh,Tân Bình
+1353,1,Đà Nẵng,Thanh Khê
+1354,0,Khánh Hoà,TP Nha Trang
+1355,0,Hà Nội,Đà Nẵng
+1355,1,Hồ Chí Minh,
+1356,0,Hà Nội,Nam Từ Liêm
+1357,0,Hà Nội,Đống Đa
+1358,0,Hồ Chí Minh,Quận 2
+1359,0,Hà Nội,Thanh Xuân
+1360,0,Hà Nội,Nam Từ Liêm
+1361,0,Đà Nẵng,Hải Châu
+1362,0,Đà Nẵng,Hải Châu
+1363,0,Đà Nẵng,Thanh Khê
+1364,0,Đà Nẵng,Thanh Khê
+1365,0,Hà Nội,Cầu Giấy
+1366,0,Nghệ An,TP Vinh
+1367,0,Hồ Chí Minh,Tân Bình
+1368,0,Hồ Chí Minh,
+1369,0,Hồ Chí Minh,Quận 8
+1370,0,Hồ Chí Minh,Tân Bình
+1371,0,Hà Nội,Cầu Giấy
+1372,0,Hà Nội,Nam Từ Liêm
+1373,0,Hà Nội,Bắc Từ Liêm
+1374,0,Hồ Chí Minh,Quận 2
+1375,0,Hà Nội,Cầu Giấy
+1376,0,Hà Nội,Nam Từ Liêm
+1377,0,Hà Nội,Nam Từ Liêm
+1378,0,Hà Nội,
+1379,0,Hà Nội,Ba Đình
+1380,0,Hà Nội,Ba Đình
+1381,0,Hà Nội,Nam Từ Liêm
+1382,0,Hà Nội,Ba Đình
+1383,0,Hà Nội,Tây Hồ
+1384,0,Hà Nội,Ba Đình
+1385,0,Hà Nội,Nam Từ Liêm
+1386,0,Hồ Chí Minh,Quận 2
+1387,0,Hà Nội,Cầu Giấy
+1388,0,Hà Nội,Nam Từ Liêm
+1389,0,Hà Nội,
+1390,0,Hà Nội,Nam Từ Liêm
+1391,0,Hồ Chí Minh,Tân Bình
+1392,0,Hà Nội,Nam Từ Liêm
+1393,0,Hồ Chí Minh,Phú Nhuận
+1394,0,Hồ Chí Minh,Quận 2
+1395,0,Hồ Chí Minh,Phú Nhuận
+1395,1,Đà Nẵng,Thanh Khê
+1396,0,Hồ Chí Minh,
+1397,0,Hồ Chí Minh,
+1398,0,Hồ Chí Minh,Tân Bình
+1399,0,Hồ Chí Minh,Quận 2
+1400,0,Hà Nội,Bắc Từ Liêm
+1401,0,Hà Nội,Cầu Giấy
+1402,0,Hà Nội,Hoàng Mai
+1403,0,Hồ Chí Minh,Phú Nhuận
+1404,0,Hà Nội,Thanh Xuân
+1405,0,Hà Nội,Thanh Xuân
+1406,0,Hồ Chí Minh,Quận 1
+1407,0,Hồ Chí Minh,Tân Bình
+1408,0,Hà Nội,Long Biên
+1409,0,Bình Dương,Thủ Dầu Một
+1410,0,Hà Nội,Thanh Xuân
+1411,0,Hà Nội,Nam Từ Liêm
+1412,0,Hà Nội,Nam Từ Liêm
+1413,0,Hà Nội,Nam Từ Liêm
+1414,0,Gia Lai,TP Pleiku
+1414,1,Hồ Chí Minh,
+1415,0,Hà Nội,Thanh Xuân
+1416,0,Hà Nội,Nam Từ Liêm
+1417,0,Hà Nội,Nam Từ Liêm
+1418,0,Hà Nội,Cầu Giấy
+1419,0,Hà Nội,Thanh Xuân
+1420,0,Đà Nẵng,Ngũ Hành Sơn
+1421,0,Hà Nội,Cầu Giấy
+1422,0,Đà Nẵng,Ngũ Hành Sơn
+1423,0,Hà Nội,Nam Từ Liêm
+1424,0,Hồ Chí Minh,Phú Nhuận
+1425,0,Hồ Chí Minh,Phú Nhuận
+1425,1,Đà Nẵng,Thanh Khê
+1426,0,Hà Nội,Bắc Từ Liêm
+1427,0,Hà Nội,Đống Đa
+1428,0,Hà Nội,Nam Từ Liêm
+1429,0,Hồ Chí Minh,Quận 5
+1430,0,Hồ Chí Minh,Quận 7
+1431,0,Hà Nội,Nam Từ Liêm
+1432,0,Hà Nội,
+1433,0,Hà Nội,Thanh Xuân
+1434,0,Hà Nội,Thanh Xuân
+1435,0,Hà Nội,Đống Đa
+1436,0,Hồ Chí Minh,Tân Bình
+1437,0,Hà Nội,Ba Đình
+1438,0,Hà Nội,Cầu Giấy
+1439,0,Hà Nội,Nam Từ Liêm
+1440,0,Hà Nội,Thanh Xuân
+1441,0,Hà Nội,Đống Đa
+1442,0,Hà Nội,Ba Đình
+1443,0,Hồ Chí Minh,Thủ Đức
+1444,0,Hồ Chí Minh,Quận 2
+1445,0,Hà Nội,Cầu Giấy
+1446,0,Hồ Chí Minh,Phú Nhuận
+1447,0,Hồ Chí Minh,Phú Nhuận
+1448,0,Hà Nội,Cầu Giấy
+1449,0,Hồ Chí Minh,Quận 7
+1450,0,Hà Nội,Hà Đông
+1451,0,Hà Nội,
+1452,0,Hồ Chí Minh,Quận 4
+1453,0,Hồ Chí Minh,
+1454,0,Hồ Chí Minh,Quận 2
+1455,0,Cần Thơ,Ninh Kiều
+1456,0,Cần Thơ,Ninh Kiều
+1457,0,Cần Thơ,Ninh Kiều
+1458,0,Cần Thơ,Ninh Kiều
+1459,0,Hà Nội,Cầu Giấy
+1460,0,Nước Ngoài,
+1461,0,Hà Nội,Nam Từ Liêm
+1462,0,Hà Nội,Nam Từ Liêm
+1463,0,Hà Nội,Nam Từ Liêm
+1464,0,Hà Nội,Cầu Giấy
+1465,0,Hà Nội,Nam Từ Liêm
+1466,0,Hồ Chí Minh,Tân Phú
+1467,0,Hà Nội,Nam Từ Liêm
+1468,0,Hà Nội,Nam Từ Liêm
+1469,0,Hà Nội,Nam Từ Liêm
+1470,0,Hà Nội,Nam Từ Liêm
+1471,0,Hà Nội,Đống Đa
+1472,0,Hà Nội,Nam Từ Liêm
+1473,0,Hà Nội,
+1474,0,Hồ Chí Minh,Quận 3
+1474,1,Hồ Chí Minh,Quận 12
+1475,0,Hồ Chí Minh,
+1476,0,Hà Nội,Cầu Giấy
+1477,0,Hà Nội,Thanh Xuân
+1478,0,Hồ Chí Minh,Quận 10
+1479,0,Hà Nội,Nam Từ Liêm
+1480,0,Hà Nội,Thanh Xuân
+1481,0,Hồ Chí Minh,Thủ Đức
+1482,0,Hà Nội,Hà Đông
+1483,0,Hà Nội,Nam Từ Liêm
+1484,0,Hồ Chí Minh,Quận 1
+1485,0,Bình Dương,Thủ Dầu Một
+1486,0,Hồ Chí Minh,Phú Nhuận
+1487,0,Hồ Chí Minh,Bình Thạnh
+1488,0,Hà Nội,
+1489,0,Hà Nội,Nam Từ Liêm
+1490,0,Hà Nội,Thanh Xuân
+1491,0,Hà Nội,
+1492,0,Hà Nội,Ba Đình
+1493,0,Hà Nội,Ba Đình
+1494,0,Hồ Chí Minh,Quận 6
+1495,0,Hà Nội,Đống Đa
+1496,0,Hà Nội,Nam Từ Liêm
+1497,0,Hà Nội,Nam Từ Liêm
+1498,0,Hà Nội,Ba Đình
+1499,0,Hà Nội,Cầu Giấy
+1500,0,Hà Nội,Đống Đa
+1501,0,Hà Nội,Đống Đa
+1502,0,Hà Nội,Đống Đa
+1503,0,Hà Nội,Nam Từ Liêm
+1504,0,Hồ Chí Minh,Bình Thạnh
+1505,0,Hà Nội,Nam Từ Liêm
+1506,0,Toàn Quốc,
+1507,0,Hồ Chí Minh,Quận 10
+1508,0,Hà Nội,Cầu Giấy
+1509,0,Hà Nội,Nam Từ Liêm
+1510,0,Hà Nội,Đống Đa
+1511,0,Hồ Chí Minh,
+1512,0,Hà Nội,Nam Từ Liêm
+1513,0,Hà Nội,Nam Từ Liêm
+1514,0,Hà Nội,Nam Từ Liêm
+1515,0,Hà Nội,Đống Đa
+1516,0,Hồ Chí Minh,Thủ Đức
+1517,0,Hà Nội,Nam Từ Liêm
+1518,0,Hà Nội,
+1519,0,Hà Nội,
+1520,0,Hồ Chí Minh,Tân Bình
+1521,0,Hà Nội,Thanh Xuân
+1522,0,Hà Nội,Thanh Xuân
+1523,0,Hà Nội,Thanh Xuân
+1524,0,Hà Nội,Cầu Giấy
+1525,0,Hà Nội,Từ Liêm
+1526,0,Bắc Ninh,TP Bắc Ninh
+1527,0,Hà Nội,Thanh Xuân
+1528,0,Hà Nội,Thanh Xuân
+1529,0,Hồ Chí Minh,Tân Bình
+1530,0,Hà Nội,Cầu Giấy
+1531,0,Hồ Chí Minh,Tân Bình
+1532,0,Hà Nội,Cầu Giấy
+1533,0,Hà Nội,Cầu Giấy
+1534,0,Hà Nội,Cầu Giấy
+1535,0,Hà Nội,Cầu Giấy
+1536,0,Hà Nội,Cầu Giấy
+1537,0,Hà Nội,Cầu Giấy
+1538,0,Hà Nội,
+1539,0,Hồ Chí Minh,Bình Thạnh
+1540,0,Hà Nội,Hồ Chí Minh
+1540,1,Quận 1,
+1541,0,Hà Nội,Ba Đình
+1541,1,Hồ Chí Minh,Quận 1
+1542,0,Hồ Chí Minh,
+1543,0,Hà Nội,Đống Đa
+1544,0,Hà Nội,Cầu Giấy
+1545,0,Hồ Chí Minh,Quận 5
+1546,0,Hải Phòng,
+1547,0,Hồ Chí Minh,
+1548,0,Hà Nội,Cầu Giấy
+1549,0,Hà Nội,Thanh Xuân
+1550,0,Hà Nội,Nam Từ Liêm
+1551,0,Hà Nội,Nam Từ Liêm
+1552,0,Hà Nội,Nam Từ Liêm
+1553,0,Hồ Chí Minh,Tân Bình
+1554,0,Hồ Chí Minh,Tân Bình
+1554,1,Đà Nẵng,Hải Châu
+1555,0,Hà Nội,Cầu Giấy
+1556,0,Nước Ngoài,
+1557,0,Hà Nội,Ba Đình
+1558,0,Hà Nội,
+1559,0,Hà Nội,Nam Từ Liêm
+1560,0,Hồ Chí Minh,Bình Thạnh
+1561,0,Hồ Chí Minh,Tân Bình
+1562,0,Hồ Chí Minh,Tân Bình
+1563,0,Hà Nội,Thanh Xuân
+1564,0,Hà Nội,Nam Từ Liêm
+1565,0,Hồ Chí Minh,Quận 1
+1566,0,Hà Nội,Đống Đa
+1567,0,Hà Nội,Cầu Giấy
+1567,1,Hà Nội,Tây Hồ
+1568,0,Hà Nội,Đống Đa
+1569,0,Hà Nội,Cầu Giấy
+1570,0,Thừa Thiên Huế,TP Huế
+1571,0,Thừa Thiên Huế,TP Huế
+1572,0,Thừa Thiên Huế,TP Huế
+1573,0,Hà Nội,Hoàng Mai
+1574,0,Hà Nội,Cầu Giấy
+1575,0,Hà Nội,Cầu Giấy
+1576,0,Hà Nội,Đống Đa
+1577,0,Hồ Chí Minh,Quận 4
+1578,0,Hà Nội,Đống Đa
+1579,0,Hà Nội,Nam Từ Liêm
+1580,0,Hà Nội,Cầu Giấy
+1581,0,Hà Nội,Hà Đông
+1582,0,Hà Nội,Nam Từ Liêm
+1583,0,Hà Nội,Nam Từ Liêm
+1584,0,Hồ Chí Minh,Quận 1
+1585,0,Hà Nội,Cầu Giấy
+1586,0,Hà Nội,Tây Hồ
+1587,0,Hồ Chí Minh,Quận 3
+1588,0,Hà Nội,Long Biên
+1589,0,Hà Nội,Cầu Giấy
+1590,0,Hà Nội,Hà Đông
+1591,0,Hà Nội,Hai Bà Trưng
+1592,0,Hà Nội,Hà Đông
+1593,0,Hà Nội,Thanh Xuân
+1594,0,Hà Nội,Hà Đông
+1595,0,Hà Nội,Hai Bà Trưng
+1596,0,Hồ Chí Minh,
+1597,0,Hà Nội,Cầu Giấy
+1598,0,Hồ Chí Minh,Quận 2
+1599,0,Hải Phòng,An Dương
+1600,0,Hà Nội,Ba Đình
+1601,0,Đà Nẵng,Hải Châu
+1602,0,Hà Nội,Nam Từ Liêm
+1603,0,Hà Nội,Thanh Xuân
+1604,0,Hà Nội,Hai Bà Trưng
+1605,0,Hà Nội,Hoàn Kiếm
+1606,0,Hà Nội,Cầu Giấy
+1606,1,Hà Nội,Hai Bà Trưng
+1607,0,Hà Nội,Nam Từ Liêm
+1608,0,Hà Nội,Nam Từ Liêm
+1609,0,Hà Nội,Nam Từ Liêm
+1610,0,Hà Nội,Nam Từ Liêm
+1611,0,Hà Nội,Nam Từ Liêm
+1612,0,Hà Nội,Đông Anh
+1613,0,Hà Nội,Cầu Giấy
+1614,0,Hà Nội,Thanh Xuân
+1615,0,Đà Nẵng,Hải Châu
+1616,0,Đà Nẵng,Hải Châu
+1617,0,Hà Nội,
+1618,0,Hà Nội,
+1619,0,Hồ Chí Minh,Thủ Đức
+1620,0,Hồ Chí Minh,Gò Vấp
+1620,1,Hà Nội,Đống Đa
+1620,2,Đà Nẵng,Sơn Trà
+1621,0,Hà Nội,Hà Đông
+1622,0,Hà Nội,Nam Từ Liêm
+1623,0,Bình Dương,Dĩ An
+1624,0,Hà Nội,Nam Từ Liêm
+1625,0,Hà Nội,Đống Đa
+1626,0,Hồ Chí Minh,Quận 2
+1627,0,Hà Nội,Cầu Giấy
+1628,0,Hà Nội,Cầu Giấy
+1629,0,Hà Nội,Cầu Giấy
+1630,0,Hà Nội,Đống Đa
+1631,0,Hà Nội,Nam Từ Liêm
+1632,0,Hồ Chí Minh,Tân Bình
+1633,0,Hồ Chí Minh,
+1634,0,Cần Thơ,Ninh Kiều
+1635,0,Cần Thơ,Ninh Kiều
+1636,0,Hà Nội,
+1637,0,Hồ Chí Minh,Quận 7
+1638,0,Hà Nội,Ba Đình
+1638,1,Hà Nội,Hoàn Kiếm
+1638,2,Hà Nội,Hai Bà Trưng
+1638,3,Hà Nội,Đống Đa
+1638,4,Hà Nội,Tây Hồ
+1638,5,Hà Nội,Cầu Giấy
+1638,6,Hà Nội,Thanh Xuân
+1638,7,Hà Nội,Hoàng Mai
+1638,8,Hà Nội,Long Biên
+1638,9,Hà Nội,Từ Liêm
+1638,10,Hà Nội,Thanh Trì
+1638,11,Hà Nội,Gia Lâm
+1638,12,Hà Nội,Đông Anh
+1638,13,Hà Nội,Sóc Sơn
+1638,14,Hà Nội,Hà Đông
+1638,15,Hà Nội,Sơn Tây
+1638,16,Hà Nội,Ba Vì
+1638,17,Hà Nội,Phúc Thọ
+1638,18,Hà Nội,Thạch Thất
+1638,19,Hà Nội,Quốc Oai
+1638,20,Hà Nội,Chương Mỹ
+1638,21,Hà Nội,Đan Phượng
+1638,22,Hà Nội,Hoài Đức
+1638,23,Hà Nội,Thanh Oai
+1638,24,Hà Nội,Mỹ Đức
+1638,25,Hà Nội,Ứng Hoà
+1638,26,Hà Nội,Phú Xuyên
+1638,27,Hà Nội,Thường Tín
+1638,28,Hà Nội,Mê Linh
+1638,29,Hà Nội,Bắc Từ Liêm
+1638,30,Hà Nội,Nam Từ Liêm
+1638,31,Hồ Chí Minh,Quận 1
+1638,32,Hồ Chí Minh,Quận 2
+1638,33,Hồ Chí Minh,Quận 3
+1638,34,Hồ Chí Minh,Quận 4
+1638,35,Hồ Chí Minh,Quận 5
+1638,36,Hồ Chí Minh,Quận 6
+1638,37,Hồ Chí Minh,Quận 7
+1638,38,Hồ Chí Minh,Quận 8
+1638,39,Hồ Chí Minh,Quận 9
+1638,40,Hồ Chí Minh,Quận 10
+1638,41,Hồ Chí Minh,Quận 11
+1638,42,Hồ Chí Minh,Quận 12
+1638,43,Hồ Chí Minh,Thủ Đức
+1638,44,Hồ Chí Minh,Gò Vấp
+1638,45,Hồ Chí Minh,Bình Thạnh
+1638,46,Hồ Chí Minh,Tân Bình
+1638,47,Hồ Chí Minh,Tân Phú
+1638,48,Hồ Chí Minh,Phú Nhuận
+1638,49,Hồ Chí Minh,Bình Tân
+1638,50,Hồ Chí Minh,Củ Chi
+1638,51,Hồ Chí Minh,Hóc Môn
+1638,52,Hồ Chí Minh,Bình Chánh
+1638,53,Hồ Chí Minh,Nhà Bè
+1638,54,Hồ Chí Minh,Cần Giờ
+1638,55,Đà Nẵng,Hải Châu
+1638,56,Đà Nẵng,Thanh Khê
+1638,57,Đà Nẵng,Sơn Trà
+1638,58,Đà Nẵng,Ngũ Hành Sơn
+1638,59,Đà Nẵng,Liên Chiểu
+1638,60,Đà Nẵng,Hòa Vang
+1638,61,Đà Nẵng,Cẩm Lệ
+1638,62,Đà Nẵng,Hoàng Sa
+1638,63,Nước Ngoài,
+1639,0,Hà Nội,Cầu Giấy
+1640,0,Hà Nội,Đống Đa
+1641,0,Hồ Chí Minh,Quận 1
+1642,0,Đồng Tháp,TP Cao Lãnh
+1643,0,Hà Nội,Thanh Xuân
+1643,1,Hồ Chí Minh,Quận 1
+1644,0,Hồ Chí Minh,Quận 7
+1645,0,Hà Nội,Nam Từ Liêm
+1646,0,Hà Nội,Sóc Sơn
+1647,0,Hà Nội,Cầu Giấy
+1648,0,Hà Nội,Cầu Giấy
+1649,0,Hồ Chí Minh,Tân Bình
+1650,0,Hồ Chí Minh,
+1651,0,Hồ Chí Minh,
+1652,0,Hà Nội,Hoàng Mai
+1653,0,Hà Nội,Hoàng Mai
+1654,0,Hồ Chí Minh,Thủ Đức
+1655,0,Hà Nội,Hồ Chí Minh
+1656,0,Hà Nội,Đống Đa
+1657,0,Hà Nội,Bắc Từ Liêm
+1658,0,Hà Nội,Đống Đa
+1659,0,Hồ Chí Minh,Quận 12
+1660,0,Hồ Chí Minh,Quận 12
+1661,0,Bình Dương,Dĩ An
+1662,0,Bình Dương,Dĩ An
+1663,0,Hà Nội,Thanh Xuân
+1664,0,Hà Nội,Hà Đông
+1665,0,Hồ Chí Minh,Tân Bình
+1666,0,An Giang,
+1667,0,Hà Nội,Ba Đình
+1668,0,Hồ Chí Minh,Phú Nhuận
+1669,0,Hà Nội,
+1670,0,Hà Nội,
+1671,0,Hồ Chí Minh,Bình Thạnh
+1672,0,Hồ Chí Minh,Quận 3
+1673,0,Hà Nội,Đống Đa
+1673,1,Hồ Chí Minh,
+1674,0,Hồ Chí Minh,Tân Bình
+1675,0,Hà Nội,Nam Từ Liêm
+1676,0,Hồ Chí Minh,
+1677,0,Hồ Chí Minh,Tân Bình
+1678,0,Hà Nội,Thanh Xuân
+1679,0,Hồ Chí Minh,Quận 7
+1680,0,Hà Nội,Cầu Giấy
+1681,0,Hà Nội,Cầu Giấy
+1682,0,Hà Nội,Thanh Xuân
+1683,0,Hà Nội,Hà Đông
+1684,0,Hà Nội,Cầu Giấy
+1685,0,Hà Nội,Nam Từ Liêm
+1685,1,Đà Nẵng,Cẩm Lệ
+1685,2,Hồ Chí Minh,Tân Bình
+1686,0,Hà Nội,Đống Đa
+1687,0,Hà Nội,Long Biên
+1688,0,Hồ Chí Minh,Bình Thạnh
+1689,0,Hồ Chí Minh,Tân Bình
+1690,0,Hồ Chí Minh,
+1691,0,Hà Nội,Nam Từ Liêm
+1692,0,Hồ Chí Minh,Quận 4
+1693,0,Hà Nội,Cầu Giấy
+1694,0,Hồ Chí Minh,Thủ Đức
+1695,0,Hà Nội,
+1696,0,Hà Nội,
+1697,0,Hồ Chí Minh,Thủ Đức
+1698,0,Hồ Chí Minh,Tân Bình
+1699,0,Hà Nội,Nam Từ Liêm
+1700,0,Hà Nội,Cầu Giấy
+1701,0,Hồ Chí Minh,Bình Thạnh
+1702,0,Hà Nội,Cầu Giấy
+1703,0,Bắc Ninh,Thuận Thành
+1704,0,Hà Nội,Ba Đình
+1705,0,Hà Nội,Ba Đình
+1706,0,Hồ Chí Minh,Quận 12
+1707,0,Hà Nội,Cầu Giấy
+1708,0,Hà Nội,Từ Liêm
+1709,0,Hà Nội,Từ Liêm
+1710,0,Hà Nội,Thanh Xuân
+1711,0,Hà Nội,Thạch Thất
+1711,1,Hồ Chí Minh,Quận 7
+1711,2,Đà Nẵng,
+1712,0,Hà Nội,Nam Từ Liêm
+1713,0,Hồ Chí Minh,Quận 10
+1714,0,Hà Nội,Nam Từ Liêm
+1715,0,Hà Nội,Cầu Giấy
+1716,0,Hà Nội,Cầu Giấy
+1717,0,Hà Nội,Cầu Giấy
+1718,0,Hà Nội,Cầu Giấy
+1719,0,Hà Nội,Cầu Giấy
+1720,0,Hà Nội,Cầu Giấy
+1721,0,Hà Nội,Nam Từ Liêm
+1722,0,Hà Nội,Ba Đình
+1723,0,Hà Nội,
+1724,0,Hà Nội,Cầu Giấy
+1725,0,Hà Nội,Cầu Giấy
+1726,0,Hà Nội,Ba Đình
+1727,0,Hồ Chí Minh,Quận 2
+1728,0,Hồ Chí Minh,Quận 10
+1729,0,Hồ Chí Minh,Bình Tân
+1730,0,Hà Nội,
+1731,0,Hồ Chí Minh,Bình Thạnh
+1732,0,Hà Nội,Nam Từ Liêm
+1733,0,Hà Nội,Hà Đông
+1734,0,Hà Nội,Hà Đông
+1734,1,Hà Nội,Tây Hồ
+1735,0,Hà Nội,Đống Đa
+1736,0,Hà Nội,Hoàn Kiếm
+1736,1,Hồ Chí Minh,Quận 1
+1737,0,Hà Nội,Ba Đình
+1738,0,Hồ Chí Minh,Tân Bình
+1739,0,Hà Nội,Ba Đình
+1740,0,Hà Nội,Ba Đình
+1741,0,Hà Nội,
+1742,0,Hà Nội,Thanh Trì
+1743,0,Hà Nội,Thanh Xuân
+1743,1,Hồ Chí Minh,Quận 4
+1744,0,Hà Nội,Thanh Xuân
+1745,0,Hồ Chí Minh,Quận 12
+1746,0,Hà Nội,Nam Từ Liêm
+1747,0,Hà Nội,Nam Từ Liêm
+1748,0,Hồ Chí Minh,Quận 2
+1749,0,Hồ Chí Minh,Quận 11
+1750,0,Hồ Chí Minh,Quận 1
+1750,1,Hà Nội,Đống Đa
+1751,0,Hà Nội,Hà Đông
+1752,0,Hà Nội,Cầu Giấy
+1753,0,Hà Nội,Ba Đình
+1754,0,Hà Nội,Ba Đình
+1755,0,Hà Nội,Nam Từ Liêm
+1756,0,Hà Nội,Nam Từ Liêm
+1756,1,Đà Nẵng,Hải Châu
+1756,2,Hồ Chí Minh,Bình Thạnh
+1757,0,Hồ Chí Minh,Quận 2
+1758,0,Hà Nội,Hà Đông
+1759,0,Hà Nội,Cầu Giấy
+1760,0,Hà Nội,Cầu Giấy
+1761,0,Hà Nội,Cầu Giấy
+1761,1,Hà Nội,Hai Bà Trưng
+1762,0,Hà Nội,Nam Từ Liêm
+1763,0,Hà Nội,Cầu Giấy
+1764,0,Hà Nội,Bắc Từ Liêm
+1765,0,Hà Nội,Bắc Từ Liêm
+1766,0,Hà Nội,
+1767,0,Hà Nội,Hoàn Kiếm
+1768,0,Hà Nội,Cầu Giấy
+1769,0,Hồ Chí Minh,Quận 2
+1770,0,Hồ Chí Minh,Phú Nhuận
+1770,1,Đà Nẵng,Thanh Khê
+1771,0,Hồ Chí Minh,Quận 4
+1772,0,Hồ Chí Minh,Tân Bình
+1773,0,Hà Nội,
+1774,0,Hồ Chí Minh,Quận 4
+1775,0,Hà Nội,Đống Đa
+1775,1,Hồ Chí Minh,Quận 4
+1776,0,Hà Nội,Nam Từ Liêm
+1777,0,Hồ Chí Minh,Bình Thạnh
+1778,0,Hà Nội,Đống Đa
+1779,0,Hồ Chí Minh,Quận 1
+1780,0,Hồ Chí Minh,
+1781,0,Hà Nội,Nam Từ Liêm
+1782,0,Hồ Chí Minh,
+1783,0,Hồ Chí Minh,Bình Thạnh
+1784,0,Hà Nội,Cầu Giấy
+1785,0,Hồ Chí Minh,Bình Thạnh
+1786,0,Hồ Chí Minh,Tân Bình
+1787,0,Hà Nội,Hà Đông
+1788,0,Hà Nội,Cầu Giấy
+1788,1,Hồ Chí Minh,Thủ Đức
+1788,2,Đà Nẵng,Ngũ Hành Sơn
+1789,0,Đà Nẵng,Ngũ Hành Sơn
+1790,0,Hồ Chí Minh,
+1791,0,Hồ Chí Minh,
+1792,0,Hà Nội,Cầu Giấy
+1793,0,Hà Nội,Cầu Giấy
+1794,0,Hà Nội,Nam Từ Liêm
+1795,0,Hà Nội,Thanh Xuân
+1796,0,Hà Nội,Từ Liêm
+1797,0,Hà Nội,Từ Liêm
+1798,0,Hà Nội,Cầu Giấy
+1799,0,Hà Nội,Cầu Giấy
+1800,0,Hồ Chí Minh,Phú Nhuận
+1801,0,Hồ Chí Minh,Phú Nhuận
+1802,0,Hà Nội,Cầu Giấy
+1803,0,Hà Nội,Nam Từ Liêm
+1804,0,Hà Nội,Thanh Xuân
+1805,0,Hà Nội,Thanh Xuân
+1806,0,Hà Nội,Gia Lâm
+1807,0,Hồ Chí Minh,Bình Thạnh
+1808,0,Hồ Chí Minh,Bình Thạnh
+1809,0,Hà Nội,Cầu Giấy
+1810,0,Hồ Chí Minh,Đà Nẵng
+1810,1,Hà Nội,
+1811,0,Hồ Chí Minh,
+1812,0,Hà Nội,
+1813,0,Hồ Chí Minh,Quận 12
+1814,0,Hà Nội,Cầu Giấy
+1815,0,Hà Nội,Cầu Giấy
+1816,0,Hà Nội,Cầu Giấy
+1817,0,Hà Nội,
+1818,0,Hồ Chí Minh,Tân Bình
+1819,0,Hà Nội,
+1820,0,Hồ Chí Minh,Tân Bình
+1821,0,Hồ Chí Minh,Tân Bình
+1822,0,Hồ Chí Minh,Tân Bình
+1823,0,Hồ Chí Minh,Quận 1
+1824,0,Hồ Chí Minh,
+1825,0,Hà Nội,Thanh Xuân
+1826,0,Bắc Ninh,Từ Sơn
+1827,0,Hồ Chí Minh,Quận 4
+1828,0,Hồ Chí Minh,Quận 1
+1829,0,Hồ Chí Minh,Quận 12
+1830,0,Hà Nội,Thanh Xuân
+1831,0,Hà Nội,Cầu Giấy
+1832,0,Hà Nội,Cầu Giấy
+1833,0,Hà Nội,Cầu Giấy
+1834,0,Hồ Chí Minh,Bình Thạnh
+1835,0,Hồ Chí Minh,Tân Phú
+1836,0,Hà Nội,Hoàng Mai
+1837,0,Hà Nội,Hoàng Mai
+1838,0,Hà Nội,Cầu Giấy
+1839,0,Nước Ngoài,
+1840,0,Nước Ngoài,
+1841,0,Nước Ngoài,
+1842,0,Hồ Chí Minh,Bình Thạnh
+1843,0,Hồ Chí Minh,Quận 2
+1844,0,Hà Nội,Thanh Xuân
+1845,0,Hà Nội,Thanh Xuân
+1846,0,Hồ Chí Minh,
+1847,0,Hà Nội,Cầu Giấy
+1848,0,Hà Nội,Hai Bà Trưng
+1849,0,Hà Nội,Tây Hồ
+1850,0,Hà Nội,Đống Đa
+1851,0,Hà Nội,Đống Đa
+1852,0,Hồ Chí Minh,
+1853,0,Hồ Chí Minh,
+1854,0,Hồ Chí Minh,Tân Bình
+1855,0,Hồ Chí Minh,Quận 3
+1856,0,Hồ Chí Minh,Quận 1
+1857,0,Hà Nội,
+1858,0,Đồng Tháp,TP Cao Lãnh
+1859,0,Hà Nội,
+1860,0,Khánh Hoà,TP Nha Trang
+1861,0,Hà Nội,Từ Liêm
+1862,0,Hà Nội,Từ Liêm
+1863,0,Hà Nội,
+1864,0,Hà Nội,Ba Đình
+1865,0,Hà Nội,Hai Bà Trưng
+1866,0,Hồ Chí Minh,Tân Bình
+1867,0,Hồ Chí Minh,Tân Bình
+1868,0,Đà Nẵng,Ngũ Hành Sơn
+1869,0,Hồ Chí Minh,Tân Bình
+1870,0,Đà Nẵng,Ngũ Hành Sơn
+1871,0,Hà Nội,Nam Từ Liêm
+1872,0,Hà Nội,
+1873,0,Hà Nội,
+1874,0,Hà Nội,
+1875,0,Hà Nội,Hà Đông
+1876,0,Hà Nội,Thanh Xuân
+1877,0,Khánh Hoà,
+1878,0,Hà Nội,Cầu Giấy
+1879,0,Hà Nội,Cầu Giấy
+1880,0,Hà Nội,Đống Đa
+1881,0,Hồ Chí Minh,
+1882,0,Hà Nội,Đống Đa
+1883,0,Hà Nội,Nam Từ Liêm
+1884,0,Hồ Chí Minh,Đà Nẵng
+1885,0,Hà Nội,Đống Đa
+1886,0,Hà Nội,Hai Bà Trưng
+1887,0,Hà Nội,Thanh Xuân
+1888,0,Hà Nội,Cầu Giấy
+1889,0,Hà Nội,Cầu Giấy
+1890,0,Hà Nội,Cầu Giấy
+1891,0,Hà Nội,Thanh Xuân
+1892,0,Hà Nội,Hoàn Kiếm
+1892,1,Hồ Chí Minh,Quận 1
+1893,0,Hà Nội,Nam Từ Liêm
+1894,0,Hồ Chí Minh,Quận 2
+1895,0,Hà Nội,Cầu Giấy
+1896,0,Hồ Chí Minh,
+1897,0,Hồ Chí Minh,Quận 10
+1898,0,Hà Nội,Cầu Giấy
+1899,0,Hồ Chí Minh,Quận 4
+1900,0,Hà Nội,Cầu Giấy
+1901,0,Hà Nội,Nam Từ Liêm
+1902,0,Hồ Chí Minh,
+1903,0,Hà Nội,Hà Đông
+1904,0,Hà Nội,Cầu Giấy
+1905,0,Hồ Chí Minh,Đà Nẵng
+1906,0,Hà Nội,Cầu Giấy
+1907,0,Hồ Chí Minh,
+1908,0,Hồ Chí Minh,Bình Thạnh
+1909,0,Hồ Chí Minh,Đà Nẵng
+1910,0,Hồ Chí Minh,Đà Nẵng
+1911,0,Hồ Chí Minh,Hà Nội
+1912,0,Hà Nội,Thanh Xuân
+1913,0,Hà Nội,Đống Đa
+1914,0,Hà Nội,Đống Đa
+1915,0,Hà Nội,Đan Phượng
+1915,1,Hà Nội,Hoàng Mai
+1916,0,Hà Nội,Đống Đa
+1917,0,Hà Nội,Hà Đông
+1918,0,Hà Nội,Hà Đông
+1919,0,Hà Nội,
+1920,0,Bến Tre,TP Bến Tre
+1921,0,Hà Nội,Cầu Giấy
+1921,1,Đà Nẵng,Hải Châu
+1922,0,Hải Phòng,Lê Chân
+1922,1,Vĩnh Phúc,TP Vĩnh Yên
+1922,2,Hà Nội,Cầu Giấy
+1922,3,Hà Nội,Hà Đông
+1923,0,Hà Nội,Hai Bà Trưng
+1924,0,Hà Nội,Nam Từ Liêm
+1925,0,Hà Nội,Đống Đa
+1926,0,Hà Nội,Thạch Thất
+1926,1,Hà Nội,Tây Hồ
+1927,0,Hà Nội,Đống Đa
+1928,0,Hà Nội,Thanh Xuân
+1928,1,Hồ Chí Minh,Quận 1
+1929,0,Hà Nội,Hà Đông
+1929,1,Hà Nội,Cầu Giấy
+1930,0,Hà Nội,
+1931,0,Hà Nội,
+1932,0,Hà Nội,

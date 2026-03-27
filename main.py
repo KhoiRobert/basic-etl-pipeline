@@ -40,7 +40,12 @@ def main() -> int:
     parser.add_argument(
         "--table",
         default="records",
-        help='Target table name (default: "records")',
+        help='Target table name for job rows (default: "records")',
+    )
+    parser.add_argument(
+        "--locations-table",
+        default="job_locations",
+        help='Target table name for job ↔ location rows (default: "job_locations")',
     )
     args = parser.parse_args()
 
@@ -50,17 +55,21 @@ def main() -> int:
         log.error("%s", e)
         return 1
 
-    clean_df = transform(raw_df)
+    clean_df, job_locations = transform(raw_df)
 
     try:
         engine = get_engine()
-        loaded = load(clean_df, args.table, engine)
+        loaded_records = load(clean_df, args.table, engine)
+        loaded_locs = load(job_locations, args.locations_table, engine)
     except (KeyError, SQLAlchemyError) as e:
         log.error("Load failed: %s", e)
         return 1
 
     extracted = len(raw_df)
-    print(f"rows extracted: {extracted} / rows loaded: {loaded}")
+    print(
+        f"rows extracted: {extracted} / loaded: {loaded_records} {args.table}, "
+        f"{loaded_locs} {args.locations_table}"
+    )
     return 0
 
 
