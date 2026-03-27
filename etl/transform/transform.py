@@ -1,4 +1,4 @@
-"""Add min_salary, max_salary, salary_unit; job_id; job_locations rows (no city/district on main)."""
+"""Add min_salary, max_salary, salary_unit; job_role_category; job_id; job_locations rows."""
 
 from __future__ import annotations
 
@@ -8,6 +8,7 @@ from pathlib import Path
 import pandas as pd
 
 from etl.transform.address import parse_address_locations
+from etl.transform.job_title import normalize_job_title
 from etl.transform.salary import parse_salary
 
 logger = logging.getLogger(__name__)
@@ -27,6 +28,9 @@ def transform(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
     out[["min_salary", "max_salary", "salary_unit"]] = pd.DataFrame(
         tuples, index=out.index, columns=["min_salary", "max_salary", "salary_unit"]
     )
+
+    if "job_title" in out.columns:
+        out["job_role_category"] = out["job_title"].apply(normalize_job_title)
 
     if "address" in out.columns:
         loc_rows: list[dict[str, object]] = []
