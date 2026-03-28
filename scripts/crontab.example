@@ -1,0 +1,6 @@
+# Edit path to your clone. Crontab format: minute hour day month weekday
+# Run daily at 06:15 (server local time):
+# 15 6 * * * cd /absolute/path/to/basic-etl-pipeline && ./scripts/run_pipeline.sh >> /absolute/path/to/basic-etl-pipeline/logs/pipeline.log 2>&1
+#
+# Ensure logs/ exists or create it first:
+#   mkdir -p /absolute/path/to/basic-etl-pipeline/logs
