@@ -19,6 +19,9 @@ build/
 .coverage
 htmlcov/
 
+# Pipeline logs (optional; cron may append here)
+logs/
+
 # OS / editor
 .DS_Store
 .idea/

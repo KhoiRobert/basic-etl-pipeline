@@ -1,2167 +1,2167 @@
 job_id,sort_order,city,district
-0,0,Hà Nội,
-1,0,Hồ Chí Minh,
-2,0,Toàn Quốc,
-3,0,Hà Nội,Cầu Giấy
-4,0,Hà Nội,Thanh Xuân
-4,1,Hải Dương,TP Hải Dương
-5,0,Hà Nội,Nam Từ Liêm
-6,0,Hồ Chí Minh,Quận 7
-7,0,Hà Nội,Cầu Giấy
-8,0,Hà Nội,Cầu Giấy
-9,0,Hà Nội,Cầu Giấy
-10,0,Hà Nội,Cầu Giấy
-11,0,Hà Nội,
-12,0,Hà Nội,Cầu Giấy
-13,0,Hà Nội,
-14,0,Hà Nội,Nam Từ Liêm
-15,0,Hồ Chí Minh,Tân Bình
-16,0,Hồ Chí Minh,Quận 10
-17,0,Hồ Chí Minh,
-18,0,Hồ Chí Minh,Quận 2
-19,0,Hồ Chí Minh,Thủ Đức
-20,0,Hà Nội,
-21,0,Hà Nội,Cầu Giấy
-22,0,Hà Nội,Cầu Giấy
-23,0,Hà Nội,Đống Đa
-24,0,Hà Nội,
-25,0,Hà Nội,
-26,0,Hồ Chí Minh,Tân Bình
-27,0,Hồ Chí Minh,Tân Bình
-28,0,Hồ Chí Minh,Tân Bình
-28,1,Hà Nội,Ba Đình
-29,0,Hồ Chí Minh,Tân Bình
-29,1,Hà Nội,Ba Đình
-30,0,Hà Nội,Ba Đình
-31,0,Hà Nội,Ba Đình
-31,1,Hồ Chí Minh,Tân Bình
-32,0,Hà Nội,Hồ Chí Minh
-33,0,Đà Nẵng,Hải Châu
-34,0,Hà Nội,Cầu Giấy
-35,0,Hà Nội,
-36,0,Hồ Chí Minh,Bình Thạnh
-37,0,Hồ Chí Minh,Bình Thạnh
-38,0,Hà Nội,Hoàn Kiếm
-39,0,Hồ Chí Minh,Bình Thạnh
-40,0,Hồ Chí Minh,Bình Thạnh
-41,0,Hà Nội,Hoàn Kiếm
-42,0,Hồ Chí Minh,Tân Bình
-43,0,Hà Nội,Cầu Giấy
-44,0,Hà Nội,Nam Từ Liêm
-45,0,Hà Nội,Nam Từ Liêm
-46,0,Hồ Chí Minh,Quận 10
-47,0,Nghệ An,TP Vinh
-48,0,Hồ Chí Minh,Quận 10
-49,0,Hà Nội,Thanh Xuân
-49,1,Hồ Chí Minh,Quận 7
-49,2,Hải Dương,TP Hải Dương
-50,0,Hà Nội,Thanh Xuân
-51,0,Hồ Chí Minh,
-52,0,Hà Nội,
-53,0,Hà Nội,Hai Bà Trưng
-54,0,Hà Nội,Long Biên
-55,0,Hồ Chí Minh,Quận 4
-56,0,Hà Nội,Nam Từ Liêm
-57,0,Hà Nội,Cầu Giấy
-58,0,Hà Nội,Nam Từ Liêm
-59,0,Hà Nội,Hai Bà Trưng
-60,0,Hà Nội,Cầu Giấy
-61,0,Hà Nội,Cầu Giấy
-62,0,Hà Nội,Nam Từ Liêm
-63,0,Hà Nội,Cầu Giấy
-64,0,Hà Nội,
-65,0,Hà Nội,Nam Từ Liêm
-66,0,Hà Nội,Cầu Giấy
-67,0,Hồ Chí Minh,Quận 3
-68,0,Hồ Chí Minh,Quận 12
-69,0,Hồ Chí Minh,Thủ Đức
-70,0,Hà Nội,Cầu Giấy
-71,0,Hà Nội,Cầu Giấy
-72,0,Hà Nội,Nam Từ Liêm
-73,0,Hà Nội,
-74,0,Hà Nội,
-75,0,Hồ Chí Minh,Quận 3
-76,0,Hồ Chí Minh,Phú Nhuận
-77,0,Hà Nội,Thanh Xuân
-78,0,Hà Nội,Thanh Xuân
-79,0,Hà Nội,Thanh Xuân
-80,0,Hà Nội,Thanh Xuân
-81,0,Hồ Chí Minh,Quận 2
-82,0,Hà Nội,
-83,0,Hà Nội,Đống Đa
-84,0,Hà Nội,Đống Đa
-85,0,Hà Nội,Nam Từ Liêm
-86,0,Hồ Chí Minh,Quận 2
-87,0,Hà Nội,Tây Hồ
-88,0,Hà Nội,Tây Hồ
-89,0,Hồ Chí Minh,
-90,0,Hồ Chí Minh,
-91,0,Hồ Chí Minh,
-92,0,Hồ Chí Minh,Quận 3
-93,0,Hà Nội,Long Biên
-94,0,Hà Nội,Thanh Xuân
-95,0,Hà Nội,Thanh Xuân
-96,0,Hà Nội,Cầu Giấy
-97,0,Hồ Chí Minh,Quận 7
-98,0,Hồ Chí Minh,Quận 2
-99,0,Hà Nội,
-100,0,Hà Nội,
-101,0,Hồ Chí Minh,Quận 9
-102,0,Hồ Chí Minh,Quận 9
-102,1,Hà Nội,Cầu Giấy
-102,2,Đà Nẵng,Ngũ Hành Sơn
-102,3,Thừa Thiên Huế,TP Huế
-103,0,Hồ Chí Minh,Quận 9
-103,1,Hà Nội,Cầu Giấy
-103,2,Đà Nẵng,Ngũ Hành Sơn
-103,3,Thừa Thiên Huế,TP Huế
-104,0,Hồ Chí Minh,Quận 3
-105,0,Hồ Chí Minh,Quận 3
-106,0,Hồ Chí Minh,Quận 9
-106,1,Hà Nội,Cầu Giấy
-106,2,Đà Nẵng,Ngũ Hành Sơn
-106,3,Thừa Thiên Huế,TP Huế
-107,0,Hồ Chí Minh,Quận 9
-108,0,Hà Nội,Đống Đa
-109,0,Hồ Chí Minh,Quận 3
-110,0,Hà Nội,Cầu Giấy
-111,0,Hà Nội,
-112,0,Hà Nội,Cầu Giấy
-113,0,Hà Nội,Cầu Giấy
-114,0,Nghệ An,TP Vinh
-115,0,Hà Nội,Đống Đa
-116,0,Hồ Chí Minh,Quận 3
-117,0,Hà Nội,
-118,0,Hà Nội,Cầu Giấy
-119,0,Hà Nội,Thanh Xuân
-120,0,Hà Nội,Nam Từ Liêm
-121,0,Hà Nội,
-122,0,Hà Nội,
-123,0,Hà Nội,Thanh Xuân
-124,0,Hà Nội,Nam Từ Liêm
-125,0,Hà Nội,Cầu Giấy
-126,0,Hà Nội,Cầu Giấy
-127,0,Hồ Chí Minh,Gò Vấp
-128,0,Hồ Chí Minh,Gò Vấp
-129,0,Hồ Chí Minh,Phú Nhuận
-130,0,Nước Ngoài,Hà Nội
-130,1,Nam Từ Liêm,
-131,0,Hà Nội,Cầu Giấy
-132,0,Hà Nội,Hồ Chí Minh
-132,1,Đà Nẵng,Thừa Thiên Huế
-133,0,Hà Nội,Hồ Chí Minh
-133,1,Thừa Thiên Huế,Đà Nẵng
-134,0,Hà Nội,
-135,0,Hà Nội,Đống Đa
-136,0,Hà Nội,Thanh Xuân
-137,0,Hà Nội,Thanh Xuân
-138,0,Hà Nội,Đống Đa
-139,0,Hồ Chí Minh,Tân Bình
-140,0,Hồ Chí Minh,Quận 7
-141,0,Hà Nội,Đống Đa
-142,0,Hà Nội,Thanh Xuân
-143,0,Hà Nội,Nam Từ Liêm
-144,0,Hà Nội,Nam Từ Liêm
-145,0,Hà Nội,Cầu Giấy
-146,0,Long An,Bến Lức
-147,0,Hà Nội,Thanh Xuân
-148,0,Hà Nội,
-149,0,Hà Nội,
-150,0,Hà Nội,Long Biên
-151,0,Hà Nội,
-152,0,Hà Nội,Tây Hồ
-153,0,Hà Nội,Tây Hồ
-154,0,Hà Nội,Cầu Giấy
-155,0,Hà Nội,Cầu Giấy
-156,0,Hà Nội,Thanh Xuân
-157,0,Nước Ngoài,Hà Nội
-157,1,Nam Từ Liêm,
-158,0,Hà Nội,Chương Mỹ
-159,0,Hồ Chí Minh,
-160,0,Hồ Chí Minh,Quận 2
-161,0,Hồ Chí Minh,Quận 4
-162,0,Hà Nội,Nam Từ Liêm
-163,0,Hà Nội,Đống Đa
-164,0,Hà Nội,Đống Đa
-165,0,Hà Nội,Cầu Giấy
-166,0,Thừa Thiên Huế,TP Huế
-166,1,Hà Nội,Cầu Giấy
-167,0,Hà Nội,Cầu Giấy
-168,0,Hà Nội,Đống Đa
-169,0,Hà Nội,Từ Liêm
-170,0,Hà Nội,Từ Liêm
-171,0,Hà Nội,Đống Đa
-172,0,Hà Nội,Đống Đa
-173,0,Hồ Chí Minh,Quận 2
-174,0,Hà Nội,Hai Bà Trưng
-175,0,Hồ Chí Minh,Quận 1
-176,0,Hà Nội,Cầu Giấy
-177,0,Hà Nội,Cầu Giấy
-178,0,Hà Nội,Tây Hồ
-179,0,Hồ Chí Minh,Bình Thạnh
-180,0,Hà Nội,Thanh Xuân
-181,0,Hà Nội,Thanh Xuân
-182,0,Hà Nội,Cầu Giấy
-183,0,Hồ Chí Minh,Quận 3
-184,0,Hồ Chí Minh,Quận 12
-185,0,Hồ Chí Minh,Gò Vấp
-186,0,Đà Nẵng,Sơn Trà
-187,0,Hồ Chí Minh,Quận 7
-188,0,Hà Nội,Cầu Giấy
-189,0,Hà Nội,Thanh Xuân
-190,0,Hà Nội,Cầu Giấy
-191,0,Hà Nội,Nam Từ Liêm
-192,0,Hồ Chí Minh,Phú Nhuận
-193,0,Hà Nội,Thanh Xuân
-194,0,Hà Nội,Cầu Giấy
-195,0,Hồ Chí Minh,Quận 10
-196,0,Hà Nội,Thanh Xuân
-197,0,Cần Thơ,Cái Răng
-198,0,Hà Nội,Tây Hồ
-199,0,Đà Nẵng,Ngũ Hành Sơn
-200,0,Hà Nội,Đống Đa
-201,0,Toàn Quốc,
-202,0,Hà Nội,Cầu Giấy
-203,0,Hà Nội,Cầu Giấy
-204,0,Hồ Chí Minh,Quận 7
-205,0,Hà Nội,Cầu Giấy
-206,0,Hà Nội,Cầu Giấy
-207,0,Hà Nội,Nam Từ Liêm
-208,0,Hà Nội,Cầu Giấy
-209,0,Hà Nội,Cầu Giấy
-210,0,Toàn Quốc,
-211,0,Toàn Quốc,
-212,0,Hà Nội,Thanh Xuân
-213,0,Hà Nội,Thanh Xuân
-214,0,Hồ Chí Minh,Quận 7
-215,0,Hồ Chí Minh,Tân Bình
-216,0,Hồ Chí Minh,Tân Bình
-217,0,Hồ Chí Minh,Tân Bình
-218,0,Hồ Chí Minh,Tân Bình
-219,0,Hồ Chí Minh,
-220,0,Hồ Chí Minh,Tân Bình
-221,0,Đà Nẵng,Sơn Trà
-222,0,Hà Nội,
-223,0,Hà Nội,
-224,0,Hà Nội,Cầu Giấy
-225,0,Hà Nội,Cầu Giấy
-226,0,Hồ Chí Minh,Thủ Đức
-226,1,Đà Nẵng,Hải Châu
-227,0,Hà Nội,Hoàng Mai
-228,0,Hồ Chí Minh,Thủ Đức
-229,0,Hồ Chí Minh,Quận 1
-230,0,Toàn Quốc,
-231,0,Hồ Chí Minh,Phú Nhuận
-232,0,Toàn Quốc,
-233,0,Hà Nội,Đống Đa
-234,0,Hồ Chí Minh,Phú Nhuận
-235,0,Toàn Quốc,
-236,0,Nghệ An,TP Vinh
-237,0,Nghệ An,TP Vinh
-238,0,Hà Nội,
-239,0,Hà Nội,Hai Bà Trưng
-240,0,Hà Nội,Cầu Giấy
-241,0,Hồ Chí Minh,
-242,0,Hồ Chí Minh,Quận 1
-243,0,Hồ Chí Minh,Quận 3
-244,0,Hà Nội,Cầu Giấy
-245,0,Hà Nội,Cầu Giấy
-246,0,Cần Thơ,Ninh Kiều
-247,0,Hà Nội,Cầu Giấy
-248,0,Hồ Chí Minh,Phú Nhuận
-249,0,Hồ Chí Minh,Tân Bình
-250,0,Hà Nội,Hai Bà Trưng
-251,0,Hà Nội,Nam Từ Liêm
-252,0,Hà Nội,Nam Từ Liêm
-253,0,Hà Nội,Thạch Thất
-254,0,Hà Nội,Nam Từ Liêm
-255,0,Hà Nội,Nam Từ Liêm
-256,0,Hà Nội,Cầu Giấy
-257,0,Hà Nội,Cầu Giấy
-258,0,Hà Nội,
-259,0,Hà Nội,
-260,0,Hà Nội,
-261,0,Hà Nội,Đống Đa
-262,0,Hồ Chí Minh,Quận 2
-262,1,Hồ Chí Minh,Quận 12
-263,0,Hà Nội,Hoàng Mai
-264,0,Hồ Chí Minh,Bình Thạnh
-265,0,Hà Nội,Hoàn Kiếm
-266,0,Hồ Chí Minh,Tân Bình
-267,0,Hà Nội,
-268,0,Hà Nội,Thanh Xuân
-269,0,Hà Nội,Nam Từ Liêm
-270,0,Hà Nội,Hai Bà Trưng
-271,0,Hà Nội,Cầu Giấy
-272,0,Hà Nội,Cầu Giấy
-273,0,Hà Nội,Đống Đa
-274,0,Hồ Chí Minh,Phú Nhuận
-275,0,Hồ Chí Minh,Quận 7
-276,0,Hà Nội,Cầu Giấy
-277,0,Thừa Thiên Huế,TP Huế
-278,0,Hồ Chí Minh,Quận 7
-279,0,Hà Nội,Cầu Giấy
-280,0,Hà Nội,Cầu Giấy
-281,0,Hà Nội,Bắc Từ Liêm
-282,0,Hà Nội,
-283,0,Hà Nội,Thanh Xuân
-284,0,Đà Nẵng,Sơn Trà
-285,0,Đà Nẵng,Thanh Khê
-286,0,Đà Nẵng,Thanh Khê
-286,1,Hồ Chí Minh,Quận 4
-286,2,Thừa Thiên Huế,TP Huế
-287,0,Đà Nẵng,Thanh Khê
-288,0,Hồ Chí Minh,Thủ Đức
-289,0,Hồ Chí Minh,Thủ Đức
-289,1,Đà Nẵng,Thanh Khê
-289,2,Thừa Thiên Huế,TP Huế
-290,0,Đà Nẵng,Thanh Khê
-291,0,Đà Nẵng,Thanh Khê
-292,0,Hồ Chí Minh,Quận 1
-293,0,Hà Nội,Hồ Chí Minh
-294,0,Hà Nội,Hồ Chí Minh
-295,0,Hà Nội,Hồ Chí Minh
-296,0,Hà Nội,Hồ Chí Minh
-296,1,Đà Nẵng,
-297,0,Hà Nội,Thanh Trì
-298,0,Hà Nội,Cầu Giấy
-299,0,Hà Nội,Hồ Chí Minh
-300,0,Hồ Chí Minh,Tân Bình
-301,0,Hà Nội,Nam Từ Liêm
-302,0,Hà Nội,Hà Đông
-303,0,Hồ Chí Minh,Hà Nội
-304,0,Hà Nội,Cầu Giấy
-305,0,Hà Nội,Thanh Xuân
-306,0,Hồ Chí Minh,Quận 10
-307,0,Hà Nội,
-308,0,Hà Nội,Cầu Giấy
-309,0,Hà Nội,Nam Từ Liêm
-310,0,Hà Nội,Cầu Giấy
-311,0,Hà Nội,Cầu Giấy
-312,0,Hà Nội,Nam Từ Liêm
-313,0,Hà Nội,Nam Từ Liêm
-314,0,Hà Nội,Hà Đông
-315,0,Hà Nội,Hà Đông
-316,0,Hồ Chí Minh,Bình Thạnh
-317,0,Hà Nội,Thanh Xuân
-318,0,Hà Nội,
-319,0,Hồ Chí Minh,Tân Bình
-320,0,Hồ Chí Minh,Quận 7
-321,0,Hà Nội,Bắc Từ Liêm
-322,0,Hà Nội,Đống Đa
-323,0,Hồ Chí Minh,Bình Thạnh
-323,1,Hồ Chí Minh,Phú Nhuận
-323,2,Hồ Chí Minh,Gò Vấp
-323,3,Hồ Chí Minh,Thủ Đức
-323,4,Bình Dương,Dĩ An
-323,5,Bình Dương,Thuận An
-323,6,Đồng Nai,Biên Hoà
-324,0,Hà Nội,Cầu Giấy
-325,0,Hà Nội,Hoàn Kiếm
-326,0,Hà Nội,Nam Từ Liêm
-327,0,Hồ Chí Minh,Quận 3
-328,0,Hà Nội,Hà Đông
-329,0,Hà Nội,Thanh Xuân
-330,0,Hồ Chí Minh,Thủ Đức
-330,1,Hồ Chí Minh,Nhà Bè
-330,2,Hồ Chí Minh,Quận 6
-330,3,Hồ Chí Minh,Quận 7
-330,4,Hồ Chí Minh,Quận 12
-330,5,Hồ Chí Minh,Bình Chánh
-331,0,Hà Nội,Cầu Giấy
-332,0,Hà Nội,Nam Từ Liêm
-333,0,Hồ Chí Minh,Quận 3
-334,0,Hà Nội,Thanh Xuân
-335,0,Hà Nội,Cầu Giấy
-335,1,Hà Nội,Thanh Xuân
-336,0,Hồ Chí Minh,Bình Thạnh
-337,0,Hồ Chí Minh,Bình Thạnh
-338,0,Hà Nội,Đống Đa
-339,0,Hà Nội,Thanh Xuân
-340,0,Hồ Chí Minh,Quận 3
-341,0,Hà Nội,Cầu Giấy
-342,0,Khánh Hoà,TP Nha Trang
-343,0,Hồ Chí Minh,Quận 7
-344,0,Hà Nội,Cầu Giấy
-345,0,Hà Nội,Hoàng Mai
-346,0,Hà Nội,Hoàng Mai
-347,0,Hà Nội,Nam Từ Liêm
-348,0,Hồ Chí Minh,Tân Bình
-349,0,Hồ Chí Minh,Tân Bình
-350,0,Hà Nội,Thanh Xuân
-351,0,Hà Nội,Cầu Giấy
-351,1,Hồ Chí Minh,Quận 7
-352,0,Hà Nội,Cầu Giấy
-352,1,Hồ Chí Minh,Quận 7
-353,0,Toàn Quốc,
-354,0,Hà Nội,Nam Từ Liêm
-355,0,Hà Nội,Ba Đình
-356,0,Hà Nội,Bắc Từ Liêm
-357,0,Hà Nội,Bắc Từ Liêm
-358,0,Hà Nội,Bắc Từ Liêm
-359,0,Hồ Chí Minh,
-360,0,Hồ Chí Minh,Quận 1
-361,0,Hà Nội,Hai Bà Trưng
-362,0,Hồ Chí Minh,Quận 1
-363,0,Hà Nội,Nam Từ Liêm
-364,0,Hà Nội,Cầu Giấy
-365,0,Hà Nội,Cầu Giấy
-366,0,Hà Nội,
-367,0,Hồ Chí Minh,Quận 1
-368,0,Hồ Chí Minh,Thủ Đức
-369,0,Hà Nội,Cầu Giấy
-370,0,Hà Nội,Hà Đông
-371,0,Hồ Chí Minh,Quận 3
-372,0,Hồ Chí Minh,Quận 3
-373,0,Hồ Chí Minh,Quận 3
-374,0,Hà Nội,
-375,0,Tây Ninh,Trảng Bàng
-376,0,Hà Nội,Cầu Giấy
-377,0,Hà Nội,Cầu Giấy
-378,0,Hà Nội,Cầu Giấy
-379,0,Hà Nội,Hà Đông
-380,0,Hà Nội,Cầu Giấy
-381,0,Hồ Chí Minh,Quận 3
-382,0,Hà Nội,Hai Bà Trưng
-383,0,Hồ Chí Minh,Thủ Đức
-384,0,Hồ Chí Minh,Thủ Đức
-385,0,Hồ Chí Minh,Tân Bình
-386,0,Hồ Chí Minh,Quận 12
-387,0,Hồ Chí Minh,Thủ Đức
-388,0,Đà Nẵng,Ngũ Hành Sơn
-389,0,Hồ Chí Minh,Quận 1
-390,0,Hà Nội,Thanh Trì
-391,0,Hà Nội,
-392,0,Long An,Bến Lức
-393,0,Hồ Chí Minh,Bình Thạnh
-394,0,Nước Ngoài,Hà Nội
-394,1,Nam Từ Liêm,
-395,0,Hà Nội,Cầu Giấy
-396,0,Hà Nội,Cầu Giấy
-397,0,Hà Nội,
-398,0,Nước Ngoài,Hà Nội
-398,1,Nam Từ Liêm,
-399,0,Đồng Nai,Trảng Bom
-400,0,Hà Nội,Đống Đa
-401,0,Hà Nội,Hoàng Mai
-402,0,Hồ Chí Minh,Quận 9
-403,0,Hà Nội,Cầu Giấy
-404,0,Hà Nội,Cầu Giấy
-405,0,Hồ Chí Minh,Thủ Đức
-406,0,Hà Nội,Đống Đa
-407,0,Hà Nội,
-408,0,Hà Nội,Thanh Xuân
-409,0,Hà Nội,Cầu Giấy
-410,0,Hà Nội,Từ Liêm
-411,0,Hồ Chí Minh,Quận 12
-412,0,Hà Nội,Từ Liêm
-413,0,Hà Nội,Nam Từ Liêm
-414,0,Hà Nội,Nam Từ Liêm
-415,0,Hà Nội,Nam Từ Liêm
-416,0,Hà Nội,Nam Từ Liêm
-417,0,Hà Nội,Cầu Giấy
-418,0,Hà Nội,Cầu Giấy
-419,0,Hà Nội,Cầu Giấy
-420,0,Hồ Chí Minh,Quận 2
-421,0,Hà Nội,Nam Từ Liêm
-422,0,Hà Nội,Nam Từ Liêm
-423,0,Hà Nội,Hồ Chí Minh
-424,0,Hồ Chí Minh,Quận 2
-425,0,Hà Nội,Tây Hồ
-426,0,Hồ Chí Minh,Quận 12
-427,0,Hà Nội,Nam Từ Liêm
-428,0,Hà Nội,Cầu Giấy
-429,0,Hà Nội,Cầu Giấy
-430,0,Hà Nội,Cầu Giấy
-431,0,Hà Nội,Cầu Giấy
-432,0,Hà Nội,Cầu Giấy
-433,0,Hà Nội,Đống Đa
-434,0,Đà Nẵng,
-435,0,Hồ Chí Minh,Quận 9
-435,1,Hà Nội,Cầu Giấy
-435,2,Đà Nẵng,Ngũ Hành Sơn
-435,3,Thừa Thiên Huế,TP Huế
-436,0,Hồ Chí Minh,Bình Thạnh
-437,0,Đà Nẵng,
-438,0,Hà Nội,Thanh Xuân
-439,0,Hà Nội,Thanh Xuân
-440,0,Hà Nội,Thanh Xuân
-441,0,Hà Nội,Thanh Xuân
-442,0,Hà Nội,Thanh Xuân
-443,0,Hồ Chí Minh,Tân Bình
-444,0,Hà Nội,Cầu Giấy
-445,0,Hồ Chí Minh,Quận 3
-446,0,Hà Nội,Nam Từ Liêm
-447,0,Hà Nội,
-448,0,Hà Nội,Ba Đình
-449,0,Đồng Nai,Biên Hoà
-450,0,Hà Nội,Thanh Xuân
-450,1,Hồ Chí Minh,Quận 7
-450,2,Hải Dương,TP Hải Dương
-451,0,Hà Nội,Thanh Xuân
-451,1,Hồ Chí Minh,Quận 7
-451,2,Hải Dương,TP Hải Dương
-452,0,Hà Nội,Thanh Xuân
-452,1,Hồ Chí Minh,Quận 7
-452,2,Hải Dương,TP Hải Dương
-453,0,Hồ Chí Minh,Quận 10
-454,0,Hà Nội,
-455,0,Hồ Chí Minh,Bình Thạnh
-456,0,Hồ Chí Minh,
-457,0,Hồ Chí Minh,Quận 7
-458,0,Hồ Chí Minh,Quận 10
-459,0,Hồ Chí Minh,
-460,0,Hà Nội,Hà Đông
-461,0,Hà Nội,Thanh Xuân
-462,0,Hồ Chí Minh,Quận 10
-463,0,Hà Nội,Thanh Xuân
-464,0,Hồ Chí Minh,
-465,0,Hà Nội,Cầu Giấy
-466,0,Hồ Chí Minh,Quận 2
-467,0,Hồ Chí Minh,Tân Bình
-468,0,Hồ Chí Minh,Tân Bình
-469,0,Hồ Chí Minh,Bình Thạnh
-469,1,Đà Nẵng,Cẩm Lệ
-470,0,Hà Nội,Ba Đình
-470,1,Hồ Chí Minh,Tân Bình
-471,0,Hồ Chí Minh,Tân Bình
-472,0,Hồ Chí Minh,Tân Bình
-473,0,Hồ Chí Minh,Tân Bình
-473,1,Hà Nội,Ba Đình
-474,0,Hồ Chí Minh,Tân Bình
-475,0,Hồ Chí Minh,Tân Bình
-476,0,Hà Nội,Thanh Xuân
-477,0,Hà Nội,Đống Đa
-478,0,Hà Nội,Cầu Giấy
-479,0,Hồ Chí Minh,Tân Bình
-480,0,Hà Nội,Nam Từ Liêm
-481,0,Hà Nội,Nam Từ Liêm
-482,0,Hà Nội,Nam Từ Liêm
-483,0,Hà Nội,Cầu Giấy
-484,0,Hà Nội,Hà Đông
-485,0,Hà Nội,Hà Đông
-486,0,Hà Nội,Nam Từ Liêm
-487,0,Hồ Chí Minh,Tân Bình
-488,0,Hồ Chí Minh,Tân Bình
-489,0,Hồ Chí Minh,Gò Vấp
-490,0,Hà Nội,Hai Bà Trưng
-491,0,Hà Nội,Hồ Chí Minh
-492,0,Hà Nội,Hà Đông
-493,0,Hà Nội,Hồ Chí Minh
-494,0,Hà Nội,Hồ Chí Minh
-495,0,Hà Nội,Hồ Chí Minh
-496,0,Hà Nội,Hồ Chí Minh
-497,0,Hà Nội,Đà Nẵng
-497,1,Hồ Chí Minh,
-498,0,Hồ Chí Minh,Quận 1
-499,0,Hồ Chí Minh,Quận 1
-500,0,Hồ Chí Minh,
-501,0,Hà Nội,Cầu Giấy
-502,0,Hà Nội,Đống Đa
-503,0,Hà Nội,Thanh Xuân
-504,0,Hà Nội,
-505,0,Hà Nội,Cầu Giấy
-506,0,Hà Nội,Cầu Giấy
-507,0,Hà Nội,
-508,0,Hồ Chí Minh,
-509,0,Hà Nội,
-510,0,Hà Nội,Cầu Giấy
-511,0,Bình Dương,Tân Uyên
-512,0,Hà Nội,Hai Bà Trưng
-513,0,Hà Nội,Hai Bà Trưng
-514,0,Hà Nội,Đống Đa
-515,0,Hà Nội,Cầu Giấy
-515,1,Hồ Chí Minh,Quận 9
-516,0,Hồ Chí Minh,Quận 12
-517,0,Hà Nội,Cầu Giấy
-518,0,Hà Nội,Thanh Xuân
-519,0,Hà Nội,Hai Bà Trưng
-520,0,Hà Nội,Cầu Giấy
-521,0,Hồ Chí Minh,Quận 10
-522,0,Hà Nội,Nam Từ Liêm
-523,0,Hồ Chí Minh,Quận 9
-524,0,Hà Nội,
-525,0,Hồ Chí Minh,Quận 3
-526,0,Hà Nội,
-527,0,Hồ Chí Minh,Quận 3
-528,0,Hồ Chí Minh,
-529,0,Hồ Chí Minh,Tân Bình
-530,0,Hồ Chí Minh,Gò Vấp
-531,0,Hà Nội,Thanh Xuân
-532,0,Hồ Chí Minh,Quận 10
-532,1,Hà Nội,Nam Từ Liêm
-533,0,Hồ Chí Minh,Quận 10
-534,0,Hà Nội,Hai Bà Trưng
-535,0,Hồ Chí Minh,
-536,0,Hà Nội,Tây Hồ
-537,0,Hồ Chí Minh,Gò Vấp
-538,0,Hà Nội,Cầu Giấy
-539,0,Hồ Chí Minh,Tân Bình
-540,0,Hà Nội,Hai Bà Trưng
-541,0,Hà Nội,
-542,0,Đà Nẵng,Ngũ Hành Sơn
-543,0,Đà Nẵng,Ngũ Hành Sơn
-544,0,Đà Nẵng,Ngũ Hành Sơn
-545,0,Đồng Nai,
-546,0,Hà Nội,Cầu Giấy
-547,0,Hà Nội,Hoàng Mai
-548,0,Hà Nội,Đống Đa
-549,0,Hà Nội,Thanh Xuân
-550,0,Hà Nội,Cầu Giấy
-551,0,Hà Nội,Thanh Xuân
-552,0,Hồ Chí Minh,Quận 4
-553,0,Lâm Đồng,TP Đà Lạt
-554,0,Hà Nội,Cầu Giấy
-555,0,Nghệ An,TP Vinh
-556,0,Hà Nam,Duy Tiên
-556,1,Hà Nam,Thanh Liêm
-557,0,Hồ Chí Minh,Quận 3
-558,0,Hồ Chí Minh,Tân Bình
-559,0,Bắc Ninh,Quế Võ
-560,0,Hồ Chí Minh,Gò Vấp
-561,0,Hà Nội,Hà Đông
-562,0,Hồ Chí Minh,Tân Bình
-563,0,Hà Nội,Ba Đình
-564,0,Hà Nội,Ba Đình
-565,0,Hồ Chí Minh,Bình Thạnh
-566,0,Đồng Tháp,Cao Lãnh
-567,0,Đồng Tháp,Cao Lãnh
-568,0,Hà Nội,Tây Hồ
-569,0,Đồng Tháp,Cao Lãnh
-570,0,Hồ Chí Minh,Đà Nẵng
-571,0,Hà Nội,Cầu Giấy
-572,0,Hà Nội,Thanh Xuân
-573,0,Hà Nội,Đống Đa
-574,0,Hà Nội,Cầu Giấy
-575,0,Hà Nội,Cầu Giấy
-576,0,Hồ Chí Minh,Thủ Đức
-577,0,Hà Nội,Nam Từ Liêm
-578,0,Hồ Chí Minh,Quận 1
-579,0,Hà Nội,Cầu Giấy
-580,0,Long An,Bến Lức
-581,0,Thanh Hoá,TP Thanh Hoá
-582,0,Thanh Hoá,TP Thanh Hoá
-583,0,Hà Nội,
-584,0,Hà Nội,Cầu Giấy
-585,0,Hà Nội,Thanh Xuân
-586,0,Hà Nội,Thanh Xuân
-587,0,Hà Nội,Cầu Giấy
-588,0,Hà Nội,Nam Từ Liêm
-589,0,Tiền Giang,
-590,0,Hà Nội,Nam Từ Liêm
-591,0,Hà Nội,Nam Từ Liêm
-592,0,Hồ Chí Minh,Quận 7
-593,0,Hồ Chí Minh,Bình Thạnh
-594,0,Hà Nội,
-595,0,Hồ Chí Minh,Thủ Đức
-596,0,Hà Nội,Nam Từ Liêm
-597,0,Hồ Chí Minh,Bình Thạnh
-598,0,Hà Nội,Nam Từ Liêm
-599,0,Hà Nội,Nam Từ Liêm
-600,0,Hồ Chí Minh,Bình Thạnh
-601,0,Hà Nội,Cầu Giấy
-602,0,Hồ Chí Minh,Quận 2
-602,1,Hồ Chí Minh,Bình Thạnh
-602,2,Hồ Chí Minh,Quận 3
-602,3,Hồ Chí Minh,Phú Nhuận
-602,4,Hồ Chí Minh,Gò Vấp
-602,5,Hồ Chí Minh,Tân Bình
-602,6,Hồ Chí Minh,Tân Phú
-602,7,Hồ Chí Minh,Bình Tân
-602,8,Hồ Chí Minh,Quận 11
-602,9,Hồ Chí Minh,Quận 7
-602,10,Bình Dương,Thủ Dầu Một
-603,0,Hồ Chí Minh,Bình Tân
-603,1,Hồ Chí Minh,Gò Vấp
-603,2,Hồ Chí Minh,Quận 2
-603,3,Hồ Chí Minh,Quận 7
-603,4,Hồ Chí Minh,Bình Thạnh
-603,5,Hồ Chí Minh,Quận 3
-603,6,Hồ Chí Minh,Tân Bình
-603,7,Hồ Chí Minh,Phú Nhuận
-603,8,Hồ Chí Minh,Tân Phú
-603,9,Hồ Chí Minh,Quận 11
-603,10,Bình Dương,Thủ Dầu Một
-604,0,Hà Nội,Đà Nẵng
-604,1,Hồ Chí Minh,
-605,0,Hà Nội,Hà Đông
-606,0,Hà Nội,Hồ Chí Minh
-607,0,Hà Nội,Cầu Giấy
-608,0,Hà Nội,Hoàng Mai
-609,0,Hà Nội,Đống Đa
-610,0,Hà Nội,Hà Đông
-611,0,Hồ Chí Minh,Thủ Đức
-611,1,Hồ Chí Minh,Nhà Bè
-611,2,Hồ Chí Minh,Quận 6
-611,3,Hồ Chí Minh,Quận 7
-611,4,Hồ Chí Minh,Quận 12
-611,5,Hồ Chí Minh,Bình Chánh
-612,0,Hà Nội,
-613,0,Hồ Chí Minh,Quận 12
-614,0,Hà Nội,Thanh Xuân
-615,0,Hà Nội,Thanh Xuân
-616,0,Hà Nội,Thanh Xuân
-617,0,Hà Nội,Hoàng Mai
-618,0,Hà Nội,Bắc Từ Liêm
-619,0,Hà Nội,Thanh Xuân
-620,0,Hồ Chí Minh,Quận 1
-621,0,Hà Nội,Cầu Giấy
-622,0,Hà Nội,Hồ Chí Minh
-623,0,Hà Nội,Cầu Giấy
-624,0,Thanh Hoá,TP Thanh Hoá
-625,0,Hà Nội,Thanh Xuân
-626,0,Hà Nội,
-627,0,Hà Nội,Cầu Giấy
-628,0,Hà Nội,Cầu Giấy
-629,0,Hà Nội,Cầu Giấy
-630,0,Hà Nội,
-631,0,Hà Nội,Cầu Giấy
-632,0,Hưng Yên,Văn Giang
-632,1,Hà Nội,Nam Từ Liêm
-633,0,Hà Nội,Hoàng Mai
-634,0,Hồ Chí Minh,Tân Bình
-635,0,Hà Nội,Cầu Giấy
-636,0,Hà Nội,Tây Hồ
-637,0,Hà Nội,Thanh Trì
-638,0,Hồ Chí Minh,Quận 1
-639,0,Hà Nội,Cầu Giấy
-640,0,Hà Nội,Đống Đa
-641,0,Hà Nội,Hà Đông
-642,0,Hà Nội,Đống Đa
-643,0,Hà Nội,
-644,0,Hồ Chí Minh,Phú Nhuận
-645,0,Hà Nội,Cầu Giấy
-646,0,Hà Nội,Cầu Giấy
-647,0,Hà Nội,Từ Liêm
-648,0,Hà Nội,Hai Bà Trưng
-649,0,Hà Nội,Nam Từ Liêm
-650,0,Hà Nội,Hoàn Kiếm
-651,0,Hà Nội,Cầu Giấy
-651,1,Hồ Chí Minh,Thủ Đức
-652,0,Hồ Chí Minh,
-653,0,Bình Định,TP Quy Nhơn
-654,0,Hà Nội,Ba Đình
-655,0,Hà Nội,
-656,0,Hà Nội,Hà Đông
-657,0,Hà Nội,Hà Đông
-658,0,Hồ Chí Minh,Bình Thạnh
-659,0,Hà Nội,Tây Hồ
-660,0,Hà Nội,Đống Đa
-661,0,Hà Nội,Cầu Giấy
-662,0,Hà Nội,Thanh Xuân
-663,0,Hà Nội,Hai Bà Trưng
-664,0,Hà Nội,Cầu Giấy
-665,0,Hồ Chí Minh,Tân Bình
-666,0,Hà Nội,Hai Bà Trưng
-667,0,Hà Nội,Từ Liêm
-668,0,Hà Nội,Thanh Xuân
-669,0,Hà Nội,Cầu Giấy
-670,0,Hồ Chí Minh,Quận 2
-671,0,Hà Nội,
-672,0,Hà Nội,Nam Từ Liêm
-673,0,Hà Nội,Thanh Xuân
-674,0,Hà Nội,Thanh Xuân
-675,0,Hà Nội,Thanh Xuân
-676,0,Hà Nội,Cầu Giấy
-676,1,Hồ Chí Minh,Tân Bình
-677,0,Hà Nội,Đống Đa
-678,0,Bình Dương,Thuận An
-679,0,Hồ Chí Minh,
-680,0,Hồ Chí Minh,
-681,0,Hà Nội,Đống Đa
-682,0,Hà Nội,
-683,0,Hà Nội,Nam Từ Liêm
-684,0,Hồ Chí Minh,
-685,0,Hà Nội,Cầu Giấy
-686,0,Hà Nội,Nam Từ Liêm
-687,0,Hà Nội,Nam Từ Liêm
-688,0,Hà Nội,Cầu Giấy
-689,0,Hà Nội,Cầu Giấy
-690,0,Hà Nội,Cầu Giấy
-691,0,Hà Nội,Từ Liêm
-692,0,Hà Nội,
-693,0,Hồ Chí Minh,Quận 8
-694,0,Hà Nội,Cầu Giấy
-695,0,Hồ Chí Minh,Quận 3
-696,0,Hà Nội,Nam Từ Liêm
-697,0,Hà Nội,Nam Từ Liêm
-698,0,Hà Nội,Hai Bà Trưng
-699,0,Hà Nội,Hai Bà Trưng
-700,0,Hà Nội,Thanh Xuân
-701,0,Hà Nội,Đống Đa
-702,0,Hồ Chí Minh,Quận 4
-703,0,Bình Dương,Tân Uyên
-704,0,Hà Nội,Nam Từ Liêm
-705,0,Hà Nội,Hoàng Mai
-706,0,Hà Nội,Bắc Từ Liêm
-707,0,Hà Nội,Nam Từ Liêm
-707,1,Hà Nội,Hoàng Mai
-708,0,Hà Nội,
-709,0,Hà Nội,Bắc Từ Liêm
-710,0,Hà Nội,Cầu Giấy
-711,0,Hà Nội,Long Biên
-712,0,Đà Nẵng,Ngũ Hành Sơn
-713,0,Hà Nội,Long Biên
-714,0,Hà Nội,Đống Đa
-715,0,Hà Nội,Thanh Xuân
-716,0,Hồ Chí Minh,Tân Bình
-717,0,Hồ Chí Minh,Quận 12
-718,0,Hồ Chí Minh,Quận 7
-719,0,Hồ Chí Minh,Quận 4
-719,1,Hà Nội,Cầu Giấy
-720,0,Hồ Chí Minh,Quận 4
-721,0,Hà Nội,Cầu Giấy
-721,1,Hồ Chí Minh,Quận 4
-722,0,Hà Nội,Đống Đa
-723,0,Hà Nội,Cầu Giấy
-724,0,Hà Nội,Cầu Giấy
-725,0,Hà Nội,Đống Đa
-726,0,Hà Nội,Cầu Giấy
-727,0,Hà Nội,Bắc Từ Liêm
-728,0,Hồ Chí Minh,Phú Nhuận
-729,0,Hồ Chí Minh,Phú Nhuận
-730,0,Hà Nội,Bắc Từ Liêm
-731,0,Hà Nội,Nam Từ Liêm
-732,0,Hồ Chí Minh,Quận 2
-733,0,Hà Nội,Đống Đa
-734,0,Hồ Chí Minh,Bình Thạnh
-735,0,Hồ Chí Minh,Bình Thạnh
-736,0,Hồ Chí Minh,Quận 2
-737,0,Hà Nội,Đống Đa
-738,0,Hồ Chí Minh,Quận 7
-739,0,Hà Nội,
-740,0,Hồ Chí Minh,Quận 10
-741,0,Hồ Chí Minh,Tân Bình
-742,0,Hà Nội,Đống Đa
-743,0,Hà Nội,Đống Đa
-744,0,Hồ Chí Minh,Quận 1
-745,0,Hồ Chí Minh,Quận 10
-746,0,Hà Nội,Thanh Xuân
-747,0,Hà Nội,Bắc Từ Liêm
-748,0,Hà Nội,Thanh Xuân
-749,0,Hà Nội,Cầu Giấy
-749,1,Hà Nội,Thanh Xuân
-750,0,Hà Nội,Từ Liêm
-751,0,Hà Nội,Nam Từ Liêm
-752,0,Hà Nội,Thanh Xuân
-753,0,Hà Nội,Thanh Xuân
-754,0,Hà Nội,
-755,0,Hồ Chí Minh,Quận 3
-756,0,Hà Nội,Hai Bà Trưng
-757,0,Hồ Chí Minh,Bình Thạnh
-758,0,Hồ Chí Minh,Thủ Đức
-759,0,Hà Nội,Nam Từ Liêm
-760,0,Hồ Chí Minh,Quận 1
-761,0,Hà Nội,Tây Hồ
-762,0,Hà Nội,Đống Đa
-763,0,Hà Nội,Cầu Giấy
-764,0,Hà Nội,Cầu Giấy
-765,0,Hà Nội,Nam Từ Liêm
-766,0,Hà Nội,Cầu Giấy
-767,0,Hà Nội,Cầu Giấy
-768,0,Hồ Chí Minh,Quận 4
-769,0,Hà Nội,Nam Từ Liêm
-770,0,Hà Nội,
-771,0,Hồ Chí Minh,Quận 1
-772,0,Bình Dương,Thủ Dầu Một
-773,0,Hà Nội,Hai Bà Trưng
-774,0,Hà Nội,Thanh Xuân
-775,0,Hồ Chí Minh,Quận 5
-776,0,Hà Nội,Nam Từ Liêm
-777,0,Hà Nội,Nam Từ Liêm
-778,0,Hà Nội,
-779,0,Hà Nội,Nam Từ Liêm
-780,0,Hà Nội,
-781,0,Hà Nội,
-782,0,Hà Nội,
-783,0,Hà Nội,
-784,0,Hà Nội,Nam Từ Liêm
-785,0,Đà Nẵng,Hải Châu
-786,0,Hồ Chí Minh,Gò Vấp
-786,1,Đà Nẵng,Sơn Trà
-786,2,Hà Nội,Đống Đa
-787,0,Hồ Chí Minh,Quận 5
-788,0,Hồ Chí Minh,Bình Thạnh
-789,0,Hà Nội,Cầu Giấy
-790,0,Hà Nội,Cầu Giấy
-791,0,Hà Nội,Cầu Giấy
-792,0,Hà Nội,Cầu Giấy
-793,0,Hà Nội,Nam Từ Liêm
-794,0,Hà Nội,Đống Đa
-795,0,Hà Nội,Đống Đa
-796,0,Hà Nội,Đống Đa
-797,0,Hà Nội,Cầu Giấy
-798,0,Hà Nội,
-799,0,Hà Nội,Ba Đình
-800,0,Hà Nội,Cầu Giấy
-801,0,Hà Nội,Cầu Giấy
-802,0,Hà Nội,Cầu Giấy
-803,0,Hồ Chí Minh,Tân Bình
-804,0,Hà Nội,Thanh Xuân
-805,0,Hà Nội,Hà Đông
-806,0,Hà Nội,
-807,0,Hà Nội,Thạch Thất
-808,0,Hà Nội,Cầu Giấy
-809,0,Hà Nội,Cầu Giấy
-810,0,Hà Nội,Bắc Từ Liêm
-811,0,Hồ Chí Minh,Tân Bình
-812,0,Đà Nẵng,Ngũ Hành Sơn
-813,0,Hà Nội,Cầu Giấy
-814,0,Hà Nội,Ba Đình
-815,0,Hà Nội,Ba Đình
-816,0,Hà Nội,Ba Đình
-817,0,Hà Nội,Ba Đình
-818,0,Hà Nội,Ba Đình
-819,0,Hà Nội,Ba Đình
-820,0,Hà Nội,Nam Từ Liêm
-821,0,Hồ Chí Minh,
-822,0,Hồ Chí Minh,Thủ Đức
-823,0,Hà Nội,Thanh Xuân
-824,0,Hà Nội,Cầu Giấy
-825,0,Hải Phòng,Lê Chân
-826,0,Hà Nội,Tây Hồ
-827,0,Hồ Chí Minh,Bình Thạnh
-828,0,Hồ Chí Minh,Phú Nhuận
-829,0,Hồ Chí Minh,Tân Bình
-830,0,Hà Nội,Nam Từ Liêm
-831,0,Hồ Chí Minh,Tân Bình
-832,0,Hồ Chí Minh,Phú Nhuận
-832,1,Đà Nẵng,Thanh Khê
-833,0,Hồ Chí Minh,Phú Nhuận
-833,1,Đà Nẵng,Thanh Khê
-834,0,Hà Nội,Đống Đa
-835,0,Hà Nội,Từ Liêm
-836,0,Hà Nội,Tây Hồ
-837,0,Hà Nội,Ba Đình
-838,0,Thanh Hoá,Thạch Thành
-839,0,Hà Nội,
-840,0,Hà Nội,Thanh Xuân
-841,0,Hà Nội,Thanh Xuân
-842,0,Hà Nội,
-843,0,Hà Nội,Nam Từ Liêm
-844,0,Hà Nội,Hồ Chí Minh
-844,1,Đà Nẵng,
-845,0,Hà Nội,Hồ Chí Minh
-845,1,Đà Nẵng,
-846,0,Hà Nội,Cầu Giấy
-847,0,Hà Nội,Đống Đa
-848,0,Hà Nội,Cầu Giấy
-849,0,Hà Nội,Tây Hồ
-850,0,Hồ Chí Minh,Tân Bình
-851,0,Hà Nội,Cầu Giấy
-852,0,Hà Nội,Nam Từ Liêm
-853,0,Hà Nội,Cầu Giấy
-854,0,Hà Nội,Cầu Giấy
-854,1,Hồ Chí Minh,Phú Nhuận
-855,0,Hồ Chí Minh,Bình Thạnh
-856,0,Hồ Chí Minh,Quận 1
-857,0,Hà Nội,Đống Đa
-858,0,Hà Nội,Từ Liêm
-859,0,Hà Nội,Nam Từ Liêm
-860,0,Hà Nội,Cầu Giấy
-861,0,Hồ Chí Minh,Quận 10
-862,0,Hà Nội,Nam Từ Liêm
-862,1,Hồ Chí Minh,Tân Bình
-863,0,Hà Nội,Nam Từ Liêm
-864,0,Hà Nội,
-865,0,Hải Phòng,Ngô Quyền
-866,0,Bắc Ninh,TP Bắc Ninh
-867,0,Hồ Chí Minh,Tân Bình
-868,0,Hà Nội,Cầu Giấy
-869,0,Hà Nội,Cầu Giấy
-870,0,Hà Nội,Đống Đa
-871,0,Hà Tĩnh,
-872,0,Hồ Chí Minh,Bình Thạnh
-873,0,Hà Nội,Đống Đa
-874,0,Hồ Chí Minh,Bình Thạnh
-875,0,Hồ Chí Minh,Bình Thạnh
-876,0,Hà Nội,Thanh Xuân
-877,0,Hà Nội,Cầu Giấy
-878,0,Hà Nội,Thanh Xuân
-879,0,Hà Nội,Cầu Giấy
-880,0,Hà Nội,Cầu Giấy
-881,0,Hà Nội,Cầu Giấy
-882,0,Hà Nội,Cầu Giấy
-883,0,Nước Ngoài,
-884,0,Hà Nội,Cầu Giấy
-885,0,Hồ Chí Minh,
-886,0,Hà Nội,Hoàng Mai
-887,0,Hà Nội,
-888,0,Hà Nội,Đống Đa
-889,0,Hồ Chí Minh,Tân Bình
-890,0,Hà Nội,Mê Linh
-891,0,Hà Nội,Hồ Chí Minh
-891,1,Đà Nẵng,
-892,0,Hà Nội,Hồ Chí Minh
-892,1,Đà Nẵng,
-893,0,Hà Nội,Hồ Chí Minh
-893,1,Đà Nẵng,
-894,0,Hà Nội,Hồ Chí Minh
-894,1,Đà Nẵng,
-895,0,Hà Nội,Hồ Chí Minh
-896,0,Hà Nội,Hồ Chí Minh
-896,1,Đà Nẵng,
-897,0,Bình Dương,Thuận An
-898,0,Nước Ngoài,
-899,0,Hà Nội,Thanh Xuân
-900,0,Hà Nội,
-901,0,Hà Nội,Cầu Giấy
-901,1,Hà Nội,Nam Từ Liêm
-902,0,Bình Dương,Thủ Dầu Một
-903,0,Hà Nội,Từ Liêm
-904,0,Hà Nội,Thanh Xuân
-905,0,Hồ Chí Minh,Quận 12
-906,0,Hồ Chí Minh,Quận 3
-907,0,Hồ Chí Minh,Bình Thạnh
-908,0,Hà Nội,Cầu Giấy
-909,0,Hà Nội,Ba Đình
-910,0,Hồ Chí Minh,Quận 7
-911,0,Hà Nội,
-912,0,Hà Nội,
-913,0,Hà Nội,Cầu Giấy
-914,0,Hà Nội,Cầu Giấy
-915,0,Hà Nội,Cầu Giấy
-916,0,Hồ Chí Minh,Tân Bình
-917,0,Hà Nội,Cầu Giấy
-918,0,Hồ Chí Minh,Quận 10
-919,0,Hồ Chí Minh,Quận 7
-920,0,Đà Nẵng,Sơn Trà
-921,0,Hà Nội,Cầu Giấy
-922,0,Hà Nội,Cầu Giấy
-923,0,Hà Nội,Cầu Giấy
-924,0,Hà Nội,Cầu Giấy
-925,0,Hà Nội,Cầu Giấy
-926,0,Hồ Chí Minh,
-927,0,Hồ Chí Minh,Tân Bình
-928,0,Hà Nội,Nam Từ Liêm
-929,0,Bình Dương,Thủ Dầu Một
-930,0,Hà Nội,Hai Bà Trưng
-931,0,Hà Nội,Cầu Giấy
-932,0,Hà Nội,Cầu Giấy
-933,0,Hà Nội,
-934,0,Hồ Chí Minh,
-935,0,Hà Nội,Thanh Xuân
-936,0,Hà Nội,Đống Đa
-937,0,Hồ Chí Minh,Bình Dương
-938,0,Hồ Chí Minh,Phú Nhuận
-939,0,Hà Nội,
-940,0,Hồ Chí Minh,Quận 3
-941,0,Hà Nội,Cầu Giấy
-942,0,Hà Nội,Đống Đa
-943,0,Hồ Chí Minh,Quận 1
-944,0,Hà Nội,Cầu Giấy
-945,0,Đà Nẵng,Thanh Khê
-946,0,Đà Nẵng,Thanh Khê
-947,0,Hồ Chí Minh,Quận 3
-948,0,Hà Nội,Thanh Xuân
-949,0,Hà Nội,Nam Từ Liêm
-950,0,Hà Nội,Cầu Giấy
-951,0,Hà Nội,Cầu Giấy
-952,0,Hà Nội,Sóc Sơn
-953,0,Hà Nội,Nam Từ Liêm
-954,0,Hà Nội,Cầu Giấy
-955,0,Hồ Chí Minh,Quận 1
-956,0,Hà Nội,Hoàng Mai
-957,0,Hà Nội,Hoàng Mai
-957,1,Hà Nội,Nam Từ Liêm
-958,0,Hồ Chí Minh,Quận 1
-959,0,Hà Nội,Nam Từ Liêm
-960,0,Đà Nẵng,Hải Châu
-961,0,Hà Nội,Nam Từ Liêm
-962,0,Hà Nội,Hoàng Mai
-963,0,Hà Nội,Nam Từ Liêm
-963,1,Hà Nội,Hoàng Mai
-964,0,Hồ Chí Minh,Thủ Đức
-965,0,Hà Nội,Cầu Giấy
-966,0,Hà Nội,Cầu Giấy
-967,0,Đà Nẵng,Sơn Trà
-968,0,Đà Nẵng,Sơn Trà
-969,0,Đà Nẵng,Sơn Trà
-970,0,Hà Nội,
-971,0,Hồ Chí Minh,Bình Chánh
-972,0,Hà Nội,
-973,0,Hà Nội,Cầu Giấy
-974,0,Hồ Chí Minh,Tân Bình
-975,0,Hà Nội,Đống Đa
-976,0,Hồ Chí Minh,Quận 9
-977,0,Hà Nội,Hai Bà Trưng
-978,0,Hồ Chí Minh,Quận 3
-979,0,Hồ Chí Minh,Phú Nhuận
-980,0,Hồ Chí Minh,Tân Bình
-981,0,Hà Nội,Đống Đa
-982,0,Bình Dương,
-983,0,Đà Nẵng,Liên Chiểu
-984,0,Hà Nội,Cầu Giấy
-984,1,Hà Nội,Hoàn Kiếm
-985,0,Hà Nội,Từ Liêm
-985,1,Hồ Chí Minh,Tân Bình
-986,0,Hà Nội,Ba Đình
-987,0,Hồ Chí Minh,Bình Thạnh
-988,0,Hà Nội,Cầu Giấy
-989,0,Hà Nội,Cầu Giấy
-990,0,Hà Nội,Từ Liêm
-991,0,Hà Nội,Từ Liêm
-992,0,Hà Nội,
-993,0,Hà Nội,Bắc Từ Liêm
-994,0,Hà Nội,Bắc Từ Liêm
-995,0,Hà Nội,Bắc Từ Liêm
-996,0,Hà Nội,Bắc Từ Liêm
-997,0,Hồ Chí Minh,Quận 10
-998,0,Hồ Chí Minh,Bình Thạnh
-999,0,Hà Nội,Từ Liêm
-1000,0,Hà Nội,Đống Đa
-1001,0,Hồ Chí Minh,Tân Phú
-1002,0,Hà Nội,Đống Đa
-1003,0,Hà Nội,Thanh Xuân
-1004,0,Hà Nội,Nam Từ Liêm
-1005,0,Hồ Chí Minh,Quận 3
-1006,0,Hà Nội,Hai Bà Trưng
-1007,0,Hà Nội,Đống Đa
-1008,0,Hà Nội,Nam Từ Liêm
-1009,0,Hồ Chí Minh,Quận 7
-1010,0,Hồ Chí Minh,Bình Thạnh
-1011,0,Hồ Chí Minh,Tân Bình
-1012,0,Hà Nội,Bắc Từ Liêm
-1013,0,Nghệ An,TP Vinh
-1014,0,Hồ Chí Minh,Quận 1
-1015,0,Hồ Chí Minh,Phú Nhuận
-1016,0,Hồ Chí Minh,Phú Nhuận
-1017,0,Hồ Chí Minh,Phú Nhuận
-1018,0,Hà Nội,Đống Đa
-1019,0,Cần Thơ,Ninh Kiều
-1020,0,Hà Nội,Cầu Giấy
-1021,0,Hà Nội,Nam Từ Liêm
-1022,0,Hà Nội,Hai Bà Trưng
-1022,1,Đà Nẵng,Thanh Khê
-1023,0,Hà Nội,Đống Đa
-1024,0,Hồ Chí Minh,Tân Bình
-1025,0,Đà Nẵng,Cẩm Lệ
-1026,0,Hà Nội,Ba Đình
-1027,0,Hà Nội,Nam Từ Liêm
-1028,0,Hà Nội,
-1029,0,Hà Nội,Đống Đa
-1030,0,Hà Nội,Đống Đa
-1031,0,Hà Nội,
-1032,0,Hà Nội,Nam Từ Liêm
-1033,0,Bình Dương,Bến Cát
-1034,0,Hà Nội,Nam Từ Liêm
-1035,0,Hồ Chí Minh,Tân Bình
-1035,1,Đà Nẵng,Hải Châu
-1036,0,Hồ Chí Minh,Quận 7
-1037,0,Hồ Chí Minh,Tân Bình
-1038,0,Cần Thơ,
-1039,0,Hồ Chí Minh,Quận 7
-1039,1,Hồ Chí Minh,Quận 1
-1040,0,Hà Nội,Ba Đình
-1041,0,Hồ Chí Minh,Tân Bình
-1042,0,Hà Nội,Thanh Xuân
-1043,0,Hà Nội,Thanh Xuân
-1044,0,Hà Nội,
-1045,0,Hà Nội,
-1046,0,Hà Nội,
-1047,0,Hà Nội,
-1048,0,Hà Nội,Cầu Giấy
-1049,0,Hồ Chí Minh,Tân Bình
-1050,0,Hà Nội,Hai Bà Trưng
-1051,0,Hà Nội,Thanh Xuân
-1052,0,Hà Nội,Thanh Xuân
-1053,0,Hà Nội,Cầu Giấy
-1054,0,Hà Nội,Thanh Xuân
-1055,0,Hà Nội,Nam Từ Liêm
-1056,0,Hà Nội,Nam Từ Liêm
-1056,1,Hồ Chí Minh,Quận 1
-1057,0,Hà Nội,Đống Đa
-1058,0,Hà Nội,Nam Từ Liêm
-1059,0,Hồ Chí Minh,Phú Nhuận
-1060,0,Hà Nội,Cầu Giấy
-1061,0,Hà Nội,Cầu Giấy
-1062,0,Hà Nội,Cầu Giấy
-1063,0,Hà Nội,Cầu Giấy
-1064,0,Thừa Thiên Huế,TP Huế
-1065,0,Thừa Thiên Huế,TP Huế
-1066,0,Thừa Thiên Huế,TP Huế
-1066,1,Đà Nẵng,Ngũ Hành Sơn
-1067,0,Thừa Thiên Huế,TP Huế
-1068,0,Hà Nội,Cầu Giấy
-1069,0,Hà Nội,Ba Đình
-1070,0,Hà Nội,Cầu Giấy
-1071,0,Hà Nội,Thanh Xuân
-1072,0,Hà Nội,Cầu Giấy
-1073,0,Hà Nội,Cầu Giấy
-1074,0,Hồ Chí Minh,Tân Bình
-1075,0,Hà Nội,
-1076,0,Hà Nội,Đống Đa
-1077,0,Hà Nội,Đống Đa
-1078,0,Nước Ngoài,
-1079,0,Nước Ngoài,
-1080,0,Hồ Chí Minh,Tân Bình
-1081,0,Hà Nội,Hải Phòng
-1082,0,Hà Nội,Hoàng Mai
-1083,0,Hà Nội,Thanh Xuân
-1084,0,Hồ Chí Minh,Gò Vấp
-1085,0,Hồ Chí Minh,Bình Thạnh
-1086,0,Nước Ngoài,
-1087,0,Hà Nội,Cầu Giấy
-1088,0,Hà Nội,Cầu Giấy
-1089,0,Hà Nội,Cầu Giấy
-1090,0,Hà Nội,Từ Liêm
-1091,0,Đà Nẵng,Hải Châu
-1092,0,Hoà Bình,Lương Sơn
-1093,0,Hồ Chí Minh,Quận 7
-1094,0,Hà Nội,Đống Đa
-1094,1,Hồ Chí Minh,Quận 3
-1095,0,Hà Nội,Nam Từ Liêm
-1096,0,Hồ Chí Minh,Tân Bình
-1097,0,Hồ Chí Minh,Tân Bình
-1098,0,Hồ Chí Minh,Tân Bình
-1099,0,Hồ Chí Minh,Tân Bình
-1100,0,Hà Nội,
-1101,0,Hà Nội,Ba Đình
-1102,0,Hà Nội,Cầu Giấy
-1103,0,Hà Nội,Nam Từ Liêm
-1104,0,Hà Nội,Cầu Giấy
-1105,0,Hà Nội,Cầu Giấy
-1106,0,Hồ Chí Minh,Tân Phú
-1107,0,Hà Nội,
-1108,0,Hà Nội,
-1109,0,Hà Nội,Cầu Giấy
-1110,0,Hà Nội,Cầu Giấy
-1111,0,Hà Nội,Cầu Giấy
-1112,0,Hà Nội,Cầu Giấy
-1113,0,Hà Nội,Cầu Giấy
-1114,0,Hà Nội,Cầu Giấy
-1115,0,Hồ Chí Minh,Tân Bình
-1116,0,Hà Nội,Cầu Giấy
-1117,0,Hà Nội,Thanh Xuân
-1118,0,Hồ Chí Minh,Quận 3
-1119,0,Hồ Chí Minh,Quận 2
-1120,0,Hà Nội,Nam Từ Liêm
-1121,0,Hồ Chí Minh,Tân Bình
-1122,0,Hồ Chí Minh,Tân Bình
-1123,0,Hà Nội,Nam Từ Liêm
-1124,0,Hà Nội,Cầu Giấy
-1125,0,Hà Nội,Cầu Giấy
-1126,0,Hà Nội,Cầu Giấy
-1127,0,Hồ Chí Minh,Gò Vấp
-1128,0,Bình Dương,Thuận An
-1129,0,Hà Nội,Cầu Giấy
-1130,0,Hà Nội,Cầu Giấy
-1131,0,Hà Nội,Cầu Giấy
-1132,0,Hồ Chí Minh,Quận 2
-1133,0,Hà Nội,Nam Từ Liêm
-1134,0,Hà Nội,Đống Đa
-1135,0,Hà Nội,Cầu Giấy
-1136,0,Hồ Chí Minh,Quận 3
-1137,0,Hà Nội,Hoàng Mai
-1138,0,Hà Nội,Cầu Giấy
-1139,0,Hà Nội,Ba Đình
-1140,0,Hà Nội,Nam Từ Liêm
-1141,0,Hà Nội,Nam Từ Liêm
-1142,0,Hà Nội,Nam Từ Liêm
-1143,0,Hà Nội,Nam Từ Liêm
-1144,0,Đà Nẵng,Liên Chiểu
-1145,0,Hà Nội,Nam Từ Liêm
-1146,0,Hồ Chí Minh,Quận 7
-1147,0,Hà Nội,Thanh Xuân
-1148,0,Hà Nội,Nam Từ Liêm
-1149,0,Hà Nội,Nam Từ Liêm
-1150,0,Hồ Chí Minh,Bình Thạnh
-1151,0,Hà Nội,Đống Đa
-1152,0,Hà Nội,Nam Từ Liêm
-1153,0,Hà Nội,Cầu Giấy
-1154,0,Hồ Chí Minh,Quận 11
-1155,0,Hồ Chí Minh,Quận 1
-1156,0,Hồ Chí Minh,Tân Bình
-1157,0,Hà Nội,Hà Đông
-1158,0,Hà Nội,Nam Từ Liêm
-1159,0,Hà Nội,
-1160,0,Hà Nội,Nam Từ Liêm
-1161,0,Hồ Chí Minh,Tân Bình
-1162,0,Hà Nội,Nam Từ Liêm
-1162,1,Đà Nẵng,Hải Châu
-1163,0,Hà Nội,Cầu Giấy
-1164,0,Hà Nội,Nam Từ Liêm
-1165,0,Hà Nội,Thanh Xuân
-1166,0,Hồ Chí Minh,Quận 1
-1167,0,Hà Nội,Thanh Xuân
-1168,0,Hà Nội,Cầu Giấy
-1169,0,Hà Nội,Thanh Xuân
-1170,0,Hồ Chí Minh,Quận 10
-1171,0,Hồ Chí Minh,
-1172,0,Hà Nội,Ba Đình
-1173,0,Hồ Chí Minh,Phú Nhuận
-1174,0,Hà Nội,Cầu Giấy
-1175,0,Hà Nội,Thạch Thất
-1176,0,Hà Nội,
-1177,0,Bắc Giang,TP Bắc Giang
-1178,0,Hà Nội,Cầu Giấy
-1179,0,Hồ Chí Minh,Quận 1
-1180,0,Hà Nội,Thạch Thất
-1181,0,Hà Nội,Đống Đa
-1182,0,Hà Nội,Đống Đa
-1182,1,Hà Nội,Cầu Giấy
-1183,0,Hà Nội,Ba Đình
-1183,1,Hồ Chí Minh,Tân Bình
-1184,0,Hà Nội,
-1185,0,Hà Nội,
-1186,0,Hà Nội,Cầu Giấy
-1187,0,Hà Nội,Đống Đa
-1188,0,Hà Nội,Nam Từ Liêm
-1189,0,Hà Nội,Cầu Giấy
-1190,0,Hà Nội,Nam Từ Liêm
-1191,0,Thái Bình,TP Thái Bình
-1192,0,Hồ Chí Minh,Quận 2
-1193,0,Hồ Chí Minh,Quận 2
-1194,0,Hà Nội,
-1195,0,Hồ Chí Minh,Tân Bình
-1196,0,Hà Nội,Nam Từ Liêm
-1197,0,Hồ Chí Minh,Quận 5
-1198,0,Hồ Chí Minh,Quận 6
-1199,0,Hồ Chí Minh,Quận 1
-1200,0,Hà Nội,Hoàng Mai
-1201,0,Hà Nội,Hai Bà Trưng
-1202,0,Hà Nội,Hai Bà Trưng
-1203,0,Hồ Chí Minh,Tân Bình
-1204,0,Hà Nội,Hoàng Mai
-1205,0,Hà Nội,Hai Bà Trưng
-1206,0,Hà Nội,
-1207,0,Hồ Chí Minh,Bình Thạnh
-1208,0,Hồ Chí Minh,Bình Thạnh
-1209,0,Hồ Chí Minh,Quận 7
-1210,0,Hà Nội,
-1211,0,Hà Nội,Cầu Giấy
-1212,0,Hà Nội,Cầu Giấy
-1213,0,Hà Nội,Cầu Giấy
-1214,0,Hồ Chí Minh,
-1215,0,Nghệ An,
-1216,0,Hồ Chí Minh,Tân Bình
-1217,0,Nước Ngoài,
-1218,0,Nước Ngoài,
-1219,0,Hà Nội,Thanh Xuân
-1220,0,Hà Nội,Cầu Giấy
-1221,0,Hà Nội,Thanh Xuân
-1222,0,Hà Nội,Nam Từ Liêm
-1223,0,Hồ Chí Minh,Quận 4
-1224,0,Hà Nội,Cầu Giấy
-1225,0,Hà Nội,Đống Đa
-1226,0,Hà Nội,Cầu Giấy
-1227,0,Hà Nội,Hoàng Mai
-1227,1,Hồ Chí Minh,Thủ Đức
-1228,0,Hà Nội,Cầu Giấy
-1229,0,Hà Nội,Cầu Giấy
-1230,0,Hà Nội,Cầu Giấy
-1231,0,Hồ Chí Minh,Quận 5
-1232,0,Hà Nội,Nam Từ Liêm
-1233,0,Hà Nội,Nam Từ Liêm
-1234,0,Hà Nội,Thanh Xuân
-1235,0,Hà Nội,
-1236,0,Hồ Chí Minh,Phú Nhuận
-1237,0,Hà Nội,Hà Đông
-1238,0,Hà Nội,Hà Đông
-1239,0,Hồ Chí Minh,Nhà Bè
-1240,0,Hà Nội,Cầu Giấy
-1241,0,Hà Nội,Nam Từ Liêm
-1242,0,Hồ Chí Minh,Tân Bình
-1243,0,Hồ Chí Minh,
-1244,0,Hồ Chí Minh,Quận 10
-1245,0,Hồ Chí Minh,Quận 10
-1246,0,Hà Nội,Nam Từ Liêm
-1247,0,Hà Nội,Cầu Giấy
-1248,0,Hồ Chí Minh,Quận 10
-1249,0,Hồ Chí Minh,Quận 1
-1250,0,Hà Nội,Ba Đình
-1251,0,Hồ Chí Minh,Quận 5
-1252,0,Hà Nội,Thanh Xuân
-1253,0,Hà Nội,Cầu Giấy
-1254,0,Hồ Chí Minh,Quận 4
-1254,1,Hà Nội,Ba Đình
-1255,0,Hà Nội,Đông Anh
-1256,0,Hồ Chí Minh,Quận 7
-1257,0,Hà Nội,Nam Từ Liêm
-1258,0,Hồ Chí Minh,Tân Bình
-1259,0,Hồ Chí Minh,Quận 5
-1260,0,Hồ Chí Minh,Quận 5
-1261,0,Hà Nội,Thanh Xuân
-1262,0,Hồ Chí Minh,Quận 5
-1263,0,Hà Nội,Hoàng Mai
-1264,0,Hà Nội,Nam Từ Liêm
-1265,0,Hà Nội,Nam Từ Liêm
-1266,0,Hà Nội,Nam Từ Liêm
-1267,0,Hồ Chí Minh,Quận 7
-1268,0,Hồ Chí Minh,Bình Thạnh
-1269,0,Hà Nội,Hai Bà Trưng
-1270,0,Hà Nội,Cầu Giấy
-1271,0,Hà Nội,Thanh Xuân
-1272,0,Hà Nội,Cầu Giấy
-1273,0,Hồ Chí Minh,Tân Bình
-1274,0,Hà Nội,Nam Từ Liêm
-1275,0,Hà Nội,Hà Đông
-1276,0,Hà Nội,Hồ Chí Minh
-1277,0,Hồ Chí Minh,Hà Nội
-1278,0,Hà Nội,Cầu Giấy
-1279,0,Hà Nội,
-1280,0,Hà Nội,Hà Đông
-1281,0,Hồ Chí Minh,Quận 11
-1282,0,Hồ Chí Minh,Phú Nhuận
-1282,1,Đà Nẵng,Thanh Khê
-1283,0,Hà Nội,Cầu Giấy
-1284,0,Hồ Chí Minh,Quận 3
-1285,0,Hồ Chí Minh,Quận 12
-1286,0,Hồ Chí Minh,
-1287,0,Hồ Chí Minh,
-1288,0,Hà Nội,
-1289,0,Hà Nội,Hoàng Mai
-1290,0,Hồ Chí Minh,Thủ Đức
-1291,0,Hồ Chí Minh,Thủ Đức
-1292,0,Hồ Chí Minh,Thủ Đức
-1293,0,Hồ Chí Minh,Thủ Đức
-1294,0,Hồ Chí Minh,Củ Chi
-1295,0,Hà Nội,Đống Đa
-1295,1,Hà Nội,Thạch Thất
-1296,0,Hà Nội,Nam Từ Liêm
-1297,0,Hà Nội,Nam Từ Liêm
-1298,0,Hà Nội,
-1299,0,Hà Nội,Thanh Xuân
-1300,0,Hồ Chí Minh,Quận 3
-1301,0,Hà Nội,Nam Từ Liêm
-1302,0,Hà Nội,
-1303,0,Hà Nội,Cầu Giấy
-1303,1,Hồ Chí Minh,Bình Thạnh
-1304,0,Hà Nội,Thanh Xuân
-1305,0,Hà Nội,Hà Đông
-1306,0,Hà Nội,Cầu Giấy
-1307,0,Hồ Chí Minh,Quận 3
-1308,0,Hà Nội,
-1309,0,Hồ Chí Minh,Phú Nhuận
-1309,1,Đà Nẵng,Thanh Khê
-1310,0,Hà Nội,Nam Từ Liêm
-1311,0,Hà Nội,Hoàn Kiếm
-1312,0,Hà Nội,Đống Đa
-1313,0,Hà Nội,Hoàn Kiếm
-1314,0,Hà Nội,Cầu Giấy
-1315,0,Hà Nội,Đống Đa
-1316,0,Hải Phòng,
-1317,0,Hà Nội,Thanh Xuân
-1318,0,Hồ Chí Minh,
-1319,0,Hồ Chí Minh,Tân Bình
-1320,0,Hà Nội,Cầu Giấy
-1321,0,Hồ Chí Minh,Quận 4
-1322,0,Hà Nội,Hoàn Kiếm
-1323,0,Hà Nội,Nam Từ Liêm
-1324,0,Hà Nội,Đống Đa
-1324,1,Đà Nẵng,
-1325,0,Hà Nội,Cầu Giấy
-1326,0,Hà Nội,Hai Bà Trưng
-1327,0,Hà Nội,
-1328,0,Đồng Nai,Biên Hoà
-1329,0,Hà Nội,
-1330,0,Hà Nội,Nam Từ Liêm
-1331,0,Hà Nội,Thanh Xuân
-1331,1,Hà Nội,Ba Đình
-1332,0,Hà Nội,Cầu Giấy
-1332,1,Hà Nội,Hai Bà Trưng
-1333,0,Hà Nội,
-1334,0,Hồ Chí Minh,Đà Nẵng
-1335,0,Hồ Chí Minh,Bình Thạnh
-1335,1,Hà Nội,Cầu Giấy
-1336,0,Hà Nội,Hà Đông
-1337,0,Hà Nội,
-1338,0,Hồ Chí Minh,Quận 1
-1339,0,Hà Nội,Đống Đa
-1339,1,Hồ Chí Minh,Tân Bình
-1340,0,Hà Nội,Cầu Giấy
-1341,0,Đồng Nai,Long Khánh
-1342,0,Hà Nội,Cầu Giấy
-1343,0,Hồ Chí Minh,Quận 11
-1344,0,Hồ Chí Minh,Quận 1
-1345,0,Hồ Chí Minh,
-1346,0,Hồ Chí Minh,Quận 8
-1347,0,Hồ Chí Minh,Tân Bình
-1348,0,Hồ Chí Minh,Tân Bình
-1349,0,Hồ Chí Minh,Quận 7
-1350,0,Đà Nẵng,Ngũ Hành Sơn
-1351,0,Đà Nẵng,Ngũ Hành Sơn
-1352,0,Hà Nội,Cầu Giấy
-1353,0,Hồ Chí Minh,Tân Bình
-1353,1,Đà Nẵng,Thanh Khê
-1354,0,Khánh Hoà,TP Nha Trang
-1355,0,Hà Nội,Đà Nẵng
-1355,1,Hồ Chí Minh,
-1356,0,Hà Nội,Nam Từ Liêm
-1357,0,Hà Nội,Đống Đa
-1358,0,Hồ Chí Minh,Quận 2
-1359,0,Hà Nội,Thanh Xuân
-1360,0,Hà Nội,Nam Từ Liêm
-1361,0,Đà Nẵng,Hải Châu
-1362,0,Đà Nẵng,Hải Châu
-1363,0,Đà Nẵng,Thanh Khê
-1364,0,Đà Nẵng,Thanh Khê
-1365,0,Hà Nội,Cầu Giấy
-1366,0,Nghệ An,TP Vinh
-1367,0,Hồ Chí Minh,Tân Bình
-1368,0,Hồ Chí Minh,
-1369,0,Hồ Chí Minh,Quận 8
-1370,0,Hồ Chí Minh,Tân Bình
-1371,0,Hà Nội,Cầu Giấy
-1372,0,Hà Nội,Nam Từ Liêm
-1373,0,Hà Nội,Bắc Từ Liêm
-1374,0,Hồ Chí Minh,Quận 2
-1375,0,Hà Nội,Cầu Giấy
-1376,0,Hà Nội,Nam Từ Liêm
-1377,0,Hà Nội,Nam Từ Liêm
-1378,0,Hà Nội,
-1379,0,Hà Nội,Ba Đình
-1380,0,Hà Nội,Ba Đình
-1381,0,Hà Nội,Nam Từ Liêm
-1382,0,Hà Nội,Ba Đình
-1383,0,Hà Nội,Tây Hồ
-1384,0,Hà Nội,Ba Đình
-1385,0,Hà Nội,Nam Từ Liêm
-1386,0,Hồ Chí Minh,Quận 2
-1387,0,Hà Nội,Cầu Giấy
-1388,0,Hà Nội,Nam Từ Liêm
-1389,0,Hà Nội,
-1390,0,Hà Nội,Nam Từ Liêm
-1391,0,Hồ Chí Minh,Tân Bình
-1392,0,Hà Nội,Nam Từ Liêm
-1393,0,Hồ Chí Minh,Phú Nhuận
-1394,0,Hồ Chí Minh,Quận 2
-1395,0,Hồ Chí Minh,Phú Nhuận
-1395,1,Đà Nẵng,Thanh Khê
-1396,0,Hồ Chí Minh,
-1397,0,Hồ Chí Minh,
-1398,0,Hồ Chí Minh,Tân Bình
-1399,0,Hồ Chí Minh,Quận 2
-1400,0,Hà Nội,Bắc Từ Liêm
-1401,0,Hà Nội,Cầu Giấy
-1402,0,Hà Nội,Hoàng Mai
-1403,0,Hồ Chí Minh,Phú Nhuận
-1404,0,Hà Nội,Thanh Xuân
-1405,0,Hà Nội,Thanh Xuân
-1406,0,Hồ Chí Minh,Quận 1
-1407,0,Hồ Chí Minh,Tân Bình
-1408,0,Hà Nội,Long Biên
-1409,0,Bình Dương,Thủ Dầu Một
-1410,0,Hà Nội,Thanh Xuân
-1411,0,Hà Nội,Nam Từ Liêm
-1412,0,Hà Nội,Nam Từ Liêm
-1413,0,Hà Nội,Nam Từ Liêm
-1414,0,Gia Lai,TP Pleiku
-1414,1,Hồ Chí Minh,
-1415,0,Hà Nội,Thanh Xuân
-1416,0,Hà Nội,Nam Từ Liêm
-1417,0,Hà Nội,Nam Từ Liêm
-1418,0,Hà Nội,Cầu Giấy
-1419,0,Hà Nội,Thanh Xuân
-1420,0,Đà Nẵng,Ngũ Hành Sơn
-1421,0,Hà Nội,Cầu Giấy
-1422,0,Đà Nẵng,Ngũ Hành Sơn
-1423,0,Hà Nội,Nam Từ Liêm
-1424,0,Hồ Chí Minh,Phú Nhuận
-1425,0,Hồ Chí Minh,Phú Nhuận
-1425,1,Đà Nẵng,Thanh Khê
-1426,0,Hà Nội,Bắc Từ Liêm
-1427,0,Hà Nội,Đống Đa
-1428,0,Hà Nội,Nam Từ Liêm
-1429,0,Hồ Chí Minh,Quận 5
-1430,0,Hồ Chí Minh,Quận 7
-1431,0,Hà Nội,Nam Từ Liêm
-1432,0,Hà Nội,
-1433,0,Hà Nội,Thanh Xuân
-1434,0,Hà Nội,Thanh Xuân
-1435,0,Hà Nội,Đống Đa
-1436,0,Hồ Chí Minh,Tân Bình
-1437,0,Hà Nội,Ba Đình
-1438,0,Hà Nội,Cầu Giấy
-1439,0,Hà Nội,Nam Từ Liêm
-1440,0,Hà Nội,Thanh Xuân
-1441,0,Hà Nội,Đống Đa
-1442,0,Hà Nội,Ba Đình
-1443,0,Hồ Chí Minh,Thủ Đức
-1444,0,Hồ Chí Minh,Quận 2
-1445,0,Hà Nội,Cầu Giấy
-1446,0,Hồ Chí Minh,Phú Nhuận
-1447,0,Hồ Chí Minh,Phú Nhuận
-1448,0,Hà Nội,Cầu Giấy
-1449,0,Hồ Chí Minh,Quận 7
-1450,0,Hà Nội,Hà Đông
-1451,0,Hà Nội,
-1452,0,Hồ Chí Minh,Quận 4
-1453,0,Hồ Chí Minh,
-1454,0,Hồ Chí Minh,Quận 2
-1455,0,Cần Thơ,Ninh Kiều
-1456,0,Cần Thơ,Ninh Kiều
-1457,0,Cần Thơ,Ninh Kiều
-1458,0,Cần Thơ,Ninh Kiều
-1459,0,Hà Nội,Cầu Giấy
-1460,0,Nước Ngoài,
-1461,0,Hà Nội,Nam Từ Liêm
-1462,0,Hà Nội,Nam Từ Liêm
-1463,0,Hà Nội,Nam Từ Liêm
-1464,0,Hà Nội,Cầu Giấy
-1465,0,Hà Nội,Nam Từ Liêm
-1466,0,Hồ Chí Minh,Tân Phú
-1467,0,Hà Nội,Nam Từ Liêm
-1468,0,Hà Nội,Nam Từ Liêm
-1469,0,Hà Nội,Nam Từ Liêm
-1470,0,Hà Nội,Nam Từ Liêm
-1471,0,Hà Nội,Đống Đa
-1472,0,Hà Nội,Nam Từ Liêm
-1473,0,Hà Nội,
-1474,0,Hồ Chí Minh,Quận 3
-1474,1,Hồ Chí Minh,Quận 12
-1475,0,Hồ Chí Minh,
-1476,0,Hà Nội,Cầu Giấy
-1477,0,Hà Nội,Thanh Xuân
-1478,0,Hồ Chí Minh,Quận 10
-1479,0,Hà Nội,Nam Từ Liêm
-1480,0,Hà Nội,Thanh Xuân
-1481,0,Hồ Chí Minh,Thủ Đức
-1482,0,Hà Nội,Hà Đông
-1483,0,Hà Nội,Nam Từ Liêm
-1484,0,Hồ Chí Minh,Quận 1
-1485,0,Bình Dương,Thủ Dầu Một
-1486,0,Hồ Chí Minh,Phú Nhuận
-1487,0,Hồ Chí Minh,Bình Thạnh
-1488,0,Hà Nội,
-1489,0,Hà Nội,Nam Từ Liêm
-1490,0,Hà Nội,Thanh Xuân
-1491,0,Hà Nội,
-1492,0,Hà Nội,Ba Đình
-1493,0,Hà Nội,Ba Đình
-1494,0,Hồ Chí Minh,Quận 6
-1495,0,Hà Nội,Đống Đa
-1496,0,Hà Nội,Nam Từ Liêm
-1497,0,Hà Nội,Nam Từ Liêm
-1498,0,Hà Nội,Ba Đình
-1499,0,Hà Nội,Cầu Giấy
-1500,0,Hà Nội,Đống Đa
-1501,0,Hà Nội,Đống Đa
-1502,0,Hà Nội,Đống Đa
-1503,0,Hà Nội,Nam Từ Liêm
-1504,0,Hồ Chí Minh,Bình Thạnh
-1505,0,Hà Nội,Nam Từ Liêm
-1506,0,Toàn Quốc,
-1507,0,Hồ Chí Minh,Quận 10
-1508,0,Hà Nội,Cầu Giấy
-1509,0,Hà Nội,Nam Từ Liêm
-1510,0,Hà Nội,Đống Đa
-1511,0,Hồ Chí Minh,
-1512,0,Hà Nội,Nam Từ Liêm
-1513,0,Hà Nội,Nam Từ Liêm
-1514,0,Hà Nội,Nam Từ Liêm
-1515,0,Hà Nội,Đống Đa
-1516,0,Hồ Chí Minh,Thủ Đức
-1517,0,Hà Nội,Nam Từ Liêm
-1518,0,Hà Nội,
-1519,0,Hà Nội,
-1520,0,Hồ Chí Minh,Tân Bình
-1521,0,Hà Nội,Thanh Xuân
-1522,0,Hà Nội,Thanh Xuân
-1523,0,Hà Nội,Thanh Xuân
-1524,0,Hà Nội,Cầu Giấy
-1525,0,Hà Nội,Từ Liêm
-1526,0,Bắc Ninh,TP Bắc Ninh
-1527,0,Hà Nội,Thanh Xuân
-1528,0,Hà Nội,Thanh Xuân
-1529,0,Hồ Chí Minh,Tân Bình
-1530,0,Hà Nội,Cầu Giấy
-1531,0,Hồ Chí Minh,Tân Bình
-1532,0,Hà Nội,Cầu Giấy
-1533,0,Hà Nội,Cầu Giấy
-1534,0,Hà Nội,Cầu Giấy
-1535,0,Hà Nội,Cầu Giấy
-1536,0,Hà Nội,Cầu Giấy
-1537,0,Hà Nội,Cầu Giấy
-1538,0,Hà Nội,
-1539,0,Hồ Chí Minh,Bình Thạnh
-1540,0,Hà Nội,Hồ Chí Minh
-1540,1,Quận 1,
-1541,0,Hà Nội,Ba Đình
-1541,1,Hồ Chí Minh,Quận 1
-1542,0,Hồ Chí Minh,
-1543,0,Hà Nội,Đống Đa
-1544,0,Hà Nội,Cầu Giấy
-1545,0,Hồ Chí Minh,Quận 5
-1546,0,Hải Phòng,
-1547,0,Hồ Chí Minh,
-1548,0,Hà Nội,Cầu Giấy
-1549,0,Hà Nội,Thanh Xuân
-1550,0,Hà Nội,Nam Từ Liêm
-1551,0,Hà Nội,Nam Từ Liêm
-1552,0,Hà Nội,Nam Từ Liêm
-1553,0,Hồ Chí Minh,Tân Bình
-1554,0,Hồ Chí Minh,Tân Bình
-1554,1,Đà Nẵng,Hải Châu
-1555,0,Hà Nội,Cầu Giấy
-1556,0,Nước Ngoài,
-1557,0,Hà Nội,Ba Đình
-1558,0,Hà Nội,
-1559,0,Hà Nội,Nam Từ Liêm
-1560,0,Hồ Chí Minh,Bình Thạnh
-1561,0,Hồ Chí Minh,Tân Bình
-1562,0,Hồ Chí Minh,Tân Bình
-1563,0,Hà Nội,Thanh Xuân
-1564,0,Hà Nội,Nam Từ Liêm
-1565,0,Hồ Chí Minh,Quận 1
-1566,0,Hà Nội,Đống Đa
-1567,0,Hà Nội,Cầu Giấy
-1567,1,Hà Nội,Tây Hồ
-1568,0,Hà Nội,Đống Đa
-1569,0,Hà Nội,Cầu Giấy
-1570,0,Thừa Thiên Huế,TP Huế
-1571,0,Thừa Thiên Huế,TP Huế
-1572,0,Thừa Thiên Huế,TP Huế
-1573,0,Hà Nội,Hoàng Mai
-1574,0,Hà Nội,Cầu Giấy
-1575,0,Hà Nội,Cầu Giấy
-1576,0,Hà Nội,Đống Đa
-1577,0,Hồ Chí Minh,Quận 4
-1578,0,Hà Nội,Đống Đa
-1579,0,Hà Nội,Nam Từ Liêm
-1580,0,Hà Nội,Cầu Giấy
-1581,0,Hà Nội,Hà Đông
-1582,0,Hà Nội,Nam Từ Liêm
-1583,0,Hà Nội,Nam Từ Liêm
-1584,0,Hồ Chí Minh,Quận 1
-1585,0,Hà Nội,Cầu Giấy
-1586,0,Hà Nội,Tây Hồ
-1587,0,Hồ Chí Minh,Quận 3
-1588,0,Hà Nội,Long Biên
-1589,0,Hà Nội,Cầu Giấy
-1590,0,Hà Nội,Hà Đông
-1591,0,Hà Nội,Hai Bà Trưng
-1592,0,Hà Nội,Hà Đông
-1593,0,Hà Nội,Thanh Xuân
-1594,0,Hà Nội,Hà Đông
-1595,0,Hà Nội,Hai Bà Trưng
-1596,0,Hồ Chí Minh,
-1597,0,Hà Nội,Cầu Giấy
-1598,0,Hồ Chí Minh,Quận 2
-1599,0,Hải Phòng,An Dương
-1600,0,Hà Nội,Ba Đình
-1601,0,Đà Nẵng,Hải Châu
-1602,0,Hà Nội,Nam Từ Liêm
-1603,0,Hà Nội,Thanh Xuân
-1604,0,Hà Nội,Hai Bà Trưng
-1605,0,Hà Nội,Hoàn Kiếm
-1606,0,Hà Nội,Cầu Giấy
-1606,1,Hà Nội,Hai Bà Trưng
-1607,0,Hà Nội,Nam Từ Liêm
-1608,0,Hà Nội,Nam Từ Liêm
-1609,0,Hà Nội,Nam Từ Liêm
-1610,0,Hà Nội,Nam Từ Liêm
-1611,0,Hà Nội,Nam Từ Liêm
-1612,0,Hà Nội,Đông Anh
-1613,0,Hà Nội,Cầu Giấy
-1614,0,Hà Nội,Thanh Xuân
-1615,0,Đà Nẵng,Hải Châu
-1616,0,Đà Nẵng,Hải Châu
-1617,0,Hà Nội,
-1618,0,Hà Nội,
-1619,0,Hồ Chí Minh,Thủ Đức
-1620,0,Hồ Chí Minh,Gò Vấp
-1620,1,Hà Nội,Đống Đa
-1620,2,Đà Nẵng,Sơn Trà
-1621,0,Hà Nội,Hà Đông
-1622,0,Hà Nội,Nam Từ Liêm
-1623,0,Bình Dương,Dĩ An
-1624,0,Hà Nội,Nam Từ Liêm
-1625,0,Hà Nội,Đống Đa
-1626,0,Hồ Chí Minh,Quận 2
-1627,0,Hà Nội,Cầu Giấy
-1628,0,Hà Nội,Cầu Giấy
-1629,0,Hà Nội,Cầu Giấy
-1630,0,Hà Nội,Đống Đa
-1631,0,Hà Nội,Nam Từ Liêm
-1632,0,Hồ Chí Minh,Tân Bình
-1633,0,Hồ Chí Minh,
-1634,0,Cần Thơ,Ninh Kiều
-1635,0,Cần Thơ,Ninh Kiều
-1636,0,Hà Nội,
-1637,0,Hồ Chí Minh,Quận 7
-1638,0,Hà Nội,Ba Đình
-1638,1,Hà Nội,Hoàn Kiếm
-1638,2,Hà Nội,Hai Bà Trưng
-1638,3,Hà Nội,Đống Đa
-1638,4,Hà Nội,Tây Hồ
-1638,5,Hà Nội,Cầu Giấy
-1638,6,Hà Nội,Thanh Xuân
-1638,7,Hà Nội,Hoàng Mai
-1638,8,Hà Nội,Long Biên
-1638,9,Hà Nội,Từ Liêm
-1638,10,Hà Nội,Thanh Trì
-1638,11,Hà Nội,Gia Lâm
-1638,12,Hà Nội,Đông Anh
-1638,13,Hà Nội,Sóc Sơn
-1638,14,Hà Nội,Hà Đông
-1638,15,Hà Nội,Sơn Tây
-1638,16,Hà Nội,Ba Vì
-1638,17,Hà Nội,Phúc Thọ
-1638,18,Hà Nội,Thạch Thất
-1638,19,Hà Nội,Quốc Oai
-1638,20,Hà Nội,Chương Mỹ
-1638,21,Hà Nội,Đan Phượng
-1638,22,Hà Nội,Hoài Đức
-1638,23,Hà Nội,Thanh Oai
-1638,24,Hà Nội,Mỹ Đức
-1638,25,Hà Nội,Ứng Hoà
-1638,26,Hà Nội,Phú Xuyên
-1638,27,Hà Nội,Thường Tín
-1638,28,Hà Nội,Mê Linh
-1638,29,Hà Nội,Bắc Từ Liêm
-1638,30,Hà Nội,Nam Từ Liêm
-1638,31,Hồ Chí Minh,Quận 1
-1638,32,Hồ Chí Minh,Quận 2
-1638,33,Hồ Chí Minh,Quận 3
-1638,34,Hồ Chí Minh,Quận 4
-1638,35,Hồ Chí Minh,Quận 5
-1638,36,Hồ Chí Minh,Quận 6
-1638,37,Hồ Chí Minh,Quận 7
-1638,38,Hồ Chí Minh,Quận 8
-1638,39,Hồ Chí Minh,Quận 9
-1638,40,Hồ Chí Minh,Quận 10
-1638,41,Hồ Chí Minh,Quận 11
-1638,42,Hồ Chí Minh,Quận 12
-1638,43,Hồ Chí Minh,Thủ Đức
-1638,44,Hồ Chí Minh,Gò Vấp
-1638,45,Hồ Chí Minh,Bình Thạnh
-1638,46,Hồ Chí Minh,Tân Bình
-1638,47,Hồ Chí Minh,Tân Phú
-1638,48,Hồ Chí Minh,Phú Nhuận
-1638,49,Hồ Chí Minh,Bình Tân
-1638,50,Hồ Chí Minh,Củ Chi
-1638,51,Hồ Chí Minh,Hóc Môn
-1638,52,Hồ Chí Minh,Bình Chánh
-1638,53,Hồ Chí Minh,Nhà Bè
-1638,54,Hồ Chí Minh,Cần Giờ
-1638,55,Đà Nẵng,Hải Châu
-1638,56,Đà Nẵng,Thanh Khê
-1638,57,Đà Nẵng,Sơn Trà
-1638,58,Đà Nẵng,Ngũ Hành Sơn
-1638,59,Đà Nẵng,Liên Chiểu
-1638,60,Đà Nẵng,Hòa Vang
-1638,61,Đà Nẵng,Cẩm Lệ
-1638,62,Đà Nẵng,Hoàng Sa
-1638,63,Nước Ngoài,
-1639,0,Hà Nội,Cầu Giấy
-1640,0,Hà Nội,Đống Đa
-1641,0,Hồ Chí Minh,Quận 1
-1642,0,Đồng Tháp,TP Cao Lãnh
-1643,0,Hà Nội,Thanh Xuân
-1643,1,Hồ Chí Minh,Quận 1
-1644,0,Hồ Chí Minh,Quận 7
-1645,0,Hà Nội,Nam Từ Liêm
-1646,0,Hà Nội,Sóc Sơn
-1647,0,Hà Nội,Cầu Giấy
-1648,0,Hà Nội,Cầu Giấy
-1649,0,Hồ Chí Minh,Tân Bình
-1650,0,Hồ Chí Minh,
-1651,0,Hồ Chí Minh,
-1652,0,Hà Nội,Hoàng Mai
-1653,0,Hà Nội,Hoàng Mai
-1654,0,Hồ Chí Minh,Thủ Đức
-1655,0,Hà Nội,Hồ Chí Minh
-1656,0,Hà Nội,Đống Đa
-1657,0,Hà Nội,Bắc Từ Liêm
-1658,0,Hà Nội,Đống Đa
-1659,0,Hồ Chí Minh,Quận 12
-1660,0,Hồ Chí Minh,Quận 12
-1661,0,Bình Dương,Dĩ An
-1662,0,Bình Dương,Dĩ An
-1663,0,Hà Nội,Thanh Xuân
-1664,0,Hà Nội,Hà Đông
-1665,0,Hồ Chí Minh,Tân Bình
-1666,0,An Giang,
-1667,0,Hà Nội,Ba Đình
-1668,0,Hồ Chí Minh,Phú Nhuận
-1669,0,Hà Nội,
-1670,0,Hà Nội,
-1671,0,Hồ Chí Minh,Bình Thạnh
-1672,0,Hồ Chí Minh,Quận 3
-1673,0,Hà Nội,Đống Đa
-1673,1,Hồ Chí Minh,
-1674,0,Hồ Chí Minh,Tân Bình
-1675,0,Hà Nội,Nam Từ Liêm
-1676,0,Hồ Chí Minh,
-1677,0,Hồ Chí Minh,Tân Bình
-1678,0,Hà Nội,Thanh Xuân
-1679,0,Hồ Chí Minh,Quận 7
-1680,0,Hà Nội,Cầu Giấy
-1681,0,Hà Nội,Cầu Giấy
-1682,0,Hà Nội,Thanh Xuân
-1683,0,Hà Nội,Hà Đông
-1684,0,Hà Nội,Cầu Giấy
-1685,0,Hà Nội,Nam Từ Liêm
-1685,1,Đà Nẵng,Cẩm Lệ
-1685,2,Hồ Chí Minh,Tân Bình
-1686,0,Hà Nội,Đống Đa
-1687,0,Hà Nội,Long Biên
-1688,0,Hồ Chí Minh,Bình Thạnh
-1689,0,Hồ Chí Minh,Tân Bình
-1690,0,Hồ Chí Minh,
-1691,0,Hà Nội,Nam Từ Liêm
-1692,0,Hồ Chí Minh,Quận 4
-1693,0,Hà Nội,Cầu Giấy
-1694,0,Hồ Chí Minh,Thủ Đức
-1695,0,Hà Nội,
-1696,0,Hà Nội,
-1697,0,Hồ Chí Minh,Thủ Đức
-1698,0,Hồ Chí Minh,Tân Bình
-1699,0,Hà Nội,Nam Từ Liêm
-1700,0,Hà Nội,Cầu Giấy
-1701,0,Hồ Chí Minh,Bình Thạnh
-1702,0,Hà Nội,Cầu Giấy
-1703,0,Bắc Ninh,Thuận Thành
-1704,0,Hà Nội,Ba Đình
-1705,0,Hà Nội,Ba Đình
-1706,0,Hồ Chí Minh,Quận 12
-1707,0,Hà Nội,Cầu Giấy
-1708,0,Hà Nội,Từ Liêm
-1709,0,Hà Nội,Từ Liêm
-1710,0,Hà Nội,Thanh Xuân
-1711,0,Hà Nội,Thạch Thất
-1711,1,Hồ Chí Minh,Quận 7
-1711,2,Đà Nẵng,
-1712,0,Hà Nội,Nam Từ Liêm
-1713,0,Hồ Chí Minh,Quận 10
-1714,0,Hà Nội,Nam Từ Liêm
-1715,0,Hà Nội,Cầu Giấy
-1716,0,Hà Nội,Cầu Giấy
-1717,0,Hà Nội,Cầu Giấy
-1718,0,Hà Nội,Cầu Giấy
-1719,0,Hà Nội,Cầu Giấy
-1720,0,Hà Nội,Cầu Giấy
-1721,0,Hà Nội,Nam Từ Liêm
-1722,0,Hà Nội,Ba Đình
-1723,0,Hà Nội,
-1724,0,Hà Nội,Cầu Giấy
-1725,0,Hà Nội,Cầu Giấy
-1726,0,Hà Nội,Ba Đình
-1727,0,Hồ Chí Minh,Quận 2
-1728,0,Hồ Chí Minh,Quận 10
-1729,0,Hồ Chí Minh,Bình Tân
-1730,0,Hà Nội,
-1731,0,Hồ Chí Minh,Bình Thạnh
-1732,0,Hà Nội,Nam Từ Liêm
-1733,0,Hà Nội,Hà Đông
-1734,0,Hà Nội,Hà Đông
-1734,1,Hà Nội,Tây Hồ
-1735,0,Hà Nội,Đống Đa
-1736,0,Hà Nội,Hoàn Kiếm
-1736,1,Hồ Chí Minh,Quận 1
-1737,0,Hà Nội,Ba Đình
-1738,0,Hồ Chí Minh,Tân Bình
-1739,0,Hà Nội,Ba Đình
-1740,0,Hà Nội,Ba Đình
-1741,0,Hà Nội,
-1742,0,Hà Nội,Thanh Trì
-1743,0,Hà Nội,Thanh Xuân
-1743,1,Hồ Chí Minh,Quận 4
-1744,0,Hà Nội,Thanh Xuân
-1745,0,Hồ Chí Minh,Quận 12
-1746,0,Hà Nội,Nam Từ Liêm
-1747,0,Hà Nội,Nam Từ Liêm
-1748,0,Hồ Chí Minh,Quận 2
-1749,0,Hồ Chí Minh,Quận 11
-1750,0,Hồ Chí Minh,Quận 1
-1750,1,Hà Nội,Đống Đa
-1751,0,Hà Nội,Hà Đông
-1752,0,Hà Nội,Cầu Giấy
-1753,0,Hà Nội,Ba Đình
-1754,0,Hà Nội,Ba Đình
-1755,0,Hà Nội,Nam Từ Liêm
-1756,0,Hà Nội,Nam Từ Liêm
-1756,1,Đà Nẵng,Hải Châu
-1756,2,Hồ Chí Minh,Bình Thạnh
-1757,0,Hồ Chí Minh,Quận 2
-1758,0,Hà Nội,Hà Đông
-1759,0,Hà Nội,Cầu Giấy
-1760,0,Hà Nội,Cầu Giấy
-1761,0,Hà Nội,Cầu Giấy
-1761,1,Hà Nội,Hai Bà Trưng
-1762,0,Hà Nội,Nam Từ Liêm
-1763,0,Hà Nội,Cầu Giấy
-1764,0,Hà Nội,Bắc Từ Liêm
-1765,0,Hà Nội,Bắc Từ Liêm
-1766,0,Hà Nội,
-1767,0,Hà Nội,Hoàn Kiếm
-1768,0,Hà Nội,Cầu Giấy
-1769,0,Hồ Chí Minh,Quận 2
-1770,0,Hồ Chí Minh,Phú Nhuận
-1770,1,Đà Nẵng,Thanh Khê
-1771,0,Hồ Chí Minh,Quận 4
-1772,0,Hồ Chí Minh,Tân Bình
-1773,0,Hà Nội,
-1774,0,Hồ Chí Minh,Quận 4
-1775,0,Hà Nội,Đống Đa
-1775,1,Hồ Chí Minh,Quận 4
-1776,0,Hà Nội,Nam Từ Liêm
-1777,0,Hồ Chí Minh,Bình Thạnh
-1778,0,Hà Nội,Đống Đa
-1779,0,Hồ Chí Minh,Quận 1
-1780,0,Hồ Chí Minh,
-1781,0,Hà Nội,Nam Từ Liêm
-1782,0,Hồ Chí Minh,
-1783,0,Hồ Chí Minh,Bình Thạnh
-1784,0,Hà Nội,Cầu Giấy
-1785,0,Hồ Chí Minh,Bình Thạnh
-1786,0,Hồ Chí Minh,Tân Bình
-1787,0,Hà Nội,Hà Đông
-1788,0,Hà Nội,Cầu Giấy
-1788,1,Hồ Chí Minh,Thủ Đức
-1788,2,Đà Nẵng,Ngũ Hành Sơn
-1789,0,Đà Nẵng,Ngũ Hành Sơn
-1790,0,Hồ Chí Minh,
-1791,0,Hồ Chí Minh,
-1792,0,Hà Nội,Cầu Giấy
-1793,0,Hà Nội,Cầu Giấy
-1794,0,Hà Nội,Nam Từ Liêm
-1795,0,Hà Nội,Thanh Xuân
-1796,0,Hà Nội,Từ Liêm
-1797,0,Hà Nội,Từ Liêm
-1798,0,Hà Nội,Cầu Giấy
-1799,0,Hà Nội,Cầu Giấy
-1800,0,Hồ Chí Minh,Phú Nhuận
-1801,0,Hồ Chí Minh,Phú Nhuận
-1802,0,Hà Nội,Cầu Giấy
-1803,0,Hà Nội,Nam Từ Liêm
-1804,0,Hà Nội,Thanh Xuân
-1805,0,Hà Nội,Thanh Xuân
-1806,0,Hà Nội,Gia Lâm
-1807,0,Hồ Chí Minh,Bình Thạnh
-1808,0,Hồ Chí Minh,Bình Thạnh
-1809,0,Hà Nội,Cầu Giấy
-1810,0,Hồ Chí Minh,Đà Nẵng
-1810,1,Hà Nội,
-1811,0,Hồ Chí Minh,
-1812,0,Hà Nội,
-1813,0,Hồ Chí Minh,Quận 12
-1814,0,Hà Nội,Cầu Giấy
-1815,0,Hà Nội,Cầu Giấy
-1816,0,Hà Nội,Cầu Giấy
-1817,0,Hà Nội,
-1818,0,Hồ Chí Minh,Tân Bình
-1819,0,Hà Nội,
-1820,0,Hồ Chí Minh,Tân Bình
-1821,0,Hồ Chí Minh,Tân Bình
-1822,0,Hồ Chí Minh,Tân Bình
-1823,0,Hồ Chí Minh,Quận 1
-1824,0,Hồ Chí Minh,
-1825,0,Hà Nội,Thanh Xuân
-1826,0,Bắc Ninh,Từ Sơn
-1827,0,Hồ Chí Minh,Quận 4
-1828,0,Hồ Chí Minh,Quận 1
-1829,0,Hồ Chí Minh,Quận 12
-1830,0,Hà Nội,Thanh Xuân
-1831,0,Hà Nội,Cầu Giấy
-1832,0,Hà Nội,Cầu Giấy
-1833,0,Hà Nội,Cầu Giấy
-1834,0,Hồ Chí Minh,Bình Thạnh
-1835,0,Hồ Chí Minh,Tân Phú
-1836,0,Hà Nội,Hoàng Mai
-1837,0,Hà Nội,Hoàng Mai
-1838,0,Hà Nội,Cầu Giấy
-1839,0,Nước Ngoài,
-1840,0,Nước Ngoài,
-1841,0,Nước Ngoài,
-1842,0,Hồ Chí Minh,Bình Thạnh
-1843,0,Hồ Chí Minh,Quận 2
-1844,0,Hà Nội,Thanh Xuân
-1845,0,Hà Nội,Thanh Xuân
-1846,0,Hồ Chí Minh,
-1847,0,Hà Nội,Cầu Giấy
-1848,0,Hà Nội,Hai Bà Trưng
-1849,0,Hà Nội,Tây Hồ
-1850,0,Hà Nội,Đống Đa
-1851,0,Hà Nội,Đống Đa
-1852,0,Hồ Chí Minh,
-1853,0,Hồ Chí Minh,
-1854,0,Hồ Chí Minh,Tân Bình
-1855,0,Hồ Chí Minh,Quận 3
-1856,0,Hồ Chí Minh,Quận 1
-1857,0,Hà Nội,
-1858,0,Đồng Tháp,TP Cao Lãnh
-1859,0,Hà Nội,
-1860,0,Khánh Hoà,TP Nha Trang
-1861,0,Hà Nội,Từ Liêm
-1862,0,Hà Nội,Từ Liêm
-1863,0,Hà Nội,
-1864,0,Hà Nội,Ba Đình
-1865,0,Hà Nội,Hai Bà Trưng
-1866,0,Hồ Chí Minh,Tân Bình
-1867,0,Hồ Chí Minh,Tân Bình
-1868,0,Đà Nẵng,Ngũ Hành Sơn
-1869,0,Hồ Chí Minh,Tân Bình
-1870,0,Đà Nẵng,Ngũ Hành Sơn
-1871,0,Hà Nội,Nam Từ Liêm
-1872,0,Hà Nội,
-1873,0,Hà Nội,
-1874,0,Hà Nội,
-1875,0,Hà Nội,Hà Đông
-1876,0,Hà Nội,Thanh Xuân
-1877,0,Khánh Hoà,
-1878,0,Hà Nội,Cầu Giấy
-1879,0,Hà Nội,Cầu Giấy
-1880,0,Hà Nội,Đống Đa
-1881,0,Hồ Chí Minh,
-1882,0,Hà Nội,Đống Đa
-1883,0,Hà Nội,Nam Từ Liêm
-1884,0,Hồ Chí Minh,Đà Nẵng
-1885,0,Hà Nội,Đống Đa
-1886,0,Hà Nội,Hai Bà Trưng
-1887,0,Hà Nội,Thanh Xuân
-1888,0,Hà Nội,Cầu Giấy
-1889,0,Hà Nội,Cầu Giấy
-1890,0,Hà Nội,Cầu Giấy
-1891,0,Hà Nội,Thanh Xuân
-1892,0,Hà Nội,Hoàn Kiếm
-1892,1,Hồ Chí Minh,Quận 1
-1893,0,Hà Nội,Nam Từ Liêm
-1894,0,Hồ Chí Minh,Quận 2
-1895,0,Hà Nội,Cầu Giấy
-1896,0,Hồ Chí Minh,
-1897,0,Hồ Chí Minh,Quận 10
-1898,0,Hà Nội,Cầu Giấy
-1899,0,Hồ Chí Minh,Quận 4
-1900,0,Hà Nội,Cầu Giấy
-1901,0,Hà Nội,Nam Từ Liêm
-1902,0,Hồ Chí Minh,
-1903,0,Hà Nội,Hà Đông
-1904,0,Hà Nội,Cầu Giấy
-1905,0,Hồ Chí Minh,Đà Nẵng
-1906,0,Hà Nội,Cầu Giấy
-1907,0,Hồ Chí Minh,
-1908,0,Hồ Chí Minh,Bình Thạnh
-1909,0,Hồ Chí Minh,Đà Nẵng
-1910,0,Hồ Chí Minh,Đà Nẵng
-1911,0,Hồ Chí Minh,Hà Nội
-1912,0,Hà Nội,Thanh Xuân
-1913,0,Hà Nội,Đống Đa
-1914,0,Hà Nội,Đống Đa
-1915,0,Hà Nội,Đan Phượng
-1915,1,Hà Nội,Hoàng Mai
-1916,0,Hà Nội,Đống Đa
-1917,0,Hà Nội,Hà Đông
-1918,0,Hà Nội,Hà Đông
-1919,0,Hà Nội,
-1920,0,Bến Tre,TP Bến Tre
-1921,0,Hà Nội,Cầu Giấy
-1921,1,Đà Nẵng,Hải Châu
-1922,0,Hải Phòng,Lê Chân
-1922,1,Vĩnh Phúc,TP Vĩnh Yên
-1922,2,Hà Nội,Cầu Giấy
-1922,3,Hà Nội,Hà Đông
-1923,0,Hà Nội,Hai Bà Trưng
-1924,0,Hà Nội,Nam Từ Liêm
-1925,0,Hà Nội,Đống Đa
-1926,0,Hà Nội,Thạch Thất
-1926,1,Hà Nội,Tây Hồ
-1927,0,Hà Nội,Đống Đa
-1928,0,Hà Nội,Thanh Xuân
-1928,1,Hồ Chí Minh,Quận 1
-1929,0,Hà Nội,Hà Đông
-1929,1,Hà Nội,Cầu Giấy
-1930,0,Hà Nội,
-1931,0,Hà Nội,
-1932,0,Hà Nội,
+e0f10e1e6f925bf1,0,Hà Nội,
+7646d51ce094647d,0,Hồ Chí Minh,
+3586951aa9a7d77e,0,Toàn Quốc,
+9a513f3a93e69c78,0,Hà Nội,Cầu Giấy
+2457b16cb19b3294,0,Hà Nội,Thanh Xuân
+2457b16cb19b3294,1,Hải Dương,TP Hải Dương
+2e9f549bb58214e8,0,Hà Nội,Nam Từ Liêm
+806bc193bd071116,0,Hồ Chí Minh,Quận 7
+b526c93f75e6eb99,0,Hà Nội,Cầu Giấy
+0da5c2823cbe5cd9,0,Hà Nội,Cầu Giấy
+06f3e60ff3dc183c,0,Hà Nội,Cầu Giấy
+77e7076146bce0cc,0,Hà Nội,Cầu Giấy
+24324604aebddb19,0,Hà Nội,
+ef5c045ef13af4ea,0,Hà Nội,Cầu Giấy
+0976095710f5fd35,0,Hà Nội,
+abb0fd8261e2441e,0,Hà Nội,Nam Từ Liêm
+f5a09c81b64e5390,0,Hồ Chí Minh,Tân Bình
+55779c0b236f8ba8,0,Hồ Chí Minh,Quận 10
+62ba14c5b8157f65,0,Hồ Chí Minh,
+70c5d41a9a0a7985,0,Hồ Chí Minh,Quận 2
+330e76a07e3cb951,0,Hồ Chí Minh,Thủ Đức
+44d616fe22d0b3ef,0,Hà Nội,
+eb21bd9d7069e045,0,Hà Nội,Cầu Giấy
+1a6fc88a1d741c4c,0,Hà Nội,Cầu Giấy
+676a1d02726cf737,0,Hà Nội,Đống Đa
+6d460c224c59d4f3,0,Hà Nội,
+d81ce9883420bb12,0,Hà Nội,
+8ac6dc2750cb7101,0,Hồ Chí Minh,Tân Bình
+decdace130e4bcc7,0,Hồ Chí Minh,Tân Bình
+1d4e62a096da7142,0,Hồ Chí Minh,Tân Bình
+1d4e62a096da7142,1,Hà Nội,Ba Đình
+3882143038053111,0,Hồ Chí Minh,Tân Bình
+3882143038053111,1,Hà Nội,Ba Đình
+266d6839caeba6dc,0,Hà Nội,Ba Đình
+26306b02c5b8bc9a,0,Hà Nội,Ba Đình
+26306b02c5b8bc9a,1,Hồ Chí Minh,Tân Bình
+44e37f2b1ec3bbcd,0,Hà Nội,Hồ Chí Minh
+b2f2a55515505cc6,0,Đà Nẵng,Hải Châu
+c642c8c476a3331c,0,Hà Nội,Cầu Giấy
+a738cf75f6481473,0,Hà Nội,
+2209b574eb175dbc,0,Hồ Chí Minh,Bình Thạnh
+138858789228250e,0,Hồ Chí Minh,Bình Thạnh
+4dcc33e7226d6bf8,0,Hà Nội,Hoàn Kiếm
+cd3b18bb29b2c0c5,0,Hồ Chí Minh,Bình Thạnh
+ee8aaccd1ce7be57,0,Hồ Chí Minh,Bình Thạnh
+304bee421cab0974,0,Hà Nội,Hoàn Kiếm
+5fa59b31a0f29b7f,0,Hồ Chí Minh,Tân Bình
+97a7d12f966b9365,0,Hà Nội,Cầu Giấy
+683e45e3637355e3,0,Hà Nội,Nam Từ Liêm
+4855812611c4e00c,0,Hà Nội,Nam Từ Liêm
+29979144c7bfd951,0,Hồ Chí Minh,Quận 10
+076c83b3ebb65762,0,Nghệ An,TP Vinh
+b89518837072319f,0,Hồ Chí Minh,Quận 10
+4feeac908cf369c0,0,Hà Nội,Thanh Xuân
+4feeac908cf369c0,1,Hồ Chí Minh,Quận 7
+4feeac908cf369c0,2,Hải Dương,TP Hải Dương
+83275e8d3870bb38,0,Hà Nội,Thanh Xuân
+86046198dfb5afc7,0,Hồ Chí Minh,
+488b1189824a1f31,0,Hà Nội,
+6a4db1bacfff55cf,0,Hà Nội,Hai Bà Trưng
+cea70fbaa5087346,0,Hà Nội,Long Biên
+705112a8b7e8ff06,0,Hồ Chí Minh,Quận 4
+5998faf776877a1d,0,Hà Nội,Nam Từ Liêm
+dc098e12459f99c5,0,Hà Nội,Cầu Giấy
+c9272840b1262fd3,0,Hà Nội,Nam Từ Liêm
+a02b54d82cc75e27,0,Hà Nội,Hai Bà Trưng
+5911d79c9298f540,0,Hà Nội,Cầu Giấy
+057cb1957d8eb35b,0,Hà Nội,Cầu Giấy
+50e4ef9afca10a37,0,Hà Nội,Nam Từ Liêm
+c4574e205b03b7ee,0,Hà Nội,Cầu Giấy
+5827cac3a559af55,0,Hà Nội,
+26bad5d9a8f7f796,0,Hà Nội,Nam Từ Liêm
+257d6b46b501145f,0,Hà Nội,Cầu Giấy
+7e9dbe6900b33021,0,Hồ Chí Minh,Quận 3
+eb73b897fc46ebf3,0,Hồ Chí Minh,Quận 12
+41e212eec7ff135b,0,Hồ Chí Minh,Thủ Đức
+7152d02b881fea14,0,Hà Nội,Cầu Giấy
+7867105319003b30,0,Hà Nội,Cầu Giấy
+750268a201c96da2,0,Hà Nội,Nam Từ Liêm
+c5625233d802def8,0,Hà Nội,
+8b6836d1c248bcec,0,Hà Nội,
+a3ba18ea01a659db,0,Hồ Chí Minh,Quận 3
+48744feee9d980f9,0,Hồ Chí Minh,Phú Nhuận
+8b403806132a1e4e,0,Hà Nội,Thanh Xuân
+8936903c5aa1e942,0,Hà Nội,Thanh Xuân
+728d575d39c5f5f4,0,Hà Nội,Thanh Xuân
+3b95a0950c50bf4a,0,Hà Nội,Thanh Xuân
+9518cb0461080a99,0,Hồ Chí Minh,Quận 2
+c7dc386e9d26f925,0,Hà Nội,
+1eb1f91c9f0a32c5,0,Hà Nội,Đống Đa
+58cb70b8205cd4d6,0,Hà Nội,Đống Đa
+d8ba4789ae427d85,0,Hà Nội,Nam Từ Liêm
+0192e21066fcbd81,0,Hồ Chí Minh,Quận 2
+c156ea2c3af98efd,0,Hà Nội,Tây Hồ
+30475d008911fd6d,0,Hà Nội,Tây Hồ
+4ad8f30b41915ce1,0,Hồ Chí Minh,
+63bac27cac2b7f99,0,Hồ Chí Minh,
+a8aea8cb0a767378,0,Hồ Chí Minh,
+8ac08d6cf02cfe4c,0,Hồ Chí Minh,Quận 3
+45452507128c03e3,0,Hà Nội,Long Biên
+bf0d6a83cacac04c,0,Hà Nội,Thanh Xuân
+b3226800523b85a8,0,Hà Nội,Thanh Xuân
+c587dc81df409a49,0,Hà Nội,Cầu Giấy
+2b71766560a50689,0,Hồ Chí Minh,Quận 7
+c96541e949d6d92e,0,Hồ Chí Minh,Quận 2
+d10596f39349c528,0,Hà Nội,
+0f0c50b08ce549de,0,Hà Nội,
+761808ce5c27cd03,0,Hồ Chí Minh,Quận 9
+2f321b67b88c01d5,0,Hồ Chí Minh,Quận 9
+2f321b67b88c01d5,1,Hà Nội,Cầu Giấy
+2f321b67b88c01d5,2,Đà Nẵng,Ngũ Hành Sơn
+2f321b67b88c01d5,3,Thừa Thiên Huế,TP Huế
+957de34e28f87100,0,Hồ Chí Minh,Quận 9
+957de34e28f87100,1,Hà Nội,Cầu Giấy
+957de34e28f87100,2,Đà Nẵng,Ngũ Hành Sơn
+957de34e28f87100,3,Thừa Thiên Huế,TP Huế
+302c86a76a594b2d,0,Hồ Chí Minh,Quận 3
+f6c629399aea0b55,0,Hồ Chí Minh,Quận 3
+8ce936e531fed615,0,Hồ Chí Minh,Quận 9
+8ce936e531fed615,1,Hà Nội,Cầu Giấy
+8ce936e531fed615,2,Đà Nẵng,Ngũ Hành Sơn
+8ce936e531fed615,3,Thừa Thiên Huế,TP Huế
+e6bc0ef80fe898db,0,Hồ Chí Minh,Quận 9
+df7e2dc9df7522b6,0,Hà Nội,Đống Đa
+e0126fbb3d9fd4c9,0,Hồ Chí Minh,Quận 3
+852e88b279ddc55a,0,Hà Nội,Cầu Giấy
+bf53f19a800e4680,0,Hà Nội,
+156b058ef93e0695,0,Hà Nội,Cầu Giấy
+c7f00c56d678d850,0,Hà Nội,Cầu Giấy
+978fa7dccb63d058,0,Nghệ An,TP Vinh
+da6405b4cf4da95a,0,Hà Nội,Đống Đa
+fd17caab986f92e3,0,Hồ Chí Minh,Quận 3
+41c1f7a499b9c674,0,Hà Nội,
+71e652e67f44a512,0,Hà Nội,Cầu Giấy
+6c8f2e3e264ac54a,0,Hà Nội,Thanh Xuân
+1ed5f89b2a26b9f1,0,Hà Nội,Nam Từ Liêm
+cb85d5a2d4e7e196,0,Hà Nội,
+c7e3b8fee9db4373,0,Hà Nội,
+8491ec59e7681cb1,0,Hà Nội,Thanh Xuân
+2158d08f89b96967,0,Hà Nội,Nam Từ Liêm
+54a21ceea6071158,0,Hà Nội,Cầu Giấy
+55452a598de783f6,0,Hà Nội,Cầu Giấy
+3e9ebe980936f396,0,Hồ Chí Minh,Gò Vấp
+643e0c9930c82772,0,Hồ Chí Minh,Gò Vấp
+568f9badd4c479ac,0,Hồ Chí Minh,Phú Nhuận
+7a3f464aa65104b4,0,Nước Ngoài,Hà Nội
+7a3f464aa65104b4,1,Nam Từ Liêm,
+5301f54c027daf55,0,Hà Nội,Cầu Giấy
+adfb8b77dceed038,0,Hà Nội,Hồ Chí Minh
+adfb8b77dceed038,1,Đà Nẵng,Thừa Thiên Huế
+a245b66eb8ab9890,0,Hà Nội,Hồ Chí Minh
+a245b66eb8ab9890,1,Thừa Thiên Huế,Đà Nẵng
+d51390064974e71a,0,Hà Nội,
+7bf62188f0c9bf4d,0,Hà Nội,Đống Đa
+aaa07d05177b94b0,0,Hà Nội,Thanh Xuân
+f85dffb0bc179db3,0,Hà Nội,Thanh Xuân
+8b5f412ad147ec10,0,Hà Nội,Đống Đa
+57a6a461d98b5407,0,Hồ Chí Minh,Tân Bình
+e8885e87a0c337df,0,Hồ Chí Minh,Quận 7
+e7ba7f2a0b69f637,0,Hà Nội,Đống Đa
+330c56336836b4af,0,Hà Nội,Thanh Xuân
+efb8463792870a0d,0,Hà Nội,Nam Từ Liêm
+b472e4483b80b0ec,0,Hà Nội,Nam Từ Liêm
+a9a8eef6fe7a9082,0,Hà Nội,Cầu Giấy
+4d9f977a6e29a463,0,Long An,Bến Lức
+069bf929cbec8ba3,0,Hà Nội,Thanh Xuân
+6cdcb423ffde7845,0,Hà Nội,
+d815794a579e9a0e,0,Hà Nội,
+5d68c9582f223ee0,0,Hà Nội,Long Biên
+b2d0d083b011e6d9,0,Hà Nội,
+0c9cabe5530a6db6,0,Hà Nội,Tây Hồ
+9bf5eb65f682b345,0,Hà Nội,Tây Hồ
+06db064c19104786,0,Hà Nội,Cầu Giấy
+40df816e1e2ecc02,0,Hà Nội,Cầu Giấy
+22c14d260f710350,0,Hà Nội,Thanh Xuân
+5d19d60526b8246d,0,Nước Ngoài,Hà Nội
+5d19d60526b8246d,1,Nam Từ Liêm,
+05b2c47ed270efe2,0,Hà Nội,Chương Mỹ
+2d965498a2287a2f,0,Hồ Chí Minh,
+a397815574d1d0a9,0,Hồ Chí Minh,Quận 2
+5ec87cd2f799712d,0,Hồ Chí Minh,Quận 4
+4beb3fec9ba8ed07,0,Hà Nội,Nam Từ Liêm
+a352a0c9b55ef11f,0,Hà Nội,Đống Đa
+5255b37b044482fa,0,Hà Nội,Đống Đa
+e41d59be61efce47,0,Hà Nội,Cầu Giấy
+168da17448b080f2,0,Thừa Thiên Huế,TP Huế
+168da17448b080f2,1,Hà Nội,Cầu Giấy
+08503e8dd3513583,0,Hà Nội,Cầu Giấy
+317e60daccd14853,0,Hà Nội,Đống Đa
+8a3eaae7f00dfb6e,0,Hà Nội,Từ Liêm
+dac5ecc37ff8d8ba,0,Hà Nội,Từ Liêm
+8e4ba30eced91d00,0,Hà Nội,Đống Đa
+6a1e43829c202f48,0,Hà Nội,Đống Đa
+1a54e03e8f0abe37,0,Hồ Chí Minh,Quận 2
+39004bcaf3ef7031,0,Hà Nội,Hai Bà Trưng
+25af16e5c956cb0b,0,Hồ Chí Minh,Quận 1
+a179f009d423d173,0,Hà Nội,Cầu Giấy
+2c528af538bc911c,0,Hà Nội,Cầu Giấy
+08491c33c0d36915,0,Hà Nội,Tây Hồ
+65919c999d78bd10,0,Hồ Chí Minh,Bình Thạnh
+12fb08d455ef9f97,0,Hà Nội,Thanh Xuân
+a8e21d165c3c1919,0,Hà Nội,Thanh Xuân
+b505c1fe28709e85,0,Hà Nội,Cầu Giấy
+13a79483dcfadcf0,0,Hồ Chí Minh,Quận 3
+416903271da62750,0,Hồ Chí Minh,Quận 12
+f99db282ef0ba50e,0,Hồ Chí Minh,Gò Vấp
+00ace62ebf6a476b,0,Đà Nẵng,Sơn Trà
+0bb6432aeb866771,0,Hồ Chí Minh,Quận 7
+4d04b78ba879b5e3,0,Hà Nội,Cầu Giấy
+0ee0b1764857c9e8,0,Hà Nội,Thanh Xuân
+c4c7592493f3e05a,0,Hà Nội,Cầu Giấy
+b85dbef0c73f8533,0,Hà Nội,Nam Từ Liêm
+94c0b9839d739b66,0,Hồ Chí Minh,Phú Nhuận
+fcfcb290024c43f1,0,Hà Nội,Thanh Xuân
+301613900daa368f,0,Hà Nội,Cầu Giấy
+8637a680861cf185,0,Hồ Chí Minh,Quận 10
+dbfe80fedd378505,0,Hà Nội,Thanh Xuân
+11a2b89e7834ebe1,0,Cần Thơ,Cái Răng
+f16dd8de5ebb99b3,0,Hà Nội,Tây Hồ
+a3f26d41abc282ec,0,Đà Nẵng,Ngũ Hành Sơn
+bfd6aec83e244cb4,0,Hà Nội,Đống Đa
+2401575a552505e9,0,Toàn Quốc,
+5cb0381cb3c15d9f,0,Hà Nội,Cầu Giấy
+4bc460365be6db43,0,Hà Nội,Cầu Giấy
+c3a33c06aa278ad0,0,Hồ Chí Minh,Quận 7
+ce70ba393c43b071,0,Hà Nội,Cầu Giấy
+ff5c4d24def50de9,0,Hà Nội,Cầu Giấy
+b904d75c5cf2cc39,0,Hà Nội,Nam Từ Liêm
+950aaa2597e3b7d2,0,Hà Nội,Cầu Giấy
+f11a0fabbb57ee3d,0,Hà Nội,Cầu Giấy
+d51cf5bab0793a75,0,Toàn Quốc,
+c0c373c7681db5da,0,Toàn Quốc,
+5d2508146a268715,0,Hà Nội,Thanh Xuân
+30f0173912759bbe,0,Hà Nội,Thanh Xuân
+5a783e0b271dd635,0,Hồ Chí Minh,Quận 7
+296e113fea3fca15,0,Hồ Chí Minh,Tân Bình
+2acc9c15da0821c3,0,Hồ Chí Minh,Tân Bình
+64433fb0885017bc,0,Hồ Chí Minh,Tân Bình
+84e3e20027693ae9,0,Hồ Chí Minh,Tân Bình
+e71c99163d84c5d6,0,Hồ Chí Minh,
+4280055071c2c39a,0,Hồ Chí Minh,Tân Bình
+a7fb08584640be83,0,Đà Nẵng,Sơn Trà
+de21285bd1a85937,0,Hà Nội,
+3193ed667f235569,0,Hà Nội,
+4a82fde10c59d0bc,0,Hà Nội,Cầu Giấy
+4dc30640ec617162,0,Hà Nội,Cầu Giấy
+56ccc4019fbd4578,0,Hồ Chí Minh,Thủ Đức
+56ccc4019fbd4578,1,Đà Nẵng,Hải Châu
+5134fdbd356f38d8,0,Hà Nội,Hoàng Mai
+bc1aeaa23c679bfc,0,Hồ Chí Minh,Thủ Đức
+b298f018cdd33af2,0,Hồ Chí Minh,Quận 1
+79f1399fb0e272d9,0,Toàn Quốc,
+5226bdd90f155f2e,0,Hồ Chí Minh,Phú Nhuận
+becae04c611893ca,0,Toàn Quốc,
+080d32d7aa54be24,0,Hà Nội,Đống Đa
+6058c867f47696d2,0,Hồ Chí Minh,Phú Nhuận
+42938c09eebdc1b3,0,Toàn Quốc,
+08cdf25a3a217192,0,Nghệ An,TP Vinh
+383541d4eb952c7b,0,Nghệ An,TP Vinh
+18323d50c5f330a3,0,Hà Nội,
+89281a05edad5ee8,0,Hà Nội,Hai Bà Trưng
+ec0674082df153df,0,Hà Nội,Cầu Giấy
+31193a78e1f0ea1b,0,Hồ Chí Minh,
+a01dc264527d4ee3,0,Hồ Chí Minh,Quận 1
+03f1e1a70c6aab54,0,Hồ Chí Minh,Quận 3
+ba413a94fb16fb81,0,Hà Nội,Cầu Giấy
+b8da0c2c98700f76,0,Hà Nội,Cầu Giấy
+2594f20b75943356,0,Cần Thơ,Ninh Kiều
+773473538b49a703,0,Hà Nội,Cầu Giấy
+f9099dcb16f7cacb,0,Hồ Chí Minh,Phú Nhuận
+a778159158010814,0,Hồ Chí Minh,Tân Bình
+3b15e6208196da66,0,Hà Nội,Hai Bà Trưng
+f7e5f955fc69ed58,0,Hà Nội,Nam Từ Liêm
+3aeecb615ca18649,0,Hà Nội,Nam Từ Liêm
+ad3377eab2878946,0,Hà Nội,Thạch Thất
+3c5ee231c25b75ed,0,Hà Nội,Nam Từ Liêm
+5fe0e61916bf7371,0,Hà Nội,Nam Từ Liêm
+ab8fc137a323cc9a,0,Hà Nội,Cầu Giấy
+c9095cd7c356fb8f,0,Hà Nội,Cầu Giấy
+c12d78003fbc16b9,0,Hà Nội,
+9b2f51076fb8a52b,0,Hà Nội,
+86523b401957b108,0,Hà Nội,
+06af2476b8d833e3,0,Hà Nội,Đống Đa
+aa5c961a56795386,0,Hồ Chí Minh,Quận 2
+aa5c961a56795386,1,Hồ Chí Minh,Quận 12
+e9830de73ee22400,0,Hà Nội,Hoàng Mai
+42e3f2791c615c29,0,Hồ Chí Minh,Bình Thạnh
+0cc943d4f3d036b8,0,Hà Nội,Hoàn Kiếm
+8240d2f625d081f3,0,Hồ Chí Minh,Tân Bình
+760acb8c0329bb5e,0,Hà Nội,
+05cf4aa4f3d47b58,0,Hà Nội,Thanh Xuân
+ef60294245cd72da,0,Hà Nội,Nam Từ Liêm
+9afcdfce87d70080,0,Hà Nội,Hai Bà Trưng
+805911f243786f23,0,Hà Nội,Cầu Giấy
+e6d99f0bd58c760e,0,Hà Nội,Cầu Giấy
+40168178d48e4719,0,Hà Nội,Đống Đa
+bea6eb29f3fa7d7d,0,Hồ Chí Minh,Phú Nhuận
+c04d4df5fdf0b546,0,Hồ Chí Minh,Quận 7
+6fbf14fac151006c,0,Hà Nội,Cầu Giấy
+4d7e8e328717ec5d,0,Thừa Thiên Huế,TP Huế
+c9ef2d8820423302,0,Hồ Chí Minh,Quận 7
+7577cff258a935d6,0,Hà Nội,Cầu Giấy
+9b5086495c3422e1,0,Hà Nội,Cầu Giấy
+f8d0e8ea8f71e80a,0,Hà Nội,Bắc Từ Liêm
+b721e8fa0fd9b3f1,0,Hà Nội,
+4628ab39cd4d1899,0,Hà Nội,Thanh Xuân
+de3dcf4b030dc15b,0,Đà Nẵng,Sơn Trà
+323ed5ac0bb10b18,0,Đà Nẵng,Thanh Khê
+730a80f8bde9edc6,0,Đà Nẵng,Thanh Khê
+730a80f8bde9edc6,1,Hồ Chí Minh,Quận 4
+730a80f8bde9edc6,2,Thừa Thiên Huế,TP Huế
+d44fd1faa6065e0a,0,Đà Nẵng,Thanh Khê
+6cf7f7ac7c602d4e,0,Hồ Chí Minh,Thủ Đức
+d391e27a8f61c09c,0,Hồ Chí Minh,Thủ Đức
+d391e27a8f61c09c,1,Đà Nẵng,Thanh Khê
+d391e27a8f61c09c,2,Thừa Thiên Huế,TP Huế
+2123d1de19660ce7,0,Đà Nẵng,Thanh Khê
+16d4a66fad9f45a3,0,Đà Nẵng,Thanh Khê
+e506c09c5f804966,0,Hồ Chí Minh,Quận 1
+e739ed74466a38ba,0,Hà Nội,Hồ Chí Minh
+b1485d115de6a975,0,Hà Nội,Hồ Chí Minh
+15b8bb8995cdc19a,0,Hà Nội,Hồ Chí Minh
+12d53a33735a07cb,0,Hà Nội,Hồ Chí Minh
+12d53a33735a07cb,1,Đà Nẵng,
+e05bc87403bc1eec,0,Hà Nội,Thanh Trì
+63fa6b8dcfe54449,0,Hà Nội,Cầu Giấy
+fd773a9f3360e36f,0,Hà Nội,Hồ Chí Minh
+39b887a1547cd0b5,0,Hồ Chí Minh,Tân Bình
+fb1060173fb75acf,0,Hà Nội,Nam Từ Liêm
+19e7ed41fc8ad84b,0,Hà Nội,Hà Đông
+276152e7f87609ea,0,Hồ Chí Minh,Hà Nội
+f1ecf50ea4323724,0,Hà Nội,Cầu Giấy
+2f6297ee2f320a0c,0,Hà Nội,Thanh Xuân
+e8fb0655e205a341,0,Hồ Chí Minh,Quận 10
+46caa7f8167cfa03,0,Hà Nội,
+cc659714eaa49ffa,0,Hà Nội,Cầu Giấy
+45d325bfa5b7343e,0,Hà Nội,Nam Từ Liêm
+4c769252de8ebc65,0,Hà Nội,Cầu Giấy
+c66df8ef45a4d7ad,0,Hà Nội,Cầu Giấy
+f672163671ca8c9b,0,Hà Nội,Nam Từ Liêm
+8ff15dbd875ed591,0,Hà Nội,Nam Từ Liêm
+1d19f3f4a29e0d48,0,Hà Nội,Hà Đông
+03354378e86302a0,0,Hà Nội,Hà Đông
+68a2422eb34b7697,0,Hồ Chí Minh,Bình Thạnh
+6f77926d4b6a4010,0,Hà Nội,Thanh Xuân
+b0f0fca66d5ee4a2,0,Hà Nội,
+1ccd66814da445a4,0,Hồ Chí Minh,Tân Bình
+173786b55ecc0568,0,Hồ Chí Minh,Quận 7
+e55656271d5620ec,0,Hà Nội,Bắc Từ Liêm
+1343ee0b041d2f7e,0,Hà Nội,Đống Đa
+15a518b3a138504b,0,Hồ Chí Minh,Bình Thạnh
+15a518b3a138504b,1,Hồ Chí Minh,Phú Nhuận
+15a518b3a138504b,2,Hồ Chí Minh,Gò Vấp
+15a518b3a138504b,3,Hồ Chí Minh,Thủ Đức
+15a518b3a138504b,4,Bình Dương,Dĩ An
+15a518b3a138504b,5,Bình Dương,Thuận An
+15a518b3a138504b,6,Đồng Nai,Biên Hoà
+2790e79493e4b480,0,Hà Nội,Cầu Giấy
+e68bc075b426406c,0,Hà Nội,Hoàn Kiếm
+052205b4e1dc7629,0,Hà Nội,Nam Từ Liêm
+adae66aa597d11cc,0,Hồ Chí Minh,Quận 3
+ac4d6d3e02e6f4ba,0,Hà Nội,Hà Đông
+4d16deff279dc5be,0,Hà Nội,Thanh Xuân
+a26184cc44a1af02,0,Hồ Chí Minh,Thủ Đức
+a26184cc44a1af02,1,Hồ Chí Minh,Nhà Bè
+a26184cc44a1af02,2,Hồ Chí Minh,Quận 6
+a26184cc44a1af02,3,Hồ Chí Minh,Quận 7
+a26184cc44a1af02,4,Hồ Chí Minh,Quận 12
+a26184cc44a1af02,5,Hồ Chí Minh,Bình Chánh
+c48f0d1660b1cd0a,0,Hà Nội,Cầu Giấy
+45a47805d21f6aa8,0,Hà Nội,Nam Từ Liêm
+a8d8e49f3f72a227,0,Hồ Chí Minh,Quận 3
+e03a566fc9d6abc1,0,Hà Nội,Thanh Xuân
+db85b3aeba2a88a3,0,Hà Nội,Cầu Giấy
+db85b3aeba2a88a3,1,Hà Nội,Thanh Xuân
+9b5e533703d12299,0,Hồ Chí Minh,Bình Thạnh
+53db7afcf39599e2,0,Hồ Chí Minh,Bình Thạnh
+0c39ed4e22a5addb,0,Hà Nội,Đống Đa
+075689fb131c731d,0,Hà Nội,Thanh Xuân
+44a32285fb894ed0,0,Hồ Chí Minh,Quận 3
+5c4eb01b891311e8,0,Hà Nội,Cầu Giấy
+83457d561f55cf8b,0,Khánh Hoà,TP Nha Trang
+dbf78f175fa7145b,0,Hồ Chí Minh,Quận 7
+7298a182446f2c07,0,Hà Nội,Cầu Giấy
+2bd8958302eb1c09,0,Hà Nội,Hoàng Mai
+5e6f2794507542ad,0,Hà Nội,Hoàng Mai
+492d8561f657caca,0,Hà Nội,Nam Từ Liêm
+b1c04d8f841372f1,0,Hồ Chí Minh,Tân Bình
+c404125c73457705,0,Hồ Chí Minh,Tân Bình
+8777c75ac08d4815,0,Hà Nội,Thanh Xuân
+81424d40f29a0fef,0,Hà Nội,Cầu Giấy
+81424d40f29a0fef,1,Hồ Chí Minh,Quận 7
+2aa676c3bb469daf,0,Hà Nội,Cầu Giấy
+2aa676c3bb469daf,1,Hồ Chí Minh,Quận 7
+189f8766250bdf06,0,Toàn Quốc,
+51cf8888189372b5,0,Hà Nội,Nam Từ Liêm
+83ebe939070f0328,0,Hà Nội,Ba Đình
+a2a2ef946fcde893,0,Hà Nội,Bắc Từ Liêm
+b8e036dea3e18303,0,Hà Nội,Bắc Từ Liêm
+d35c6afbd3a8600b,0,Hà Nội,Bắc Từ Liêm
+4c796fac0c1f2d3a,0,Hồ Chí Minh,
+f521f48c4e682074,0,Hồ Chí Minh,Quận 1
+1da00e560e680abf,0,Hà Nội,Hai Bà Trưng
+fcf12d4671940095,0,Hồ Chí Minh,Quận 1
+ddc2cab282d08c0a,0,Hà Nội,Nam Từ Liêm
+0cda9ed0567417bd,0,Hà Nội,Cầu Giấy
+129b1c1f9d155540,0,Hà Nội,Cầu Giấy
+98e37dd47e70a7b5,0,Hà Nội,
+da3f4737d04d92b3,0,Hồ Chí Minh,Quận 1
+097336ea1773dcea,0,Hồ Chí Minh,Thủ Đức
+713b1e5bf5375493,0,Hà Nội,Cầu Giấy
+422d78ef15e82440,0,Hà Nội,Hà Đông
+59f55ce24c8b2e57,0,Hồ Chí Minh,Quận 3
+ef7955a0ce55c4fe,0,Hồ Chí Minh,Quận 3
+396ac38afafca598,0,Hồ Chí Minh,Quận 3
+ab7117c502d8e16e,0,Hà Nội,
+73d44248e8c83cea,0,Tây Ninh,Trảng Bàng
+3e48517ac813a452,0,Hà Nội,Cầu Giấy
+2a7dc83026993645,0,Hà Nội,Cầu Giấy
+2e37e389a56784b6,0,Hà Nội,Cầu Giấy
+471df472e34e9819,0,Hà Nội,Hà Đông
+91118f2922d3c3ca,0,Hà Nội,Cầu Giấy
+d4e9e88c82629fd4,0,Hồ Chí Minh,Quận 3
+41cf882b378d1e10,0,Hà Nội,Hai Bà Trưng
+148e9d91648ebc55,0,Hồ Chí Minh,Thủ Đức
+19a0ec954db57ba1,0,Hồ Chí Minh,Thủ Đức
+16094bcab6e054e7,0,Hồ Chí Minh,Tân Bình
+6dd4b5a1d0ee3f91,0,Hồ Chí Minh,Quận 12
+716cf6c4424c799a,0,Hồ Chí Minh,Thủ Đức
+f69ced327f70e869,0,Đà Nẵng,Ngũ Hành Sơn
+956ce4ffc90a82dc,0,Hồ Chí Minh,Quận 1
+809efdd28fed5e85,0,Hà Nội,Thanh Trì
+ad0696121362a050,0,Hà Nội,
+e75426e1aa813850,0,Long An,Bến Lức
+94b72022817cc485,0,Hồ Chí Minh,Bình Thạnh
+7323d35d19c41bb9,0,Nước Ngoài,Hà Nội
+7323d35d19c41bb9,1,Nam Từ Liêm,
+2db7d08c9596ff73,0,Hà Nội,Cầu Giấy
+9f7da44e1ed119c8,0,Hà Nội,Cầu Giấy
+0a0a1153d222a7d8,0,Hà Nội,
+bcccb25ab177064a,0,Nước Ngoài,Hà Nội
+bcccb25ab177064a,1,Nam Từ Liêm,
+bd6e3939ce8f2c79,0,Đồng Nai,Trảng Bom
+04f1fdde35bc5654,0,Hà Nội,Đống Đa
+8c24b00ceab290c8,0,Hà Nội,Hoàng Mai
+b07fe5590181e6bd,0,Hồ Chí Minh,Quận 9
+dab6caa6b96288a9,0,Hà Nội,Cầu Giấy
+a02f880392d5719d,0,Hà Nội,Cầu Giấy
+5d56e09009b96628,0,Hồ Chí Minh,Thủ Đức
+7dc8e13602310021,0,Hà Nội,Đống Đa
+dcfee12d22ac0bb8,0,Hà Nội,
+345f24ce6ca6e63b,0,Hà Nội,Thanh Xuân
+09c0ae1dd4bf76c0,0,Hà Nội,Cầu Giấy
+f83e58cb1668d756,0,Hà Nội,Từ Liêm
+3a4803acfa638d93,0,Hồ Chí Minh,Quận 12
+e9975861e113889e,0,Hà Nội,Từ Liêm
+68a9230619e0cf96,0,Hà Nội,Nam Từ Liêm
+1b204041acb00d89,0,Hà Nội,Nam Từ Liêm
+96a983691f005a81,0,Hà Nội,Nam Từ Liêm
+ebeb1872187b52bc,0,Hà Nội,Nam Từ Liêm
+5c441ffd42ac8e16,0,Hà Nội,Cầu Giấy
+2207a3b291a01ca4,0,Hà Nội,Cầu Giấy
+36c0002d28cd9752,0,Hà Nội,Cầu Giấy
+172b312da0d38eea,0,Hồ Chí Minh,Quận 2
+c52c112813f5a80f,0,Hà Nội,Nam Từ Liêm
+684ad06ec21886c6,0,Hà Nội,Nam Từ Liêm
+4ab8658076e05af7,0,Hà Nội,Hồ Chí Minh
+727fd9876786cb16,0,Hồ Chí Minh,Quận 2
+a40de8d1f8efafb9,0,Hà Nội,Tây Hồ
+f3647efbabc36b2b,0,Hồ Chí Minh,Quận 12
+bd03ac8329f067a3,0,Hà Nội,Nam Từ Liêm
+8ba99b34e0d2e745,0,Hà Nội,Cầu Giấy
+3ea488f7f7831d30,0,Hà Nội,Cầu Giấy
+a39eb2a83cb8628f,0,Hà Nội,Cầu Giấy
+a0c1b82478c17ee3,0,Hà Nội,Cầu Giấy
+daac7c2f79a399dd,0,Hà Nội,Cầu Giấy
+43e3cc50f2ff4918,0,Hà Nội,Đống Đa
+5451e8c46c286387,0,Đà Nẵng,
+804d6da5ec6ce19e,0,Hồ Chí Minh,Quận 9
+804d6da5ec6ce19e,1,Hà Nội,Cầu Giấy
+804d6da5ec6ce19e,2,Đà Nẵng,Ngũ Hành Sơn
+804d6da5ec6ce19e,3,Thừa Thiên Huế,TP Huế
+6965cc583c0cc99e,0,Hồ Chí Minh,Bình Thạnh
+15545abef7f741dc,0,Đà Nẵng,
+54fe781356d45ad9,0,Hà Nội,Thanh Xuân
+8564dfe1ff5dea5e,0,Hà Nội,Thanh Xuân
+0c6b331c15331136,0,Hà Nội,Thanh Xuân
+d422a0bec556f7b4,0,Hà Nội,Thanh Xuân
+61f20399a87d4c3a,0,Hà Nội,Thanh Xuân
+ba7aeebcfabbc661,0,Hồ Chí Minh,Tân Bình
+4cc7ebe6c3e978b8,0,Hà Nội,Cầu Giấy
+f6b1de14a2e0584c,0,Hồ Chí Minh,Quận 3
+d4e06e456a0e109a,0,Hà Nội,Nam Từ Liêm
+bc652330ce9a4571,0,Hà Nội,
+b3fc3eebef20a07a,0,Hà Nội,Ba Đình
+7d16d84afeb60b7f,0,Đồng Nai,Biên Hoà
+bad60b706d1dd6cb,0,Hà Nội,Thanh Xuân
+bad60b706d1dd6cb,1,Hồ Chí Minh,Quận 7
+bad60b706d1dd6cb,2,Hải Dương,TP Hải Dương
+306f0491b49f38b7,0,Hà Nội,Thanh Xuân
+306f0491b49f38b7,1,Hồ Chí Minh,Quận 7
+306f0491b49f38b7,2,Hải Dương,TP Hải Dương
+0123e30dbe0eebeb,0,Hà Nội,Thanh Xuân
+0123e30dbe0eebeb,1,Hồ Chí Minh,Quận 7
+0123e30dbe0eebeb,2,Hải Dương,TP Hải Dương
+e2e827188825e04a,0,Hồ Chí Minh,Quận 10
+f1d3ae4482d4a944,0,Hà Nội,
+a222959e823fecb4,0,Hồ Chí Minh,Bình Thạnh
+9e56ddfb63fb3523,0,Hồ Chí Minh,
+69ec4a39519e74c9,0,Hồ Chí Minh,Quận 7
+a388e6665e04e658,0,Hồ Chí Minh,Quận 10
+e96cc94005dc9908,0,Hồ Chí Minh,
+9be756676554a20d,0,Hà Nội,Hà Đông
+7fc210000f0a2a35,0,Hà Nội,Thanh Xuân
+b243577707c420d6,0,Hồ Chí Minh,Quận 10
+1bd3b173c1bc789f,0,Hà Nội,Thanh Xuân
+5c0ff7b20d9e974a,0,Hồ Chí Minh,
+111efc14b0bca951,0,Hà Nội,Cầu Giấy
+a43e06c124a753ea,0,Hồ Chí Minh,Quận 2
+e7b34748084d072d,0,Hồ Chí Minh,Tân Bình
+9f75331a3ee4f163,0,Hồ Chí Minh,Tân Bình
+fa07ca2372d49cb8,0,Hồ Chí Minh,Bình Thạnh
+fa07ca2372d49cb8,1,Đà Nẵng,Cẩm Lệ
+40d60d76997ab7e2,0,Hà Nội,Ba Đình
+40d60d76997ab7e2,1,Hồ Chí Minh,Tân Bình
+fc1fdfdbd6cdb1e3,0,Hồ Chí Minh,Tân Bình
+f5bb92c3c4401759,0,Hồ Chí Minh,Tân Bình
+ef064846e557d830,0,Hồ Chí Minh,Tân Bình
+ef064846e557d830,1,Hà Nội,Ba Đình
+80bb1eff618a7aeb,0,Hồ Chí Minh,Tân Bình
+c44e24bdeb4f7eeb,0,Hồ Chí Minh,Tân Bình
+5da7230bd914eb8b,0,Hà Nội,Thanh Xuân
+7af529691d4c45dd,0,Hà Nội,Đống Đa
+5537298f4e951c54,0,Hà Nội,Cầu Giấy
+b7df1b873e4c6977,0,Hồ Chí Minh,Tân Bình
+9b51e5a6cded5205,0,Hà Nội,Nam Từ Liêm
+60b433a51814e953,0,Hà Nội,Nam Từ Liêm
+ba937bf7906d1adf,0,Hà Nội,Nam Từ Liêm
+b3f3e754e8d54df5,0,Hà Nội,Cầu Giấy
+f05dc511a002691a,0,Hà Nội,Hà Đông
+d48210bc3a6a6933,0,Hà Nội,Hà Đông
+eff2c342d9dd55b8,0,Hà Nội,Nam Từ Liêm
+95da301e5de9a283,0,Hồ Chí Minh,Tân Bình
+c21e7f280fd755a0,0,Hồ Chí Minh,Tân Bình
+0e7d12c8d39372a4,0,Hồ Chí Minh,Gò Vấp
+fccf0651e09a5702,0,Hà Nội,Hai Bà Trưng
+4833ca071483e236,0,Hà Nội,Hồ Chí Minh
+0c4f8a95235f3408,0,Hà Nội,Hà Đông
+c56ca86cbaef32fb,0,Hà Nội,Hồ Chí Minh
+9d37e4093e567fcb,0,Hà Nội,Hồ Chí Minh
+8674fc7625fb0428,0,Hà Nội,Hồ Chí Minh
+1e8ec311033830aa,0,Hà Nội,Hồ Chí Minh
+ef5c4fcfce3f539c,0,Hà Nội,Đà Nẵng
+ef5c4fcfce3f539c,1,Hồ Chí Minh,
+6dc6ca124d26f866,0,Hồ Chí Minh,Quận 1
+8be63db00f628b78,0,Hồ Chí Minh,Quận 1
+8b4435d29eb082ca,0,Hồ Chí Minh,
+3e795f1c30075927,0,Hà Nội,Cầu Giấy
+714fe547ae5dfa0c,0,Hà Nội,Đống Đa
+d782384074c26517,0,Hà Nội,Thanh Xuân
+066684b96f95160e,0,Hà Nội,
+c830ac36a1ce5064,0,Hà Nội,Cầu Giấy
+2aa706ec135c70e5,0,Hà Nội,Cầu Giấy
+6033a385cc56b124,0,Hà Nội,
+2e437d22fb9b8646,0,Hồ Chí Minh,
+35c68d5b99a1eb39,0,Hà Nội,
+808e48e60579a4b0,0,Hà Nội,Cầu Giấy
+5d50cebc77fe1eeb,0,Bình Dương,Tân Uyên
+3cfa9b382e8af967,0,Hà Nội,Hai Bà Trưng
+5e66c8b5f03249de,0,Hà Nội,Hai Bà Trưng
+184bc71bbd3e4bd0,0,Hà Nội,Đống Đa
+f2235320ad373aa1,0,Hà Nội,Cầu Giấy
+f2235320ad373aa1,1,Hồ Chí Minh,Quận 9
+e012aaceca509d59,0,Hồ Chí Minh,Quận 12
+8711d3ccb003d98f,0,Hà Nội,Cầu Giấy
+cbfd0683f21e787d,0,Hà Nội,Thanh Xuân
+d40ee54b1a6f0d2d,0,Hà Nội,Hai Bà Trưng
+e2bf2aa6bf22e9ae,0,Hà Nội,Cầu Giấy
+c911ed46d9e8b7dc,0,Hồ Chí Minh,Quận 10
+54b465ee69a41aeb,0,Hà Nội,Nam Từ Liêm
+fc41b0b1fb8fd6e4,0,Hồ Chí Minh,Quận 9
+51ec00cf8e2c0474,0,Hà Nội,
+6a4f41cfc3c88935,0,Hồ Chí Minh,Quận 3
+df1bf8d4fc5ce4fc,0,Hà Nội,
+e74af0ed678050a3,0,Hồ Chí Minh,Quận 3
+3be5b93fd177555f,0,Hồ Chí Minh,
+c051d65588d13a4c,0,Hồ Chí Minh,Tân Bình
+2c06eb92d432f487,0,Hồ Chí Minh,Gò Vấp
+13cbf1591e9f76ac,0,Hà Nội,Thanh Xuân
+c4d9aeac197ac247,0,Hồ Chí Minh,Quận 10
+c4d9aeac197ac247,1,Hà Nội,Nam Từ Liêm
+0666b2c2030f2df5,0,Hồ Chí Minh,Quận 10
+090df87c7ae359ea,0,Hà Nội,Hai Bà Trưng
+2363eff68122bbba,0,Hồ Chí Minh,
+f0f2d6c831877835,0,Hà Nội,Tây Hồ
+d6e56fe16a526ef7,0,Hồ Chí Minh,Gò Vấp
+6b56f4e21cd10fcd,0,Hà Nội,Cầu Giấy
+ab524e5e4800e933,0,Hồ Chí Minh,Tân Bình
+368e0b1c57856074,0,Hà Nội,Hai Bà Trưng
+466d445a2ab7f599,0,Hà Nội,
+c3dc3224294f08dc,0,Đà Nẵng,Ngũ Hành Sơn
+e397bf133b54173a,0,Đà Nẵng,Ngũ Hành Sơn
+d022ced9433855ad,0,Đà Nẵng,Ngũ Hành Sơn
+249cec5edcb5bc63,0,Đồng Nai,
+2bb62b1f875e4281,0,Hà Nội,Cầu Giấy
+b5d36b04899a707f,0,Hà Nội,Hoàng Mai
+373f71f1bb7e4461,0,Hà Nội,Đống Đa
+5a6da1a74563ece8,0,Hà Nội,Thanh Xuân
+ad3b9448379b922a,0,Hà Nội,Cầu Giấy
+c67ab121d7b54933,0,Hà Nội,Thanh Xuân
+0ba631ef6dbd671c,0,Hồ Chí Minh,Quận 4
+f94a39f16415f044,0,Lâm Đồng,TP Đà Lạt
+83d918461a2d61dc,0,Hà Nội,Cầu Giấy
+9c99c22e64e84d08,0,Nghệ An,TP Vinh
+faf2bd452a32224c,0,Hà Nam,Duy Tiên
+faf2bd452a32224c,1,Hà Nam,Thanh Liêm
+30c18bcc321e3487,0,Hồ Chí Minh,Quận 3
+08f23b875c04e535,0,Hồ Chí Minh,Tân Bình
+2c3966bf403c4152,0,Bắc Ninh,Quế Võ
+a99eee9f2ef4667b,0,Hồ Chí Minh,Gò Vấp
+8b54aac78b4c742e,0,Hà Nội,Hà Đông
+eef0bb4f483b34cf,0,Hồ Chí Minh,Tân Bình
+e2597f851d78d7de,0,Hà Nội,Ba Đình
+edeb4c62eda53985,0,Hà Nội,Ba Đình
+b783e3493410df6b,0,Hồ Chí Minh,Bình Thạnh
+3183bd47e9203c5b,0,Đồng Tháp,Cao Lãnh
+75cca445facf3888,0,Đồng Tháp,Cao Lãnh
+d7a00ce15d4b3604,0,Hà Nội,Tây Hồ
+91da59ea6488330a,0,Đồng Tháp,Cao Lãnh
+029165d6570cd1ea,0,Hồ Chí Minh,Đà Nẵng
+018cbbc3a7ed84cd,0,Hà Nội,Cầu Giấy
+6ad1e589512aa56d,0,Hà Nội,Thanh Xuân
+6ec4ce3215a307b6,0,Hà Nội,Đống Đa
+767f62a19cb368f5,0,Hà Nội,Cầu Giấy
+4d0e36536a941386,0,Hà Nội,Cầu Giấy
+06c72baa2e15f092,0,Hồ Chí Minh,Thủ Đức
+eb19e8b66b70bcdb,0,Hà Nội,Nam Từ Liêm
+896fe008c5b93fb6,0,Hồ Chí Minh,Quận 1
+1cc52696dac3ace0,0,Hà Nội,Cầu Giấy
+d70b5ada7e8fc8a1,0,Long An,Bến Lức
+317c48ffb77eb67b,0,Thanh Hoá,TP Thanh Hoá
+4cd4a2be08b56012,0,Thanh Hoá,TP Thanh Hoá
+b9c18f95f83e388c,0,Hà Nội,
+e51b3f9a7bd1b303,0,Hà Nội,Cầu Giấy
+c58843c5cd7ddbb2,0,Hà Nội,Thanh Xuân
+6e8278dc86a05bcf,0,Hà Nội,Thanh Xuân
+d43cf74c8bc52956,0,Hà Nội,Cầu Giấy
+a0d3d9290a35e4e2,0,Hà Nội,Nam Từ Liêm
+9602d6f64d1ea7fd,0,Tiền Giang,
+6ba42ab2cc1458a6,0,Hà Nội,Nam Từ Liêm
+04c54b0771bfe751,0,Hà Nội,Nam Từ Liêm
+e18290e377c3f5ca,0,Hồ Chí Minh,Quận 7
+e903beed78c77b9d,0,Hồ Chí Minh,Bình Thạnh
+51d3636cbd450f1f,0,Hà Nội,
+458a4ca42b055ee2,0,Hồ Chí Minh,Thủ Đức
+e36ce72f6bef5e05,0,Hà Nội,Nam Từ Liêm
+49684f5a4d442da8,0,Hồ Chí Minh,Bình Thạnh
+9d405186c3fceb71,0,Hà Nội,Nam Từ Liêm
+2cb00ab4bfc32ff7,0,Hà Nội,Nam Từ Liêm
+dfbd30747f0b37c2,0,Hồ Chí Minh,Bình Thạnh
+e450bd76e076f8bf,0,Hà Nội,Cầu Giấy
+67cb0fcfb3e2e364,0,Hồ Chí Minh,Quận 2
+67cb0fcfb3e2e364,1,Hồ Chí Minh,Bình Thạnh
+67cb0fcfb3e2e364,2,Hồ Chí Minh,Quận 3
+67cb0fcfb3e2e364,3,Hồ Chí Minh,Phú Nhuận
+67cb0fcfb3e2e364,4,Hồ Chí Minh,Gò Vấp
+67cb0fcfb3e2e364,5,Hồ Chí Minh,Tân Bình
+67cb0fcfb3e2e364,6,Hồ Chí Minh,Tân Phú
+67cb0fcfb3e2e364,7,Hồ Chí Minh,Bình Tân
+67cb0fcfb3e2e364,8,Hồ Chí Minh,Quận 11
+67cb0fcfb3e2e364,9,Hồ Chí Minh,Quận 7
+67cb0fcfb3e2e364,10,Bình Dương,Thủ Dầu Một
+d8bc2aaf39702d68,0,Hồ Chí Minh,Bình Tân
+d8bc2aaf39702d68,1,Hồ Chí Minh,Gò Vấp
+d8bc2aaf39702d68,2,Hồ Chí Minh,Quận 2
+d8bc2aaf39702d68,3,Hồ Chí Minh,Quận 7
+d8bc2aaf39702d68,4,Hồ Chí Minh,Bình Thạnh
+d8bc2aaf39702d68,5,Hồ Chí Minh,Quận 3
+d8bc2aaf39702d68,6,Hồ Chí Minh,Tân Bình
+d8bc2aaf39702d68,7,Hồ Chí Minh,Phú Nhuận
+d8bc2aaf39702d68,8,Hồ Chí Minh,Tân Phú
+d8bc2aaf39702d68,9,Hồ Chí Minh,Quận 11
+d8bc2aaf39702d68,10,Bình Dương,Thủ Dầu Một
+d52ee04abd92a685,0,Hà Nội,Đà Nẵng
+d52ee04abd92a685,1,Hồ Chí Minh,
+45534d76140ed875,0,Hà Nội,Hà Đông
+68c8614b5f33b561,0,Hà Nội,Hồ Chí Minh
+564aa3c904dbf611,0,Hà Nội,Cầu Giấy
+e140ae9cd0c56c3b,0,Hà Nội,Hoàng Mai
+3a85c1094da87c0e,0,Hà Nội,Đống Đa
+a38fc1e9360eb96d,0,Hà Nội,Hà Đông
+7da0352859d0127e,0,Hồ Chí Minh,Thủ Đức
+7da0352859d0127e,1,Hồ Chí Minh,Nhà Bè
+7da0352859d0127e,2,Hồ Chí Minh,Quận 6
+7da0352859d0127e,3,Hồ Chí Minh,Quận 7
+7da0352859d0127e,4,Hồ Chí Minh,Quận 12
+7da0352859d0127e,5,Hồ Chí Minh,Bình Chánh
+202ebbd3b8a8d09c,0,Hà Nội,
+a6263f309876b320,0,Hồ Chí Minh,Quận 12
+3c573ba21aa45892,0,Hà Nội,Thanh Xuân
+ad577c0721afe916,0,Hà Nội,Thanh Xuân
+0dd078caedf68799,0,Hà Nội,Thanh Xuân
+79e8c3ade967772d,0,Hà Nội,Hoàng Mai
+548c03cde2945e63,0,Hà Nội,Bắc Từ Liêm
+723643edccea67db,0,Hà Nội,Thanh Xuân
+8454d1261c37458d,0,Hồ Chí Minh,Quận 1
+3006f6d1bdbd1d98,0,Hà Nội,Cầu Giấy
+33088257c5595efb,0,Hà Nội,Hồ Chí Minh
+9365c02a2eab120f,0,Hà Nội,Cầu Giấy
+406360899ced15bf,0,Thanh Hoá,TP Thanh Hoá
+fe1f5654048bcef0,0,Hà Nội,Thanh Xuân
+9b1348bd569f5204,0,Hà Nội,
+db97dc1405c8a82e,0,Hà Nội,Cầu Giấy
+6c11ecab7fd7d42e,0,Hà Nội,Cầu Giấy
+d01afd163b3c037a,0,Hà Nội,Cầu Giấy
+39e1ceef3a0f21c3,0,Hà Nội,
+c294ceb1483957e3,0,Hà Nội,Cầu Giấy
+e18dc389daec2c8e,0,Hưng Yên,Văn Giang
+e18dc389daec2c8e,1,Hà Nội,Nam Từ Liêm
+88c16e29cb2a26ab,0,Hà Nội,Hoàng Mai
+6236156598329610,0,Hồ Chí Minh,Tân Bình
+a4eb28c2aa2006d5,0,Hà Nội,Cầu Giấy
+eed70246d86db033,0,Hà Nội,Tây Hồ
+ab2708f3d57961c5,0,Hà Nội,Thanh Trì
+8bf8576e7c8d7c26,0,Hồ Chí Minh,Quận 1
+1a2cb2447657b373,0,Hà Nội,Cầu Giấy
+52586d703752486b,0,Hà Nội,Đống Đa
+e5dd407020bc7f39,0,Hà Nội,Hà Đông
+d6f26fc539da0fe5,0,Hà Nội,Đống Đa
+b117d084a168a119,0,Hà Nội,
+74f199112f57c8da,0,Hồ Chí Minh,Phú Nhuận
+f7000de393c22f54,0,Hà Nội,Cầu Giấy
+1326c6dcac850066,0,Hà Nội,Cầu Giấy
+0cb4ba63629e9ad1,0,Hà Nội,Từ Liêm
+8ead2768ef780794,0,Hà Nội,Hai Bà Trưng
+193d16f389a8bba0,0,Hà Nội,Nam Từ Liêm
+e06702ed7aa513a2,0,Hà Nội,Hoàn Kiếm
+2204f777681d666f,0,Hà Nội,Cầu Giấy
+2204f777681d666f,1,Hồ Chí Minh,Thủ Đức
+98b7f62634599641,0,Hồ Chí Minh,
+716bb48ad132d8c6,0,Bình Định,TP Quy Nhơn
+5b4bc8f77f799fde,0,Hà Nội,Ba Đình
+70398ea253b4799e,0,Hà Nội,
+7f36ca1d384a60d9,0,Hà Nội,Hà Đông
+4f489244572baf84,0,Hà Nội,Hà Đông
+c78a64ce0b5ada3d,0,Hồ Chí Minh,Bình Thạnh
+52171a00b793ac9f,0,Hà Nội,Tây Hồ
+679b68fc50b13e65,0,Hà Nội,Đống Đa
+6941032dbe1f5c55,0,Hà Nội,Cầu Giấy
+8bebca4e041dbdcb,0,Hà Nội,Thanh Xuân
+12ac70f8dd5aeaa9,0,Hà Nội,Hai Bà Trưng
+02400b6bdccca48d,0,Hà Nội,Cầu Giấy
+88de4bdebca678c4,0,Hồ Chí Minh,Tân Bình
+42df3a8a46c2785b,0,Hà Nội,Hai Bà Trưng
+dbe7d249967a987f,0,Hà Nội,Từ Liêm
+013c3e877e91c01e,0,Hà Nội,Thanh Xuân
+04463ffb3a3603ac,0,Hà Nội,Cầu Giấy
+8a75353e78af40fb,0,Hồ Chí Minh,Quận 2
+656084154f002aa2,0,Hà Nội,
+ba9c212ea256e697,0,Hà Nội,Nam Từ Liêm
+d9119d619fd1b9c8,0,Hà Nội,Thanh Xuân
+74ccc6ef3d9dce1a,0,Hà Nội,Thanh Xuân
+fd7ff686b6a44363,0,Hà Nội,Thanh Xuân
+341bc2aa2e730942,0,Hà Nội,Cầu Giấy
+341bc2aa2e730942,1,Hồ Chí Minh,Tân Bình
+d3f3baf91fdf3005,0,Hà Nội,Đống Đa
+6a87f47c485a70d0,0,Bình Dương,Thuận An
+e377b56ce4af97ee,0,Hồ Chí Minh,
+7cd2af4b8f90ca1b,0,Hồ Chí Minh,
+b130152fe32bf8dc,0,Hà Nội,Đống Đa
+d278ddf77b42e76d,0,Hà Nội,
+2d16951cae5b52b6,0,Hà Nội,Nam Từ Liêm
+69cc6ab3b35bc4ac,0,Hồ Chí Minh,
+1c6a584623ad5c93,0,Hà Nội,Cầu Giấy
+56845aab5c8057dd,0,Hà Nội,Nam Từ Liêm
+c6f5a2101bc04a68,0,Hà Nội,Nam Từ Liêm
+ee2519f682a0ed39,0,Hà Nội,Cầu Giấy
+41b4c958d9316c8e,0,Hà Nội,Cầu Giấy
+8f3bfcd7c781de56,0,Hà Nội,Cầu Giấy
+3322d9e6ec743126,0,Hà Nội,Từ Liêm
+73f2d4820a95576c,0,Hà Nội,
+2ac7fd441d9fdd8d,0,Hồ Chí Minh,Quận 8
+355b5d5728ebb1a9,0,Hà Nội,Cầu Giấy
+827f0e726daad745,0,Hồ Chí Minh,Quận 3
+43671158182eb0cf,0,Hà Nội,Nam Từ Liêm
+0aedc33b7a96a8fe,0,Hà Nội,Nam Từ Liêm
+52294847070ea959,0,Hà Nội,Hai Bà Trưng
+6454b7d08fe2c027,0,Hà Nội,Hai Bà Trưng
+c66d930936878431,0,Hà Nội,Thanh Xuân
+4176caa4ba626234,0,Hà Nội,Đống Đa
+6267b13be2f3f71c,0,Hồ Chí Minh,Quận 4
+8d6c2ecc02c2749d,0,Bình Dương,Tân Uyên
+423eab6138adc539,0,Hà Nội,Nam Từ Liêm
+735bb6851e782622,0,Hà Nội,Hoàng Mai
+e7ea06d317e2a883,0,Hà Nội,Bắc Từ Liêm
+1c683228dfbbbd79,0,Hà Nội,Nam Từ Liêm
+1c683228dfbbbd79,1,Hà Nội,Hoàng Mai
+81db6b1d25fc42e2,0,Hà Nội,
+ecd676c719669a79,0,Hà Nội,Bắc Từ Liêm
+e69e2058f6cc6844,0,Hà Nội,Cầu Giấy
+bd22639837eed582,0,Hà Nội,Long Biên
+2a9b130dc3dad397,0,Đà Nẵng,Ngũ Hành Sơn
+b8cfcf3f81a511af,0,Hà Nội,Long Biên
+635a690abc2f1b25,0,Hà Nội,Đống Đa
+fd836cafd38993e6,0,Hà Nội,Thanh Xuân
+a90084e2848e41b9,0,Hồ Chí Minh,Tân Bình
+4b88c3dd11836502,0,Hồ Chí Minh,Quận 12
+3ea088e8edbd3f0c,0,Hồ Chí Minh,Quận 7
+d8860bb17780ee7f,0,Hồ Chí Minh,Quận 4
+d8860bb17780ee7f,1,Hà Nội,Cầu Giấy
+22d91857c0c6e380,0,Hồ Chí Minh,Quận 4
+063b750218021ba5,0,Hà Nội,Cầu Giấy
+063b750218021ba5,1,Hồ Chí Minh,Quận 4
+54d84c98f6b1171b,0,Hà Nội,Đống Đa
+64b5d274084b74f4,0,Hà Nội,Cầu Giấy
+92994f95af9c6a81,0,Hà Nội,Cầu Giấy
+a7c327313e63c9e5,0,Hà Nội,Đống Đa
+380de0abac0f4a5a,0,Hà Nội,Cầu Giấy
+87345cb675ae1d97,0,Hà Nội,Bắc Từ Liêm
+01b0807c6508b598,0,Hồ Chí Minh,Phú Nhuận
+8985647ad82104b3,0,Hồ Chí Minh,Phú Nhuận
+c9a6b33b78093e16,0,Hà Nội,Bắc Từ Liêm
+f73caa65a8949681,0,Hà Nội,Nam Từ Liêm
+a2c0613e29382fc6,0,Hồ Chí Minh,Quận 2
+8d1cb1bfb3e34f52,0,Hà Nội,Đống Đa
+4285776221069dcc,0,Hồ Chí Minh,Bình Thạnh
+9708f3da0f044325,0,Hồ Chí Minh,Bình Thạnh
+3b6bd6ba560db5b2,0,Hồ Chí Minh,Quận 2
+1f41b7f1762a2386,0,Hà Nội,Đống Đa
+4dbd3bfc7bb13a5c,0,Hồ Chí Minh,Quận 7
+5c3c5a782947f905,0,Hà Nội,
+ac5816bbef23088d,0,Hồ Chí Minh,Quận 10
+4ad2410469f28e23,0,Hồ Chí Minh,Tân Bình
+fbba7088daaecccd,0,Hà Nội,Đống Đa
+8afe656bd59dedde,0,Hà Nội,Đống Đa
+10ff4eca04b2a901,0,Hồ Chí Minh,Quận 1
+d19372608a33a3a2,0,Hồ Chí Minh,Quận 10
+41c7f4b407f8d959,0,Hà Nội,Thanh Xuân
+21f6de1851f20fef,0,Hà Nội,Bắc Từ Liêm
+0063112e5c1a3908,0,Hà Nội,Thanh Xuân
+16c104f4eb43884b,0,Hà Nội,Cầu Giấy
+16c104f4eb43884b,1,Hà Nội,Thanh Xuân
+4144b6ca8c5148f7,0,Hà Nội,Từ Liêm
+934020a297f67372,0,Hà Nội,Nam Từ Liêm
+64ef88b7271fd6e8,0,Hà Nội,Thanh Xuân
+245173358a5e8b55,0,Hà Nội,Thanh Xuân
+436df725d61e7206,0,Hà Nội,
+904c645418bba424,0,Hồ Chí Minh,Quận 3
+ab6b66afb42bb9e4,0,Hà Nội,Hai Bà Trưng
+9da7c1dba51b2f35,0,Hồ Chí Minh,Bình Thạnh
+e3beeffea0becae9,0,Hồ Chí Minh,Thủ Đức
+56c7f88912b9fe16,0,Hà Nội,Nam Từ Liêm
+640bc9f2472becf5,0,Hồ Chí Minh,Quận 1
+479f73c1640e9dd2,0,Hà Nội,Tây Hồ
+72fa1346e72d931d,0,Hà Nội,Đống Đa
+07294f60febeaccc,0,Hà Nội,Cầu Giấy
+b64e2ee560c87002,0,Hà Nội,Cầu Giấy
+ff35135ef4d66584,0,Hà Nội,Nam Từ Liêm
+9393de313f682747,0,Hà Nội,Cầu Giấy
+29eaead37ab080b5,0,Hà Nội,Cầu Giấy
+2884800b0c079e53,0,Hồ Chí Minh,Quận 4
+bd094ea2651707f9,0,Hà Nội,Nam Từ Liêm
+e9298cc33a4b2b2f,0,Hà Nội,
+76754ea6aa0aeba2,0,Hồ Chí Minh,Quận 1
+e9b2be9d4dd12e98,0,Bình Dương,Thủ Dầu Một
+d63e6c0a0883b4c4,0,Hà Nội,Hai Bà Trưng
+69e0d48611632a00,0,Hà Nội,Thanh Xuân
+fd70e89037c527a0,0,Hồ Chí Minh,Quận 5
+985fef39afde365e,0,Hà Nội,Nam Từ Liêm
+75b56882777b2e16,0,Hà Nội,Nam Từ Liêm
+eeb66d394a26be90,0,Hà Nội,
+ca9c29f07876f971,0,Hà Nội,Nam Từ Liêm
+8061ccd472103753,0,Hà Nội,
+4482d8105b5f6036,0,Hà Nội,
+063a487ae5a24458,0,Hà Nội,
+b240b1222542d3ae,0,Hà Nội,
+79e0088749e57eb7,0,Hà Nội,Nam Từ Liêm
+a3a05b9a01637801,0,Đà Nẵng,Hải Châu
+b880ef15fff9026c,0,Hồ Chí Minh,Gò Vấp
+b880ef15fff9026c,1,Đà Nẵng,Sơn Trà
+b880ef15fff9026c,2,Hà Nội,Đống Đa
+9114daa7338e4e0f,0,Hồ Chí Minh,Quận 5
+bacc16d2e5a54010,0,Hồ Chí Minh,Bình Thạnh
+429492feb2da3b9b,0,Hà Nội,Cầu Giấy
+be352987bfb688f9,0,Hà Nội,Cầu Giấy
+e60978fdb5c57908,0,Hà Nội,Cầu Giấy
+220300d06131e36f,0,Hà Nội,Cầu Giấy
+575cba67e283a6cd,0,Hà Nội,Nam Từ Liêm
+ae00f077fe9075e3,0,Hà Nội,Đống Đa
+d0377c6b9e428f0f,0,Hà Nội,Đống Đa
+b1400711c79283e2,0,Hà Nội,Đống Đa
+8f8756770971ede4,0,Hà Nội,Cầu Giấy
+b6e8abde0c7b566a,0,Hà Nội,
+adf28a09604bb437,0,Hà Nội,Ba Đình
+127b211b1b494b21,0,Hà Nội,Cầu Giấy
+170ee979cf2b88c8,0,Hà Nội,Cầu Giấy
+365b0e2ce6a7c9ae,0,Hà Nội,Cầu Giấy
+e6c4695bc1a44a16,0,Hồ Chí Minh,Tân Bình
+c2e78fe9fb5c3102,0,Hà Nội,Thanh Xuân
+af9c754fc942f50b,0,Hà Nội,Hà Đông
+78225cf01845d8ed,0,Hà Nội,
+f54ba10a52cbd293,0,Hà Nội,Thạch Thất
+ba409e5227e89716,0,Hà Nội,Cầu Giấy
+50954a5bde3e8536,0,Hà Nội,Cầu Giấy
+93e17849065ef782,0,Hà Nội,Bắc Từ Liêm
+bfe34adb503b105d,0,Hồ Chí Minh,Tân Bình
+74a375d4409e2f9c,0,Đà Nẵng,Ngũ Hành Sơn
+fc2839ba8b418ff4,0,Hà Nội,Cầu Giấy
+c703cb74d93ad316,0,Hà Nội,Ba Đình
+d9b43e42d61d7686,0,Hà Nội,Ba Đình
+f324a40e2b3493ff,0,Hà Nội,Ba Đình
+c04ea5b9904b1970,0,Hà Nội,Ba Đình
+3041a99cc40415ec,0,Hà Nội,Ba Đình
+f240aab0c364425d,0,Hà Nội,Ba Đình
+5597a9f6d78eef9a,0,Hà Nội,Nam Từ Liêm
+199705286fd264fe,0,Hồ Chí Minh,
+56b777e39688a897,0,Hồ Chí Minh,Thủ Đức
+fc0b3b16154baeb3,0,Hà Nội,Thanh Xuân
+e0dfd690a67690ea,0,Hà Nội,Cầu Giấy
+1168e9a8ab27fbe8,0,Hải Phòng,Lê Chân
+cfe881a4ed126d50,0,Hà Nội,Tây Hồ
+bd247340c47a8f1d,0,Hồ Chí Minh,Bình Thạnh
+38f0359cd1cb5ad5,0,Hồ Chí Minh,Phú Nhuận
+8a867b858dbad34f,0,Hồ Chí Minh,Tân Bình
+cf81e89972671af8,0,Hà Nội,Nam Từ Liêm
+2e50559e61465708,0,Hồ Chí Minh,Tân Bình
+d3f5dec2e0af909c,0,Hồ Chí Minh,Phú Nhuận
+d3f5dec2e0af909c,1,Đà Nẵng,Thanh Khê
+2b7c6f13462b3f7b,0,Hồ Chí Minh,Phú Nhuận
+2b7c6f13462b3f7b,1,Đà Nẵng,Thanh Khê
+21e9e210cd61e900,0,Hà Nội,Đống Đa
+497c346c992cf558,0,Hà Nội,Từ Liêm
+3e14749e3aa54e61,0,Hà Nội,Tây Hồ
+08fe497c8105fdd0,0,Hà Nội,Ba Đình
+177e072a1d71c8c2,0,Thanh Hoá,Thạch Thành
+13491d4a6dc9f41d,0,Hà Nội,
+c61e1e8f04c0a1d1,0,Hà Nội,Thanh Xuân
+4344b1d74a9b1a4a,0,Hà Nội,Thanh Xuân
+345e743208fba812,0,Hà Nội,
+8e22bd17d2312fb3,0,Hà Nội,Nam Từ Liêm
+a00048abb7eabaad,0,Hà Nội,Hồ Chí Minh
+a00048abb7eabaad,1,Đà Nẵng,
+32ebab9f0c213f80,0,Hà Nội,Hồ Chí Minh
+32ebab9f0c213f80,1,Đà Nẵng,
+f601afaeee649307,0,Hà Nội,Cầu Giấy
+c8cc3235ff808f9a,0,Hà Nội,Đống Đa
+c8631f96461b16d9,0,Hà Nội,Cầu Giấy
+5f19d224ac1ca540,0,Hà Nội,Tây Hồ
+720fde124d466a95,0,Hồ Chí Minh,Tân Bình
+525a7114a42e8356,0,Hà Nội,Cầu Giấy
+0bf39b6e6d3d6bf9,0,Hà Nội,Nam Từ Liêm
+28d6f88f31bf593d,0,Hà Nội,Cầu Giấy
+e90cab3c1eebff2f,0,Hà Nội,Cầu Giấy
+e90cab3c1eebff2f,1,Hồ Chí Minh,Phú Nhuận
+b59decbbaa344d92,0,Hồ Chí Minh,Bình Thạnh
+ab40d59e6ee6cc34,0,Hồ Chí Minh,Quận 1
+ce329de0db93bcdc,0,Hà Nội,Đống Đa
+b9a27d43a4da5a77,0,Hà Nội,Từ Liêm
+83ba526e03475756,0,Hà Nội,Nam Từ Liêm
+dc316869464281b6,0,Hà Nội,Cầu Giấy
+d6242738a5f4c53c,0,Hồ Chí Minh,Quận 10
+5c1f2a600f4ef9f2,0,Hà Nội,Nam Từ Liêm
+5c1f2a600f4ef9f2,1,Hồ Chí Minh,Tân Bình
+5da19bf59f11bad2,0,Hà Nội,Nam Từ Liêm
+0c02023da2d57e83,0,Hà Nội,
+7d17d3eac90002fc,0,Hải Phòng,Ngô Quyền
+1359d5920d903c8a,0,Bắc Ninh,TP Bắc Ninh
+c4340a887d99d256,0,Hồ Chí Minh,Tân Bình
+247b1a834ee3675f,0,Hà Nội,Cầu Giấy
+24522493633eab7c,0,Hà Nội,Cầu Giấy
+777592c060317d0d,0,Hà Nội,Đống Đa
+5e6a0adbc6822ec7,0,Hà Tĩnh,
+43af878bc04d96e3,0,Hồ Chí Minh,Bình Thạnh
+62f07214166ff30c,0,Hà Nội,Đống Đa
+c6ac768916dcbd4e,0,Hồ Chí Minh,Bình Thạnh
+deb07b41e46c619c,0,Hồ Chí Minh,Bình Thạnh
+8db066763e1e0ee3,0,Hà Nội,Thanh Xuân
+826c8ff92f4fdc73,0,Hà Nội,Cầu Giấy
+f279710d1164553d,0,Hà Nội,Thanh Xuân
+73945a93300e158c,0,Hà Nội,Cầu Giấy
+29d4659c218a5cba,0,Hà Nội,Cầu Giấy
+99d921bbd9c75de3,0,Hà Nội,Cầu Giấy
+b89c7ab4235e1f4e,0,Hà Nội,Cầu Giấy
+40dcb110fbc93cbd,0,Nước Ngoài,
+fbc62d053e68ea8b,0,Hà Nội,Cầu Giấy
+b63d71872fad4120,0,Hồ Chí Minh,
+2e223264d70acbe8,0,Hà Nội,Hoàng Mai
+e4ea99671bdda31e,0,Hà Nội,
+7311fabcc5681089,0,Hà Nội,Đống Đa
+505334a77b012a9a,0,Hồ Chí Minh,Tân Bình
+66c59a68452e17ba,0,Hà Nội,Mê Linh
+235df4baddba9ee8,0,Hà Nội,Hồ Chí Minh
+235df4baddba9ee8,1,Đà Nẵng,
+a09bbe7e91f324ef,0,Hà Nội,Hồ Chí Minh
+a09bbe7e91f324ef,1,Đà Nẵng,
+3ab422d3dd9d997d,0,Hà Nội,Hồ Chí Minh
+3ab422d3dd9d997d,1,Đà Nẵng,
+605dc58bf8cce214,0,Hà Nội,Hồ Chí Minh
+605dc58bf8cce214,1,Đà Nẵng,
+98b488c7c2b41c39,0,Hà Nội,Hồ Chí Minh
+49174690d59a7b46,0,Hà Nội,Hồ Chí Minh
+49174690d59a7b46,1,Đà Nẵng,
+b0ff7839c96d41fd,0,Bình Dương,Thuận An
+a20921d43b7611cd,0,Nước Ngoài,
+287a9bfa2d92b518,0,Hà Nội,Thanh Xuân
+6ea39e8e2201b97f,0,Hà Nội,
+035b236db3ed8703,0,Hà Nội,Cầu Giấy
+035b236db3ed8703,1,Hà Nội,Nam Từ Liêm
+334965b440919e79,0,Bình Dương,Thủ Dầu Một
+4ababcbce9796f40,0,Hà Nội,Từ Liêm
+abb254c21fe7aa78,0,Hà Nội,Thanh Xuân
+cb5244558c998bfb,0,Hồ Chí Minh,Quận 12
+08902c252de69ceb,0,Hồ Chí Minh,Quận 3
+2940e99789164912,0,Hồ Chí Minh,Bình Thạnh
+182e6619551e2618,0,Hà Nội,Cầu Giấy
+c4be49539976071b,0,Hà Nội,Ba Đình
+9a0961b7fab6b47a,0,Hồ Chí Minh,Quận 7
+5c62e71f0a87513e,0,Hà Nội,
+849989d24898e210,0,Hà Nội,
+b12a9c13d243fc37,0,Hà Nội,Cầu Giấy
+dc1d37b7bd4b699c,0,Hà Nội,Cầu Giấy
+3e5381ee0049d6af,0,Hà Nội,Cầu Giấy
+277f9b787051db69,0,Hồ Chí Minh,Tân Bình
+fd5141c8d18f1c2e,0,Hà Nội,Cầu Giấy
+7d00ead89fad31c6,0,Hồ Chí Minh,Quận 10
+266b44c66a88c1e5,0,Hồ Chí Minh,Quận 7
+6a5fe0b7f4afcde7,0,Đà Nẵng,Sơn Trà
+66512a5e52b8ec54,0,Hà Nội,Cầu Giấy
+56ce7c3f31fd328f,0,Hà Nội,Cầu Giấy
+dbc69a165c23bbb0,0,Hà Nội,Cầu Giấy
+13da1f6ff9f9832d,0,Hà Nội,Cầu Giấy
+54c98c99e90c8e9a,0,Hà Nội,Cầu Giấy
+e961e6faad114dd9,0,Hồ Chí Minh,
+1bea221318612b2a,0,Hồ Chí Minh,Tân Bình
+a02f22011ddb0a31,0,Hà Nội,Nam Từ Liêm
+cf6102fa2984d92d,0,Bình Dương,Thủ Dầu Một
+9b1e56a40fc8b817,0,Hà Nội,Hai Bà Trưng
+0a9fae17e9de5be8,0,Hà Nội,Cầu Giấy
+378b97ee7f0ae966,0,Hà Nội,Cầu Giấy
+73084377024aafb1,0,Hà Nội,
+614f37719f3f568a,0,Hồ Chí Minh,
+5cb13ce141cb6cd0,0,Hà Nội,Thanh Xuân
+1c29993cad3c471d,0,Hà Nội,Đống Đa
+abd7a8f7f772834e,0,Hồ Chí Minh,Bình Dương
+7abf6276a9b847b7,0,Hồ Chí Minh,Phú Nhuận
+e9393ad895fdf1e1,0,Hà Nội,
+159b5c1935edf097,0,Hồ Chí Minh,Quận 3
+d654e58a14cf94fa,0,Hà Nội,Cầu Giấy
+bff7b81c25276224,0,Hà Nội,Đống Đa
+fd12ca0f8965b3c2,0,Hồ Chí Minh,Quận 1
+2af710564a5161dd,0,Hà Nội,Cầu Giấy
+da5c484a18b8d085,0,Đà Nẵng,Thanh Khê
+021dd5ca2664d7b2,0,Đà Nẵng,Thanh Khê
+f56f05723e9e46e6,0,Hồ Chí Minh,Quận 3
+961b66d4342ce583,0,Hà Nội,Thanh Xuân
+38b1f8e507449b46,0,Hà Nội,Nam Từ Liêm
+2930f1eb3171ca91,0,Hà Nội,Cầu Giấy
+ee1a0f53b1e9c349,0,Hà Nội,Cầu Giấy
+09d802b81247b858,0,Hà Nội,Sóc Sơn
+3ca54c9f49712852,0,Hà Nội,Nam Từ Liêm
+e142154ca286ae2e,0,Hà Nội,Cầu Giấy
+bff0b68e41260c40,0,Hồ Chí Minh,Quận 1
+186b5c084b12e3ba,0,Hà Nội,Hoàng Mai
+d3ca40b297c134c1,0,Hà Nội,Hoàng Mai
+d3ca40b297c134c1,1,Hà Nội,Nam Từ Liêm
+be914a548b9cf394,0,Hồ Chí Minh,Quận 1
+512e04f6c1f92cb5,0,Hà Nội,Nam Từ Liêm
+05cae27a209c9f01,0,Đà Nẵng,Hải Châu
+d0db088c96fad6bb,0,Hà Nội,Nam Từ Liêm
+5b848f9cb53fcb62,0,Hà Nội,Hoàng Mai
+9e75abc77cc4d9ff,0,Hà Nội,Nam Từ Liêm
+9e75abc77cc4d9ff,1,Hà Nội,Hoàng Mai
+37727a4833cafa2c,0,Hồ Chí Minh,Thủ Đức
+2540271b821eb19e,0,Hà Nội,Cầu Giấy
+dc7b8d1e338a9767,0,Hà Nội,Cầu Giấy
+ec397ac341538b29,0,Đà Nẵng,Sơn Trà
+97955fa97f3da369,0,Đà Nẵng,Sơn Trà
+cbea099b131bda4d,0,Đà Nẵng,Sơn Trà
+29daeb7deb50eabb,0,Hà Nội,
+30f16f8facbacc1f,0,Hồ Chí Minh,Bình Chánh
+a85a06210475a2a5,0,Hà Nội,
+dca51a90cbb68f13,0,Hà Nội,Cầu Giấy
+758a02a2b8a9f232,0,Hồ Chí Minh,Tân Bình
+14f9f52c072477cc,0,Hà Nội,Đống Đa
+d118689c002014ef,0,Hồ Chí Minh,Quận 9
+f36099136555c82e,0,Hà Nội,Hai Bà Trưng
+bf52c044c403c20b,0,Hồ Chí Minh,Quận 3
+c5d5728fb99dd13e,0,Hồ Chí Minh,Phú Nhuận
+16388bb2f4c4ba4b,0,Hồ Chí Minh,Tân Bình
+776bca18c29c26e7,0,Hà Nội,Đống Đa
+d8dcaab9508617ac,0,Bình Dương,
+0b00cb4a169eac25,0,Đà Nẵng,Liên Chiểu
+91e3a963d7120608,0,Hà Nội,Cầu Giấy
+91e3a963d7120608,1,Hà Nội,Hoàn Kiếm
+13b4aa2abe88c0d1,0,Hà Nội,Từ Liêm
+13b4aa2abe88c0d1,1,Hồ Chí Minh,Tân Bình
+1bee06fade713fd8,0,Hà Nội,Ba Đình
+7a9b10e032cb8a85,0,Hồ Chí Minh,Bình Thạnh
+a9cb7346c65a32bf,0,Hà Nội,Cầu Giấy
+1a1d859464466df1,0,Hà Nội,Cầu Giấy
+5b5187efc4030842,0,Hà Nội,Từ Liêm
+5f5212630a260257,0,Hà Nội,Từ Liêm
+6e2e7cc3dc214f0d,0,Hà Nội,
+837ba892904953a8,0,Hà Nội,Bắc Từ Liêm
+9c9bb449cc02e77a,0,Hà Nội,Bắc Từ Liêm
+8b8cd4c355b3e8a9,0,Hà Nội,Bắc Từ Liêm
+fb23c834e41bf3fe,0,Hà Nội,Bắc Từ Liêm
+e591faa69f552f73,0,Hồ Chí Minh,Quận 10
+3f0e37988d6faa62,0,Hồ Chí Minh,Bình Thạnh
+c285111c2dd500c4,0,Hà Nội,Từ Liêm
+871ece4c335bdced,0,Hà Nội,Đống Đa
+a44b374d0badb7b3,0,Hồ Chí Minh,Tân Phú
+f18d09f6eaf3dae8,0,Hà Nội,Đống Đa
+9b4f9dc6a3ad0bff,0,Hà Nội,Thanh Xuân
+e1973b5467fc638c,0,Hà Nội,Nam Từ Liêm
+c967caeb97d23d97,0,Hồ Chí Minh,Quận 3
+d766e4bf8a587ef4,0,Hà Nội,Hai Bà Trưng
+e4c83730c2bb5db1,0,Hà Nội,Đống Đa
+d42c2d028c6d48ff,0,Hà Nội,Nam Từ Liêm
+d69f673b73c644ee,0,Hồ Chí Minh,Quận 7
+144da3bbd000baa5,0,Hồ Chí Minh,Bình Thạnh
+71367535af3a673a,0,Hồ Chí Minh,Tân Bình
+25924de250a7be03,0,Hà Nội,Bắc Từ Liêm
+32037f8f168989a7,0,Nghệ An,TP Vinh
+02bf567fa6479bca,0,Hồ Chí Minh,Quận 1
+b85bcd34dc908cb2,0,Hồ Chí Minh,Phú Nhuận
+997f5d41011c5850,0,Hồ Chí Minh,Phú Nhuận
+3d195f2785020341,0,Hồ Chí Minh,Phú Nhuận
+8172459306f1c4fe,0,Hà Nội,Đống Đa
+723eac982bfe8ced,0,Cần Thơ,Ninh Kiều
+6bc4173a70ea7978,0,Hà Nội,Cầu Giấy
+0093aa4d1fb79d31,0,Hà Nội,Nam Từ Liêm
+557f517cf91397d2,0,Hà Nội,Hai Bà Trưng
+557f517cf91397d2,1,Đà Nẵng,Thanh Khê
+32cfa4f58e61b4c3,0,Hà Nội,Đống Đa
+f22a225338df66ec,0,Hồ Chí Minh,Tân Bình
+d971bea0098d976e,0,Đà Nẵng,Cẩm Lệ
+fe3e71085705e0dd,0,Hà Nội,Ba Đình
+554579a4dfda1a91,0,Hà Nội,Nam Từ Liêm
+9aa0d54aaffd4a4e,0,Hà Nội,
+2b4a1d9808ee639e,0,Hà Nội,Đống Đa
+5b9d6d69cedb8b0d,0,Hà Nội,Đống Đa
+c41aa904fc6f4049,0,Hà Nội,
+40a8295fe6888b9e,0,Hà Nội,Nam Từ Liêm
+4e7497ed9265ca6e,0,Bình Dương,Bến Cát
+fc1fe1557085ba77,0,Hà Nội,Nam Từ Liêm
+e6231bd25672f693,0,Hồ Chí Minh,Tân Bình
+e6231bd25672f693,1,Đà Nẵng,Hải Châu
+d9fd7fcfe6965799,0,Hồ Chí Minh,Quận 7
+8de08c924dde6ed3,0,Hồ Chí Minh,Tân Bình
+f712de71c55e3f0f,0,Cần Thơ,
+2828a29aeef17f4e,0,Hồ Chí Minh,Quận 7
+2828a29aeef17f4e,1,Hồ Chí Minh,Quận 1
+0c82e777a5e222ec,0,Hà Nội,Ba Đình
+f7fc06e4b957bdc5,0,Hồ Chí Minh,Tân Bình
+2744c46eaf958f5f,0,Hà Nội,Thanh Xuân
+947ba1c012b371ef,0,Hà Nội,Thanh Xuân
+2ac4033d3c9cbbcd,0,Hà Nội,
+f94ce8e2fef826af,0,Hà Nội,
+50385bec30376f18,0,Hà Nội,
+dd7b51813b671283,0,Hà Nội,
+40f97b24a4eb7843,0,Hà Nội,Cầu Giấy
+dacd2424d6ebb5c0,0,Hồ Chí Minh,Tân Bình
+63d8f00bfaa670fb,0,Hà Nội,Hai Bà Trưng
+a9f1ac8c385b58b1,0,Hà Nội,Thanh Xuân
+377760a8579903e4,0,Hà Nội,Thanh Xuân
+a4ab1fb63d9b0ae3,0,Hà Nội,Cầu Giấy
+08142ec17c1f714a,0,Hà Nội,Thanh Xuân
+1239842c2632caa8,0,Hà Nội,Nam Từ Liêm
+9fd7c0bd147b3a54,0,Hà Nội,Nam Từ Liêm
+9fd7c0bd147b3a54,1,Hồ Chí Minh,Quận 1
+5dda1e7b01868f3b,0,Hà Nội,Đống Đa
+c1e7e42389facd5c,0,Hà Nội,Nam Từ Liêm
+544b7370ebf9b951,0,Hồ Chí Minh,Phú Nhuận
+448930eab35de6d9,0,Hà Nội,Cầu Giấy
+cbd97962198e1f40,0,Hà Nội,Cầu Giấy
+951bf30ecd82b04c,0,Hà Nội,Cầu Giấy
+6d2fca28463da71f,0,Hà Nội,Cầu Giấy
+a50bcee23ee6b372,0,Thừa Thiên Huế,TP Huế
+e6cd98c69537261f,0,Thừa Thiên Huế,TP Huế
+36b8bb8481c7347c,0,Thừa Thiên Huế,TP Huế
+36b8bb8481c7347c,1,Đà Nẵng,Ngũ Hành Sơn
+052ee99fb440d9e6,0,Thừa Thiên Huế,TP Huế
+9e943eb452383e28,0,Hà Nội,Cầu Giấy
+80130a1fa47bc09e,0,Hà Nội,Ba Đình
+7e4b58859d9f02c5,0,Hà Nội,Cầu Giấy
+fa6ce8b2b7f9060c,0,Hà Nội,Thanh Xuân
+f63cdc0050885e4b,0,Hà Nội,Cầu Giấy
+3523b3aa91ef52b6,0,Hà Nội,Cầu Giấy
+8839959b343e8cef,0,Hồ Chí Minh,Tân Bình
+fadd9dcddbde12a1,0,Hà Nội,
+ca3e366943d1ff68,0,Hà Nội,Đống Đa
+0e1510116e2a7b77,0,Hà Nội,Đống Đa
+e8484fb81ae46702,0,Nước Ngoài,
+cff16cbeaec84cb0,0,Nước Ngoài,
+c3fce99e66ea5ab1,0,Hồ Chí Minh,Tân Bình
+c0de8adb9e7bb4dd,0,Hà Nội,Hải Phòng
+1b52aacf85952628,0,Hà Nội,Hoàng Mai
+fe241d9ab67ba66e,0,Hà Nội,Thanh Xuân
+148df90501daa60c,0,Hồ Chí Minh,Gò Vấp
+0a2736dbbb4269af,0,Hồ Chí Minh,Bình Thạnh
+6ed352930662ca43,0,Nước Ngoài,
+596c1ca1b6ea9df0,0,Hà Nội,Cầu Giấy
+b23715292692ad1b,0,Hà Nội,Cầu Giấy
+4843efc475a64d2e,0,Hà Nội,Cầu Giấy
+910123950ecfe4ae,0,Hà Nội,Từ Liêm
+c6dfaa4f73dd1654,0,Đà Nẵng,Hải Châu
+9664a8f0a52b12c1,0,Hoà Bình,Lương Sơn
+fe3ded39a32a654a,0,Hồ Chí Minh,Quận 7
+f38b761e05b11289,0,Hà Nội,Đống Đa
+f38b761e05b11289,1,Hồ Chí Minh,Quận 3
+0e23d83949913950,0,Hà Nội,Nam Từ Liêm
+e08b9157c976c030,0,Hồ Chí Minh,Tân Bình
+393ede0e967f8af7,0,Hồ Chí Minh,Tân Bình
+8165542593e5ee6b,0,Hồ Chí Minh,Tân Bình
+22b730b0da4f49f4,0,Hồ Chí Minh,Tân Bình
+7d4059e4bb9cff49,0,Hà Nội,
+8bb4083150629db8,0,Hà Nội,Ba Đình
+9b2b0a6975bff5b9,0,Hà Nội,Cầu Giấy
+0d706f3c797184c4,0,Hà Nội,Nam Từ Liêm
+fdaf6611cb312ea0,0,Hà Nội,Cầu Giấy
+62b51bb691078ec1,0,Hà Nội,Cầu Giấy
+504c89097e5cbddd,0,Hồ Chí Minh,Tân Phú
+086e8373635173b6,0,Hà Nội,
+2f3cab4a97989081,0,Hà Nội,
+5ee78b08b252e356,0,Hà Nội,Cầu Giấy
+54d32ed8b7220c46,0,Hà Nội,Cầu Giấy
+d03cc312ed20d916,0,Hà Nội,Cầu Giấy
+ed43a13486a0cfed,0,Hà Nội,Cầu Giấy
+6ea4a5bdb8f346c2,0,Hà Nội,Cầu Giấy
+a203ab9a7a994eb3,0,Hà Nội,Cầu Giấy
+de2c67a5643f21f2,0,Hồ Chí Minh,Tân Bình
+da94bc98b3e06239,0,Hà Nội,Cầu Giấy
+e5a5821778bf27f5,0,Hà Nội,Thanh Xuân
+757b984a3c4f2fbd,0,Hồ Chí Minh,Quận 3
+1c7cb4da42a5e07c,0,Hồ Chí Minh,Quận 2
+4e854fbc35496dca,0,Hà Nội,Nam Từ Liêm
+f25c75b01b53083c,0,Hồ Chí Minh,Tân Bình
+3479a9607f37223f,0,Hồ Chí Minh,Tân Bình
+2816b7231083d3e6,0,Hà Nội,Nam Từ Liêm
+f9e349956b128ad2,0,Hà Nội,Cầu Giấy
+6c6f28a25b9177be,0,Hà Nội,Cầu Giấy
+0a290af19b04d5fd,0,Hà Nội,Cầu Giấy
+59fb3d5d3acfd669,0,Hồ Chí Minh,Gò Vấp
+82873a5a34abd666,0,Bình Dương,Thuận An
+a5f1cd73ce31a20e,0,Hà Nội,Cầu Giấy
+42f8c097bc0a0c95,0,Hà Nội,Cầu Giấy
+92b00a4b11ec815a,0,Hà Nội,Cầu Giấy
+57e97f93994326f3,0,Hồ Chí Minh,Quận 2
+9ef556e968749533,0,Hà Nội,Nam Từ Liêm
+9f3d4512d65c454e,0,Hà Nội,Đống Đa
+fe55b47612722981,0,Hà Nội,Cầu Giấy
+c6ba049978d583d3,0,Hồ Chí Minh,Quận 3
+f4309c1581ddf2d7,0,Hà Nội,Hoàng Mai
+075b402abdb3f15a,0,Hà Nội,Cầu Giấy
+0ed349fc112db6d8,0,Hà Nội,Ba Đình
+4130ccc070a55f45,0,Hà Nội,Nam Từ Liêm
+9a7daa00bd1c4f58,0,Hà Nội,Nam Từ Liêm
+90843a28dd1b8ef5,0,Hà Nội,Nam Từ Liêm
+4b37cf632adf4825,0,Hà Nội,Nam Từ Liêm
+8a268cb63f6c32ce,0,Đà Nẵng,Liên Chiểu
+5af2b241e9ee7071,0,Hà Nội,Nam Từ Liêm
+15cd565d40f9407d,0,Hồ Chí Minh,Quận 7
+ddd348e01e168220,0,Hà Nội,Thanh Xuân
+a3ab33e5416c6b8e,0,Hà Nội,Nam Từ Liêm
+36da5123de26da8d,0,Hà Nội,Nam Từ Liêm
+f18f318f81e3254a,0,Hồ Chí Minh,Bình Thạnh
+16a358fbec623ad5,0,Hà Nội,Đống Đa
+7355a265f05fc46b,0,Hà Nội,Nam Từ Liêm
+34f755b0432a4abc,0,Hà Nội,Cầu Giấy
+513d82091a4d316a,0,Hồ Chí Minh,Quận 11
+268bc16d3876c1db,0,Hồ Chí Minh,Quận 1
+c4ec0ce87ba33121,0,Hồ Chí Minh,Tân Bình
+b0c7074280b6b855,0,Hà Nội,Hà Đông
+46ebdc8094906ea0,0,Hà Nội,Nam Từ Liêm
+402bee6b03a323e6,0,Hà Nội,
+5c2a7ba67e9e26f2,0,Hà Nội,Nam Từ Liêm
+f5ed756be47fd993,0,Hồ Chí Minh,Tân Bình
+0fa204ef1c4fbd1a,0,Hà Nội,Nam Từ Liêm
+0fa204ef1c4fbd1a,1,Đà Nẵng,Hải Châu
+9f9324f9494417cc,0,Hà Nội,Cầu Giấy
+d303be916e9089dc,0,Hà Nội,Nam Từ Liêm
+f30a4efa9373d0f5,0,Hà Nội,Thanh Xuân
+82c1224197b7a8e8,0,Hồ Chí Minh,Quận 1
+313bc89a91615bb3,0,Hà Nội,Thanh Xuân
+c39e58db8ea917c6,0,Hà Nội,Cầu Giấy
+d9c3a8069ed5c52b,0,Hà Nội,Thanh Xuân
+4d66e55449953af7,0,Hồ Chí Minh,Quận 10
+cdb3c673db64edf4,0,Hồ Chí Minh,
+5a5c0ece2b618e9a,0,Hà Nội,Ba Đình
+37ee9fb058a862f0,0,Hồ Chí Minh,Phú Nhuận
+e682ce6d7237620d,0,Hà Nội,Cầu Giấy
+40b05839be97df04,0,Hà Nội,Thạch Thất
+ed2b87d84aa580db,0,Hà Nội,
+b37545f9a569d69c,0,Bắc Giang,TP Bắc Giang
+ce680893dd20d7df,0,Hà Nội,Cầu Giấy
+340e8e97ae07c4bb,0,Hồ Chí Minh,Quận 1
+a344ad8e0ebd4cc5,0,Hà Nội,Thạch Thất
+4ebc6242ab056350,0,Hà Nội,Đống Đa
+69a42da4a90807df,0,Hà Nội,Đống Đa
+69a42da4a90807df,1,Hà Nội,Cầu Giấy
+549645a46292d024,0,Hà Nội,Ba Đình
+549645a46292d024,1,Hồ Chí Minh,Tân Bình
+31ca74aab822a51b,0,Hà Nội,
+31fdb55a9f73a1a3,0,Hà Nội,
+b05ec6127466aaab,0,Hà Nội,Cầu Giấy
+693126e7b8d8e7c9,0,Hà Nội,Đống Đa
+85aaa8d7fb463f24,0,Hà Nội,Nam Từ Liêm
+e88d75bd28cbf06c,0,Hà Nội,Cầu Giấy
+033e4255f9d0715d,0,Hà Nội,Nam Từ Liêm
+8472bf6c4f31e185,0,Thái Bình,TP Thái Bình
+6db970f023e700f1,0,Hồ Chí Minh,Quận 2
+8a797c9677fb6517,0,Hồ Chí Minh,Quận 2
+fe80ec399ebdb3a4,0,Hà Nội,
+8deb739ee961491e,0,Hồ Chí Minh,Tân Bình
+74e8840e5ec99ef2,0,Hà Nội,Nam Từ Liêm
+7a886573bcea0d92,0,Hồ Chí Minh,Quận 5
+a54744828931c19c,0,Hồ Chí Minh,Quận 6
+ba57e0a0648e461e,0,Hồ Chí Minh,Quận 1
+021ed16d34113b40,0,Hà Nội,Hoàng Mai
+665039adf0c94a37,0,Hà Nội,Hai Bà Trưng
+8b36e46c46170e3f,0,Hà Nội,Hai Bà Trưng
+1b3f664e32a78411,0,Hồ Chí Minh,Tân Bình
+133f8b0686c6f51a,0,Hà Nội,Hoàng Mai
+e2de1e43e74efa9c,0,Hà Nội,Hai Bà Trưng
+0589753d511aedf7,0,Hà Nội,
+d437d919ce19fb91,0,Hồ Chí Minh,Bình Thạnh
+6c4a2dc124c7d9ad,0,Hồ Chí Minh,Bình Thạnh
+5cb9532afd97a243,0,Hồ Chí Minh,Quận 7
+5bc5dc762413e719,0,Hà Nội,
+8d53960b2794cf9c,0,Hà Nội,Cầu Giấy
+5e760cc74f056c44,0,Hà Nội,Cầu Giấy
+fa05b8601934ca19,0,Hà Nội,Cầu Giấy
+c4b9d470d561f88d,0,Hồ Chí Minh,
+c7310c02d5891fc5,0,Nghệ An,
+3fb055f065e5b387,0,Hồ Chí Minh,Tân Bình
+89d5132976de1df3,0,Nước Ngoài,
+918d1ab1237df7ce,0,Nước Ngoài,
+ce1a30cd2f7bd7b7,0,Hà Nội,Thanh Xuân
+259e47765ff5090e,0,Hà Nội,Cầu Giấy
+7cb14e6205066e3f,0,Hà Nội,Thanh Xuân
+945b862fdcc24e50,0,Hà Nội,Nam Từ Liêm
+e9998e7cc319dc58,0,Hồ Chí Minh,Quận 4
+7d16189d53c1d648,0,Hà Nội,Cầu Giấy
+d173b23a43d69f7c,0,Hà Nội,Đống Đa
+f490335a6250f2ce,0,Hà Nội,Cầu Giấy
+97b598cc95f83c31,0,Hà Nội,Hoàng Mai
+97b598cc95f83c31,1,Hồ Chí Minh,Thủ Đức
+0575c0f99d0227d4,0,Hà Nội,Cầu Giấy
+633dd016075db947,0,Hà Nội,Cầu Giấy
+f1889e43b0a71f4b,0,Hà Nội,Cầu Giấy
+f782b6a500a2f80c,0,Hồ Chí Minh,Quận 5
+04781bf320b4b183,0,Hà Nội,Nam Từ Liêm
+60856ffae3c1e935,0,Hà Nội,Nam Từ Liêm
+8c4b67bd080f8d38,0,Hà Nội,Thanh Xuân
+f219ed0d21e27c4b,0,Hà Nội,
+7aa105ff9c081c97,0,Hồ Chí Minh,Phú Nhuận
+68969cec99d9382d,0,Hà Nội,Hà Đông
+c5aa7baa5fc37d41,0,Hà Nội,Hà Đông
+825089182cd11530,0,Hồ Chí Minh,Nhà Bè
+0884185f134eefcf,0,Hà Nội,Cầu Giấy
+49e1b7af8088b9a8,0,Hà Nội,Nam Từ Liêm
+b1ae200ab90b9dcf,0,Hồ Chí Minh,Tân Bình
+a29e6ac3999f7711,0,Hồ Chí Minh,
+b229bc9961426811,0,Hồ Chí Minh,Quận 10
+81acc0786a4cd542,0,Hồ Chí Minh,Quận 10
+3a128b1c645bb176,0,Hà Nội,Nam Từ Liêm
+b67ab73dfa2aeedc,0,Hà Nội,Cầu Giấy
+ff909d44c3bed7cc,0,Hồ Chí Minh,Quận 10
+4c909146646ded13,0,Hồ Chí Minh,Quận 1
+5969264e0b621440,0,Hà Nội,Ba Đình
+9c566fa59f6e077f,0,Hồ Chí Minh,Quận 5
+1551eb636bec4c39,0,Hà Nội,Thanh Xuân
+8e86d43fccde3dcf,0,Hà Nội,Cầu Giấy
+7c66d3c871bee77c,0,Hồ Chí Minh,Quận 4
+7c66d3c871bee77c,1,Hà Nội,Ba Đình
+00aad930e0aa7a7c,0,Hà Nội,Đông Anh
+5e15df9e570b464c,0,Hồ Chí Minh,Quận 7
+bcfa93cb166b33a3,0,Hà Nội,Nam Từ Liêm
+3246dfc714947f3c,0,Hồ Chí Minh,Tân Bình
+ad8c5e817e598bb1,0,Hồ Chí Minh,Quận 5
+93e8e3d30f825a3b,0,Hồ Chí Minh,Quận 5
+04dfe7d239964e20,0,Hà Nội,Thanh Xuân
+eea17c3518652f43,0,Hồ Chí Minh,Quận 5
+cac607bcf45e1fd7,0,Hà Nội,Hoàng Mai
+47271e0c846b3f69,0,Hà Nội,Nam Từ Liêm
+5e94c3c22173442b,0,Hà Nội,Nam Từ Liêm
+c0f56d3c1ffa370b,0,Hà Nội,Nam Từ Liêm
+56d93eeca07ed38d,0,Hồ Chí Minh,Quận 7
+7bc54bd0289f4286,0,Hồ Chí Minh,Bình Thạnh
+254d0ece6d5ceaa2,0,Hà Nội,Hai Bà Trưng
+abbd4e9bac9a922c,0,Hà Nội,Cầu Giấy
+9d4f958f568ba011,0,Hà Nội,Thanh Xuân
+583c26475a3ada54,0,Hà Nội,Cầu Giấy
+7074ebbb721a1307,0,Hồ Chí Minh,Tân Bình
+de8b86851cc02a54,0,Hà Nội,Nam Từ Liêm
+7bf9195de18baef8,0,Hà Nội,Hà Đông
+6837495e6dcc5b17,0,Hà Nội,Hồ Chí Minh
+79443c5a7bcaed90,0,Hồ Chí Minh,Hà Nội
+21a5f053cf93f813,0,Hà Nội,Cầu Giấy
+b66ec895fc4ce74e,0,Hà Nội,
+4758455afe183725,0,Hà Nội,Hà Đông
+798bf5dc9f84c501,0,Hồ Chí Minh,Quận 11
+2d29ebdc22fb0314,0,Hồ Chí Minh,Phú Nhuận
+2d29ebdc22fb0314,1,Đà Nẵng,Thanh Khê
+0f68fe33cd030a34,0,Hà Nội,Cầu Giấy
+bea103053b753b07,0,Hồ Chí Minh,Quận 3
+25d4dd12b087fdb2,0,Hồ Chí Minh,Quận 12
+09de87d34b24a7cd,0,Hồ Chí Minh,
+5e06a8e2b5265b16,0,Hồ Chí Minh,
+80644a1e60020f2b,0,Hà Nội,
+1a1a61f0e146dd23,0,Hà Nội,Hoàng Mai
+2443d1a5584a3733,0,Hồ Chí Minh,Thủ Đức
+fcb6dd3d31b843cf,0,Hồ Chí Minh,Thủ Đức
+79f0b817d1ebf111,0,Hồ Chí Minh,Thủ Đức
+eef134e45e2e45e9,0,Hồ Chí Minh,Thủ Đức
+a52bc537fa2f7cac,0,Hồ Chí Minh,Củ Chi
+eb1a10c3b8437290,0,Hà Nội,Đống Đa
+eb1a10c3b8437290,1,Hà Nội,Thạch Thất
+52169a7a5ff98dd0,0,Hà Nội,Nam Từ Liêm
+38631311fae70e51,0,Hà Nội,Nam Từ Liêm
+f9fb0569794e669b,0,Hà Nội,
+d8bb669d4b638659,0,Hà Nội,Thanh Xuân
+71f67530046ef250,0,Hồ Chí Minh,Quận 3
+73eaaf8b57f0e694,0,Hà Nội,Nam Từ Liêm
+8e5a77d168236334,0,Hà Nội,
+24edea5226d8d3b4,0,Hà Nội,Cầu Giấy
+24edea5226d8d3b4,1,Hồ Chí Minh,Bình Thạnh
+1ea9c3cc3ae17361,0,Hà Nội,Thanh Xuân
+3c06d91869540370,0,Hà Nội,Hà Đông
+70aedff514ff618c,0,Hà Nội,Cầu Giấy
+5d9d440f0508bbf8,0,Hồ Chí Minh,Quận 3
+37530460808c0bb1,0,Hà Nội,
+7bb1af3e7fa7c58c,0,Hồ Chí Minh,Phú Nhuận
+7bb1af3e7fa7c58c,1,Đà Nẵng,Thanh Khê
+82fd3054ecec713c,0,Hà Nội,Nam Từ Liêm
+1ef52f35e4ead023,0,Hà Nội,Hoàn Kiếm
+94f77146f7ce329f,0,Hà Nội,Đống Đa
+20ca825e6cbbaa6c,0,Hà Nội,Hoàn Kiếm
+07affb61c4070482,0,Hà Nội,Cầu Giấy
+93073a3cdc6f6da6,0,Hà Nội,Đống Đa
+3cb728bc6aee2cff,0,Hải Phòng,
+6ff5bfd32b25bc77,0,Hà Nội,Thanh Xuân
+a78960f2035d98a4,0,Hồ Chí Minh,
+f17ee573ef43f269,0,Hồ Chí Minh,Tân Bình
+230e26b3f1525efc,0,Hà Nội,Cầu Giấy
+b2366efe38087221,0,Hồ Chí Minh,Quận 4
+8861d0a3f3b5476f,0,Hà Nội,Hoàn Kiếm
+341223180461cd0d,0,Hà Nội,Nam Từ Liêm
+8fa32dacc009a127,0,Hà Nội,Đống Đa
+8fa32dacc009a127,1,Đà Nẵng,
+54c9f008d34acb13,0,Hà Nội,Cầu Giấy
+24e45eaf3404f24d,0,Hà Nội,Hai Bà Trưng
+12170dd3dc2bdbe2,0,Hà Nội,
+193649d8541cc58f,0,Đồng Nai,Biên Hoà
+8badcc9bd37216d4,0,Hà Nội,
+8ea43716756fb1c8,0,Hà Nội,Nam Từ Liêm
+1c6c0f18d9ac4bcf,0,Hà Nội,Thanh Xuân
+1c6c0f18d9ac4bcf,1,Hà Nội,Ba Đình
+754ba0bab714fcc9,0,Hà Nội,Cầu Giấy
+754ba0bab714fcc9,1,Hà Nội,Hai Bà Trưng
+8bc6283522ee813e,0,Hà Nội,
+0ab33b3a551e9627,0,Hồ Chí Minh,Đà Nẵng
+2c289b38b8cef0fb,0,Hồ Chí Minh,Bình Thạnh
+2c289b38b8cef0fb,1,Hà Nội,Cầu Giấy
+a81f92b16db85da9,0,Hà Nội,Hà Đông
+b00eafaff41f1bed,0,Hà Nội,
+25f9780b27338d3d,0,Hồ Chí Minh,Quận 1
+666ce980574f5029,0,Hà Nội,Đống Đa
+666ce980574f5029,1,Hồ Chí Minh,Tân Bình
+2ba4d22a6bb03d69,0,Hà Nội,Cầu Giấy
+91e46f1fe86be0ce,0,Đồng Nai,Long Khánh
+414e0e3236d69870,0,Hà Nội,Cầu Giấy
+148eb62d00716026,0,Hồ Chí Minh,Quận 11
+a55d479e1fa2e06f,0,Hồ Chí Minh,Quận 1
+3c037230af386885,0,Hồ Chí Minh,
+7b3c47d953b45430,0,Hồ Chí Minh,Quận 8
+2550057673bc29df,0,Hồ Chí Minh,Tân Bình
+d21d80b60ffdcb50,0,Hồ Chí Minh,Tân Bình
+287ebc6872d8855b,0,Hồ Chí Minh,Quận 7
+fba14213a2f3431b,0,Đà Nẵng,Ngũ Hành Sơn
+6c82ab58602612c1,0,Đà Nẵng,Ngũ Hành Sơn
+7d6ae90f4d3fbc1f,0,Hà Nội,Cầu Giấy
+05161a215f105a95,0,Hồ Chí Minh,Tân Bình
+05161a215f105a95,1,Đà Nẵng,Thanh Khê
+b32ac42f5f3d5089,0,Khánh Hoà,TP Nha Trang
+cc9e5e4d186bdd8b,0,Hà Nội,Đà Nẵng
+cc9e5e4d186bdd8b,1,Hồ Chí Minh,
+fa7b361e3011aac6,0,Hà Nội,Nam Từ Liêm
+01cc628c3264546b,0,Hà Nội,Đống Đa
+c39a472dbb75088e,0,Hồ Chí Minh,Quận 2
+4d881c23bb700357,0,Hà Nội,Thanh Xuân
+2b8c24df3a1a9b9c,0,Hà Nội,Nam Từ Liêm
+cd474f70970ecc47,0,Đà Nẵng,Hải Châu
+12c3a038ea479b48,0,Đà Nẵng,Hải Châu
+90b4c9efa0af4053,0,Đà Nẵng,Thanh Khê
+84d17941d7860532,0,Đà Nẵng,Thanh Khê
+eb955253022514ba,0,Hà Nội,Cầu Giấy
+109555b2c1f8a672,0,Nghệ An,TP Vinh
+012e3b0fd14e5374,0,Hồ Chí Minh,Tân Bình
+51c709e82ee0f207,0,Hồ Chí Minh,
+8758e94a0ec68aa1,0,Hồ Chí Minh,Quận 8
+3610c70013545484,0,Hồ Chí Minh,Tân Bình
+0c4db98a008c52fe,0,Hà Nội,Cầu Giấy
+ac78b47cde82f2e3,0,Hà Nội,Nam Từ Liêm
+003b7cfc7331e1b1,0,Hà Nội,Bắc Từ Liêm
+08106a7aa3eb236b,0,Hồ Chí Minh,Quận 2
+9cc315843be84a6f,0,Hà Nội,Cầu Giấy
+042f61cf552b9e16,0,Hà Nội,Nam Từ Liêm
+a3524eec54808936,0,Hà Nội,Nam Từ Liêm
+2fcc95f5c07e4331,0,Hà Nội,
+17baf70ae7fca200,0,Hà Nội,Ba Đình
+50132afc1cdc5886,0,Hà Nội,Ba Đình
+32e387b47ad972ea,0,Hà Nội,Nam Từ Liêm
+7b447486c61e7bb0,0,Hà Nội,Ba Đình
+c266d545307845c4,0,Hà Nội,Tây Hồ
+4d8ab7a0dd067056,0,Hà Nội,Ba Đình
+d5e5d12b9061c11d,0,Hà Nội,Nam Từ Liêm
+9410904d796e013e,0,Hồ Chí Minh,Quận 2
+35f4e64e1597d4ab,0,Hà Nội,Cầu Giấy
+180dc5d54e4ec244,0,Hà Nội,Nam Từ Liêm
+650a2d66e8985df9,0,Hà Nội,
+18d7e8b281251882,0,Hà Nội,Nam Từ Liêm
+f4a62c7e67359f85,0,Hồ Chí Minh,Tân Bình
+187f06b7f4c38d00,0,Hà Nội,Nam Từ Liêm
+c29ea99fb06a1abf,0,Hồ Chí Minh,Phú Nhuận
+6dda1bb8d3b67cc6,0,Hồ Chí Minh,Quận 2
+104ec735535dc14c,0,Hồ Chí Minh,Phú Nhuận
+104ec735535dc14c,1,Đà Nẵng,Thanh Khê
+e339c0201b4d79eb,0,Hồ Chí Minh,
+46cae81e31a3ef8c,0,Hồ Chí Minh,
+c4c7291bfa301241,0,Hồ Chí Minh,Tân Bình
+9af635f5c0e774fb,0,Hồ Chí Minh,Quận 2
+bc514bf3e5eb76a8,0,Hà Nội,Bắc Từ Liêm
+78948043fd348d04,0,Hà Nội,Cầu Giấy
+432733dc4e285335,0,Hà Nội,Hoàng Mai
+6f60c3085dc67bc2,0,Hồ Chí Minh,Phú Nhuận
+921f097069b8a5f4,0,Hà Nội,Thanh Xuân
+1c0d9659e795d52d,0,Hà Nội,Thanh Xuân
+d399261a1006818d,0,Hồ Chí Minh,Quận 1
+4e95dd1713d8f61b,0,Hồ Chí Minh,Tân Bình
+587643e69c123d05,0,Hà Nội,Long Biên
+fd1c4b6154e2bd82,0,Bình Dương,Thủ Dầu Một
+108e1e76a6e78dda,0,Hà Nội,Thanh Xuân
+df1e2b1f2e2c3f61,0,Hà Nội,Nam Từ Liêm
+2296a007ac84004e,0,Hà Nội,Nam Từ Liêm
+9b21192d19ff9c0b,0,Hà Nội,Nam Từ Liêm
+298f7810e80d6870,0,Gia Lai,TP Pleiku
+298f7810e80d6870,1,Hồ Chí Minh,
+5c03fc8f8ee248b9,0,Hà Nội,Thanh Xuân
+5e132311350512f3,0,Hà Nội,Nam Từ Liêm
+62e18e102bed251f,0,Hà Nội,Nam Từ Liêm
+36b6f371d66b82e0,0,Hà Nội,Cầu Giấy
+aed41d411cc9f49b,0,Hà Nội,Thanh Xuân
+72097424ffe61bb9,0,Đà Nẵng,Ngũ Hành Sơn
+21052262c0790485,0,Hà Nội,Cầu Giấy
+84ea022a76fb6117,0,Đà Nẵng,Ngũ Hành Sơn
+1ff8d73dbea44d2c,0,Hà Nội,Nam Từ Liêm
+9d9fa730ec19af63,0,Hồ Chí Minh,Phú Nhuận
+95feaef574dca1c7,0,Hồ Chí Minh,Phú Nhuận
+95feaef574dca1c7,1,Đà Nẵng,Thanh Khê
+d3f63712e4f3f812,0,Hà Nội,Bắc Từ Liêm
+d43551aa9eafca72,0,Hà Nội,Đống Đa
+9c76f7565f68b10f,0,Hà Nội,Nam Từ Liêm
+d5962d0948bfee00,0,Hồ Chí Minh,Quận 5
+8d0b3a7e193b1ca2,0,Hồ Chí Minh,Quận 7
+95ae11f208c77a9a,0,Hà Nội,Nam Từ Liêm
+38f8cbb5fd9eda22,0,Hà Nội,
+f1dfdf4d501dbff6,0,Hà Nội,Thanh Xuân
+92b5f7c4fa3596bd,0,Hà Nội,Thanh Xuân
+d805a9484d5055da,0,Hà Nội,Đống Đa
+991863711c074af5,0,Hồ Chí Minh,Tân Bình
+43e8298faf314cd8,0,Hà Nội,Ba Đình
+75466608f6ed6598,0,Hà Nội,Cầu Giấy
+9ac2d34c26997f51,0,Hà Nội,Nam Từ Liêm
+5113f34b5d323675,0,Hà Nội,Thanh Xuân
+04ffc8674b949f73,0,Hà Nội,Đống Đa
+2986eba6cd18bdb2,0,Hà Nội,Ba Đình
+bf4b591ece189602,0,Hồ Chí Minh,Thủ Đức
+074cd8045877df4b,0,Hồ Chí Minh,Quận 2
+94f9a8ac601370ac,0,Hà Nội,Cầu Giấy
+0d6ff71f4baf73bd,0,Hồ Chí Minh,Phú Nhuận
+42c72a2dcfb66be3,0,Hồ Chí Minh,Phú Nhuận
+14e291a028c9d457,0,Hà Nội,Cầu Giấy
+b784e32352b0124a,0,Hồ Chí Minh,Quận 7
+a49383a9878fdc08,0,Hà Nội,Hà Đông
+dd39717a124b6cc0,0,Hà Nội,
+47b4b11ac3afff86,0,Hồ Chí Minh,Quận 4
+85a3a84a3710bafc,0,Hồ Chí Minh,
+57a9ef5dcd30c826,0,Hồ Chí Minh,Quận 2
+2837aee48dca7740,0,Cần Thơ,Ninh Kiều
+f2a49004f34097d2,0,Cần Thơ,Ninh Kiều
+acba560d08d66532,0,Cần Thơ,Ninh Kiều
+0c9972b955a8537d,0,Cần Thơ,Ninh Kiều
+6660829281461dfb,0,Hà Nội,Cầu Giấy
+0f1c8d9ac992fa7a,0,Nước Ngoài,
+d82af07c6ac62579,0,Hà Nội,Nam Từ Liêm
+01c7aebf7b54e418,0,Hà Nội,Nam Từ Liêm
+b8a6fbff62a36bd3,0,Hà Nội,Nam Từ Liêm
+bf2ab28ef7c27183,0,Hà Nội,Cầu Giấy
+57227626bbc6dd37,0,Hà Nội,Nam Từ Liêm
+4164036fd4d5e886,0,Hồ Chí Minh,Tân Phú
+6b720378b55f81a6,0,Hà Nội,Nam Từ Liêm
+dc2e2f68e60d77a1,0,Hà Nội,Nam Từ Liêm
+cefae739023d309f,0,Hà Nội,Nam Từ Liêm
+4f7f1de759714d84,0,Hà Nội,Nam Từ Liêm
+58e0af10110a0bb1,0,Hà Nội,Đống Đa
+8a2c01e5638e0a26,0,Hà Nội,Nam Từ Liêm
+9b74416f10c75bd2,0,Hà Nội,
+ebe58fe53646469f,0,Hồ Chí Minh,Quận 3
+ebe58fe53646469f,1,Hồ Chí Minh,Quận 12
+21943e38852cdc45,0,Hồ Chí Minh,
+8c95de7b0d67b3da,0,Hà Nội,Cầu Giấy
+df18d1ba20e92b1f,0,Hà Nội,Thanh Xuân
+f29faebe845d0a1c,0,Hồ Chí Minh,Quận 10
+45e63fa8e3e37917,0,Hà Nội,Nam Từ Liêm
+cc0d0f7ffe6da88b,0,Hà Nội,Thanh Xuân
+5f2294713d2014ad,0,Hồ Chí Minh,Thủ Đức
+da828d9dcc4d5310,0,Hà Nội,Hà Đông
+70a1a9b7cc050c1f,0,Hà Nội,Nam Từ Liêm
+24e2f7a8ca5fb0aa,0,Hồ Chí Minh,Quận 1
+94e83e25a1494b5b,0,Bình Dương,Thủ Dầu Một
+bc9728246bdd646f,0,Hồ Chí Minh,Phú Nhuận
+40d9764ae879bd3c,0,Hồ Chí Minh,Bình Thạnh
+9051d004e9f82343,0,Hà Nội,
+de065bea568c1f63,0,Hà Nội,Nam Từ Liêm
+dabec1838296313e,0,Hà Nội,Thanh Xuân
+7718e40dd8250fc2,0,Hà Nội,
+ede1d3b6931feb31,0,Hà Nội,Ba Đình
+85e84ac55f507304,0,Hà Nội,Ba Đình
+31f3b73d1a87f82f,0,Hồ Chí Minh,Quận 6
+bf49e75b685ca88c,0,Hà Nội,Đống Đa
+df1891c6cb472d87,0,Hà Nội,Nam Từ Liêm
+b38cf501a203f6d9,0,Hà Nội,Nam Từ Liêm
+c23fa9e70ce64047,0,Hà Nội,Ba Đình
+3a578ea424fe3d6e,0,Hà Nội,Cầu Giấy
+12c6906801697b43,0,Hà Nội,Đống Đa
+fddd799ecd16ff6f,0,Hà Nội,Đống Đa
+7a5712e1a3773783,0,Hà Nội,Đống Đa
+61b6c6a47eca5255,0,Hà Nội,Nam Từ Liêm
+57c54478c9163a53,0,Hồ Chí Minh,Bình Thạnh
+231c504c1ad7d3ab,0,Hà Nội,Nam Từ Liêm
+f0895c09167fd817,0,Toàn Quốc,
+40713c586066cf6b,0,Hồ Chí Minh,Quận 10
+fe3be328037e6d3b,0,Hà Nội,Cầu Giấy
+2ef86bce24c57d9a,0,Hà Nội,Nam Từ Liêm
+d5c7ca44ee6c302b,0,Hà Nội,Đống Đa
+1e83d7e0c22a3550,0,Hồ Chí Minh,
+836048dad3758e6d,0,Hà Nội,Nam Từ Liêm
+a6ca5996809f5a85,0,Hà Nội,Nam Từ Liêm
+4640160ca4ed806d,0,Hà Nội,Nam Từ Liêm
+98c8c2266a61f008,0,Hà Nội,Đống Đa
+89b9e9121bca10bc,0,Hồ Chí Minh,Thủ Đức
+31de6c5974d9ea27,0,Hà Nội,Nam Từ Liêm
+c5da187597e0226d,0,Hà Nội,
+201f6e026b6749e1,0,Hà Nội,
+8970380b3ca739dc,0,Hồ Chí Minh,Tân Bình
+b93aaee8fa0f493e,0,Hà Nội,Thanh Xuân
+823c29477d24a229,0,Hà Nội,Thanh Xuân
+f6daa55236e2ed2e,0,Hà Nội,Thanh Xuân
+72b9df3934825fab,0,Hà Nội,Cầu Giấy
+658205bc90914d4e,0,Hà Nội,Từ Liêm
+b03bd2d73253c1ff,0,Bắc Ninh,TP Bắc Ninh
+376638109c2103cd,0,Hà Nội,Thanh Xuân
+509500bbe1038b08,0,Hà Nội,Thanh Xuân
+eb6a4cf998e3f266,0,Hồ Chí Minh,Tân Bình
+d4e7cba7529c03ae,0,Hà Nội,Cầu Giấy
+b10bf52d605f7bcb,0,Hồ Chí Minh,Tân Bình
+2559c497842057c4,0,Hà Nội,Cầu Giấy
+402fdd1899d7fc18,0,Hà Nội,Cầu Giấy
+f6862474be000420,0,Hà Nội,Cầu Giấy
+b99edb52c64dbba5,0,Hà Nội,Cầu Giấy
+ee1d7ed538f2c35d,0,Hà Nội,Cầu Giấy
+32a20683b68ab34f,0,Hà Nội,Cầu Giấy
+a8d0ae4409014296,0,Hà Nội,
+7ddd4a55f65450df,0,Hồ Chí Minh,Bình Thạnh
+da9f59e92907a4c4,0,Hà Nội,Hồ Chí Minh
+da9f59e92907a4c4,1,Quận 1,
+ce8638476e334f6c,0,Hà Nội,Ba Đình
+ce8638476e334f6c,1,Hồ Chí Minh,Quận 1
+588625d457cbd461,0,Hồ Chí Minh,
+aaa3180e76dd04ce,0,Hà Nội,Đống Đa
+31475e0707d4bd61,0,Hà Nội,Cầu Giấy
+61ccc0ea7420741b,0,Hồ Chí Minh,Quận 5
+605090b818bc0297,0,Hải Phòng,
+4af3c0d7ffc353ac,0,Hồ Chí Minh,
+561e2dbf0b41cfff,0,Hà Nội,Cầu Giấy
+b41cfefb17a15e6d,0,Hà Nội,Thanh Xuân
+9c3bb32b9a3adcca,0,Hà Nội,Nam Từ Liêm
+cd9c2467dc16a41b,0,Hà Nội,Nam Từ Liêm
+38fa5c644e0c8a1e,0,Hà Nội,Nam Từ Liêm
+21699edbfe4945b6,0,Hồ Chí Minh,Tân Bình
+0045a0c6b08ff83e,0,Hồ Chí Minh,Tân Bình
+0045a0c6b08ff83e,1,Đà Nẵng,Hải Châu
+c624934a5d772e66,0,Hà Nội,Cầu Giấy
+efc0cb9741141833,0,Nước Ngoài,
+784709f3466d8ef9,0,Hà Nội,Ba Đình
+1d25672d51ebd2fc,0,Hà Nội,
+ef098d9d82614b64,0,Hà Nội,Nam Từ Liêm
+bbe3fa53307d6bfd,0,Hồ Chí Minh,Bình Thạnh
+ee749fd215274861,0,Hồ Chí Minh,Tân Bình
+ef5eb6b847249fb8,0,Hồ Chí Minh,Tân Bình
+1c4cd09e04500986,0,Hà Nội,Thanh Xuân
+a557856b8e8d1982,0,Hà Nội,Nam Từ Liêm
+a2797439d41fbf02,0,Hồ Chí Minh,Quận 1
+6240303bd130f346,0,Hà Nội,Đống Đa
+9c59e622b44e2638,0,Hà Nội,Cầu Giấy
+9c59e622b44e2638,1,Hà Nội,Tây Hồ
+38e84a184c172c8d,0,Hà Nội,Đống Đa
+58f3d748d2c21ed8,0,Hà Nội,Cầu Giấy
+536a68b08a0890eb,0,Thừa Thiên Huế,TP Huế
+1b0a05326a8f5ef0,0,Thừa Thiên Huế,TP Huế
+d6b113ddff60505b,0,Thừa Thiên Huế,TP Huế
+23fffc6cebf47370,0,Hà Nội,Hoàng Mai
+2362a170dcd951a6,0,Hà Nội,Cầu Giấy
+5fb3365626ab244d,0,Hà Nội,Cầu Giấy
+211ccda64afcc1b7,0,Hà Nội,Đống Đa
+7c733254747ba471,0,Hồ Chí Minh,Quận 4
+465ea240b85fdf6e,0,Hà Nội,Đống Đa
+7eec9a9af7effb5d,0,Hà Nội,Nam Từ Liêm
+ae540f2b8330bfc5,0,Hà Nội,Cầu Giấy
+b80f2eaa5e289010,0,Hà Nội,Hà Đông
+5c35a0be8b2c9201,0,Hà Nội,Nam Từ Liêm
+a032d65399a57328,0,Hà Nội,Nam Từ Liêm
+1b8584171eeed619,0,Hồ Chí Minh,Quận 1
+22d000e84d834bb1,0,Hà Nội,Cầu Giấy
+4a33f9b4273e2b7e,0,Hà Nội,Tây Hồ
+40d9b42c9cc725f1,0,Hồ Chí Minh,Quận 3
+06a54e57bf20d394,0,Hà Nội,Long Biên
+68f6f0a7e17a3933,0,Hà Nội,Cầu Giấy
+5bb91bce21d2439e,0,Hà Nội,Hà Đông
+d11ee7c9a071366c,0,Hà Nội,Hai Bà Trưng
+fcccd64956fa89f3,0,Hà Nội,Hà Đông
+4cae764190b8d820,0,Hà Nội,Thanh Xuân
+7feb8eee70e01ec4,0,Hà Nội,Hà Đông
+96680169313a4fe7,0,Hà Nội,Hai Bà Trưng
+58fac93e1f899572,0,Hồ Chí Minh,
+37c58c7b234832a7,0,Hà Nội,Cầu Giấy
+d9e3e57047692c8f,0,Hồ Chí Minh,Quận 2
+6eba67f8763576fe,0,Hải Phòng,An Dương
+1817b5a392e89b52,0,Hà Nội,Ba Đình
+5ab3a9c425acbad7,0,Đà Nẵng,Hải Châu
+376214f9b3013e2e,0,Hà Nội,Nam Từ Liêm
+0b2ba8e6c634e1d9,0,Hà Nội,Thanh Xuân
+7d5863696f43f407,0,Hà Nội,Hai Bà Trưng
+77b899c3edef0c80,0,Hà Nội,Hoàn Kiếm
+d7a90f1996356f7f,0,Hà Nội,Cầu Giấy
+d7a90f1996356f7f,1,Hà Nội,Hai Bà Trưng
+7e5b8eead0ba6fc3,0,Hà Nội,Nam Từ Liêm
+53330c260b3cbf0b,0,Hà Nội,Nam Từ Liêm
+77ea7df345294603,0,Hà Nội,Nam Từ Liêm
+6743fb049402f86c,0,Hà Nội,Nam Từ Liêm
+ca1e74ae41354c5d,0,Hà Nội,Nam Từ Liêm
+0ba4e3d0eac8b786,0,Hà Nội,Đông Anh
+5954778a514ac582,0,Hà Nội,Cầu Giấy
+3f6a0cae06937248,0,Hà Nội,Thanh Xuân
+0638cff30595c8ce,0,Đà Nẵng,Hải Châu
+0b2612e6386665a4,0,Đà Nẵng,Hải Châu
+d01b2addaba215b4,0,Hà Nội,
+34983a9ae04d6d35,0,Hà Nội,
+c1626af7f18c1620,0,Hồ Chí Minh,Thủ Đức
+128704094dcddd75,0,Hồ Chí Minh,Gò Vấp
+128704094dcddd75,1,Hà Nội,Đống Đa
+128704094dcddd75,2,Đà Nẵng,Sơn Trà
+038176e5bd762a3d,0,Hà Nội,Hà Đông
+6c87bed6082908b4,0,Hà Nội,Nam Từ Liêm
+3e69152896f5ff7e,0,Bình Dương,Dĩ An
+8e812e0b98de2659,0,Hà Nội,Nam Từ Liêm
+f747d092c6132cc7,0,Hà Nội,Đống Đa
+1e117d294d58202a,0,Hồ Chí Minh,Quận 2
+010f7cd00cfa6e8e,0,Hà Nội,Cầu Giấy
+f96bc4f4daa4070e,0,Hà Nội,Cầu Giấy
+04208ad2a74f5c9c,0,Hà Nội,Cầu Giấy
+0cc53d862ed96b0f,0,Hà Nội,Đống Đa
+4b7108ea79919e0a,0,Hà Nội,Nam Từ Liêm
+c39c11122921e37f,0,Hồ Chí Minh,Tân Bình
+369c7f46e02785dc,0,Hồ Chí Minh,
+4dc472f34ebfe4a3,0,Cần Thơ,Ninh Kiều
+40689a79092051a8,0,Cần Thơ,Ninh Kiều
+1ccf4344c449bf28,0,Hà Nội,
+3d08b2891d136dc9,0,Hồ Chí Minh,Quận 7
+f856234d94aa8f6a,0,Hà Nội,Ba Đình
+f856234d94aa8f6a,1,Hà Nội,Hoàn Kiếm
+f856234d94aa8f6a,2,Hà Nội,Hai Bà Trưng
+f856234d94aa8f6a,3,Hà Nội,Đống Đa
+f856234d94aa8f6a,4,Hà Nội,Tây Hồ
+f856234d94aa8f6a,5,Hà Nội,Cầu Giấy
+f856234d94aa8f6a,6,Hà Nội,Thanh Xuân
+f856234d94aa8f6a,7,Hà Nội,Hoàng Mai
+f856234d94aa8f6a,8,Hà Nội,Long Biên
+f856234d94aa8f6a,9,Hà Nội,Từ Liêm
+f856234d94aa8f6a,10,Hà Nội,Thanh Trì
+f856234d94aa8f6a,11,Hà Nội,Gia Lâm
+f856234d94aa8f6a,12,Hà Nội,Đông Anh
+f856234d94aa8f6a,13,Hà Nội,Sóc Sơn
+f856234d94aa8f6a,14,Hà Nội,Hà Đông
+f856234d94aa8f6a,15,Hà Nội,Sơn Tây
+f856234d94aa8f6a,16,Hà Nội,Ba Vì
+f856234d94aa8f6a,17,Hà Nội,Phúc Thọ
+f856234d94aa8f6a,18,Hà Nội,Thạch Thất
+f856234d94aa8f6a,19,Hà Nội,Quốc Oai
+f856234d94aa8f6a,20,Hà Nội,Chương Mỹ
+f856234d94aa8f6a,21,Hà Nội,Đan Phượng
+f856234d94aa8f6a,22,Hà Nội,Hoài Đức
+f856234d94aa8f6a,23,Hà Nội,Thanh Oai
+f856234d94aa8f6a,24,Hà Nội,Mỹ Đức
+f856234d94aa8f6a,25,Hà Nội,Ứng Hoà
+f856234d94aa8f6a,26,Hà Nội,Phú Xuyên
+f856234d94aa8f6a,27,Hà Nội,Thường Tín
+f856234d94aa8f6a,28,Hà Nội,Mê Linh
+f856234d94aa8f6a,29,Hà Nội,Bắc Từ Liêm
+f856234d94aa8f6a,30,Hà Nội,Nam Từ Liêm
+f856234d94aa8f6a,31,Hồ Chí Minh,Quận 1
+f856234d94aa8f6a,32,Hồ Chí Minh,Quận 2
+f856234d94aa8f6a,33,Hồ Chí Minh,Quận 3
+f856234d94aa8f6a,34,Hồ Chí Minh,Quận 4
+f856234d94aa8f6a,35,Hồ Chí Minh,Quận 5
+f856234d94aa8f6a,36,Hồ Chí Minh,Quận 6
+f856234d94aa8f6a,37,Hồ Chí Minh,Quận 7
+f856234d94aa8f6a,38,Hồ Chí Minh,Quận 8
+f856234d94aa8f6a,39,Hồ Chí Minh,Quận 9
+f856234d94aa8f6a,40,Hồ Chí Minh,Quận 10
+f856234d94aa8f6a,41,Hồ Chí Minh,Quận 11
+f856234d94aa8f6a,42,Hồ Chí Minh,Quận 12
+f856234d94aa8f6a,43,Hồ Chí Minh,Thủ Đức
+f856234d94aa8f6a,44,Hồ Chí Minh,Gò Vấp
+f856234d94aa8f6a,45,Hồ Chí Minh,Bình Thạnh
+f856234d94aa8f6a,46,Hồ Chí Minh,Tân Bình
+f856234d94aa8f6a,47,Hồ Chí Minh,Tân Phú
+f856234d94aa8f6a,48,Hồ Chí Minh,Phú Nhuận
+f856234d94aa8f6a,49,Hồ Chí Minh,Bình Tân
+f856234d94aa8f6a,50,Hồ Chí Minh,Củ Chi
+f856234d94aa8f6a,51,Hồ Chí Minh,Hóc Môn
+f856234d94aa8f6a,52,Hồ Chí Minh,Bình Chánh
+f856234d94aa8f6a,53,Hồ Chí Minh,Nhà Bè
+f856234d94aa8f6a,54,Hồ Chí Minh,Cần Giờ
+f856234d94aa8f6a,55,Đà Nẵng,Hải Châu
+f856234d94aa8f6a,56,Đà Nẵng,Thanh Khê
+f856234d94aa8f6a,57,Đà Nẵng,Sơn Trà
+f856234d94aa8f6a,58,Đà Nẵng,Ngũ Hành Sơn
+f856234d94aa8f6a,59,Đà Nẵng,Liên Chiểu
+f856234d94aa8f6a,60,Đà Nẵng,Hòa Vang
+f856234d94aa8f6a,61,Đà Nẵng,Cẩm Lệ
+f856234d94aa8f6a,62,Đà Nẵng,Hoàng Sa
+f856234d94aa8f6a,63,Nước Ngoài,
+9705250aee1639d3,0,Hà Nội,Cầu Giấy
+d9c758aa83e3e362,0,Hà Nội,Đống Đa
+e006c0739c2b7db4,0,Hồ Chí Minh,Quận 1
+ae7617cef524c8fd,0,Đồng Tháp,TP Cao Lãnh
+50358436811ab9e2,0,Hà Nội,Thanh Xuân
+50358436811ab9e2,1,Hồ Chí Minh,Quận 1
+37d46cf2efc57e1b,0,Hồ Chí Minh,Quận 7
+ba58df8bee1572e2,0,Hà Nội,Nam Từ Liêm
+4c549120dcc6660d,0,Hà Nội,Sóc Sơn
+b86b8581495a3cab,0,Hà Nội,Cầu Giấy
+010f97c7c9ddf4d3,0,Hà Nội,Cầu Giấy
+18b56be02d89324c,0,Hồ Chí Minh,Tân Bình
+b5d79f31a774ca80,0,Hồ Chí Minh,
+64bcf31e41a51ce7,0,Hồ Chí Minh,
+16d6bac2c45b9893,0,Hà Nội,Hoàng Mai
+fedfd6a8d68f37eb,0,Hà Nội,Hoàng Mai
+1683d85340d1a809,0,Hồ Chí Minh,Thủ Đức
+24125d2808392f9a,0,Hà Nội,Hồ Chí Minh
+9f39da817532d2cb,0,Hà Nội,Đống Đa
+8a54ace51287aa4e,0,Hà Nội,Bắc Từ Liêm
+10e4523b3a54f6c0,0,Hà Nội,Đống Đa
+bb4cde5eaf11fb4b,0,Hồ Chí Minh,Quận 12
+407c575405344aca,0,Hồ Chí Minh,Quận 12
+a24f5cc486c6858c,0,Bình Dương,Dĩ An
+e3a5e8add4e3178e,0,Bình Dương,Dĩ An
+c55f4db9c60d52ce,0,Hà Nội,Thanh Xuân
+4b969ecce3447e2e,0,Hà Nội,Hà Đông
+dd1d09a0a3cfb2f5,0,Hồ Chí Minh,Tân Bình
+492c3f8c559192d4,0,An Giang,
+0f4ac78d885567e0,0,Hà Nội,Ba Đình
+6d4c0a3c33d04c33,0,Hồ Chí Minh,Phú Nhuận
+8862fc490ce1b5a8,0,Hà Nội,
+1c39f9f399db777c,0,Hà Nội,
+502c5ae5ac42812c,0,Hồ Chí Minh,Bình Thạnh
+c017d7e228f6d536,0,Hồ Chí Minh,Quận 3
+95864bcb356eba24,0,Hà Nội,Đống Đa
+95864bcb356eba24,1,Hồ Chí Minh,
+efa4d5c2399474ed,0,Hồ Chí Minh,Tân Bình
+b36245cdb3d83b69,0,Hà Nội,Nam Từ Liêm
+ba822f2bdb4029a6,0,Hồ Chí Minh,
+00467dd8a3c58224,0,Hồ Chí Minh,Tân Bình
+73fac8dc9a9e100c,0,Hà Nội,Thanh Xuân
+e4b5280b4cc429e0,0,Hồ Chí Minh,Quận 7
+9ae16f055a7bf9ec,0,Hà Nội,Cầu Giấy
+6f0e3f28c2cb4fd6,0,Hà Nội,Cầu Giấy
+f620c666faf879db,0,Hà Nội,Thanh Xuân
+a1d454e679c99aed,0,Hà Nội,Hà Đông
+a2755df82ab4e4d9,0,Hà Nội,Cầu Giấy
+da765aad1abfd5ca,0,Hà Nội,Nam Từ Liêm
+da765aad1abfd5ca,1,Đà Nẵng,Cẩm Lệ
+da765aad1abfd5ca,2,Hồ Chí Minh,Tân Bình
+4f7c85e5b39d156c,0,Hà Nội,Đống Đa
+a14d533ac5198353,0,Hà Nội,Long Biên
+b7108e572389fa64,0,Hồ Chí Minh,Bình Thạnh
+a516e90ca12de8b4,0,Hồ Chí Minh,Tân Bình
+f12cbe300ad64841,0,Hồ Chí Minh,
+0df4a1fcf655de35,0,Hà Nội,Nam Từ Liêm
+489484d11944c818,0,Hồ Chí Minh,Quận 4
+7556ecb8133ddbd6,0,Hà Nội,Cầu Giấy
+0424d9d1f318c071,0,Hồ Chí Minh,Thủ Đức
+551410c40408bfcd,0,Hà Nội,
+dd11b449c584f3d2,0,Hà Nội,
+86b50b306744aa91,0,Hồ Chí Minh,Thủ Đức
+14201bd5cb7c8b31,0,Hồ Chí Minh,Tân Bình
+01e09a926dfcea22,0,Hà Nội,Nam Từ Liêm
+193f9ebe02656afc,0,Hà Nội,Cầu Giấy
+194ae31590f15505,0,Hồ Chí Minh,Bình Thạnh
+4a4eeebe87184b01,0,Hà Nội,Cầu Giấy
+029056440b135485,0,Bắc Ninh,Thuận Thành
+170e33226edfbe64,0,Hà Nội,Ba Đình
+b423542b63f19951,0,Hà Nội,Ba Đình
+e5fb92dff680f619,0,Hồ Chí Minh,Quận 12
+6970d581b16e2a7e,0,Hà Nội,Cầu Giấy
+891d144aab831219,0,Hà Nội,Từ Liêm
+682f0929ceb5c056,0,Hà Nội,Từ Liêm
+fbdadfd89163048a,0,Hà Nội,Thanh Xuân
+8551b12a04ea0885,0,Hà Nội,Thạch Thất
+8551b12a04ea0885,1,Hồ Chí Minh,Quận 7
+8551b12a04ea0885,2,Đà Nẵng,
+306e77135586a33e,0,Hà Nội,Nam Từ Liêm
+5a3942b16df00374,0,Hồ Chí Minh,Quận 10
+f51672add13b98d9,0,Hà Nội,Nam Từ Liêm
+91597aa919125fe5,0,Hà Nội,Cầu Giấy
+3e63b3f483fb36f8,0,Hà Nội,Cầu Giấy
+5d987f38aee362a9,0,Hà Nội,Cầu Giấy
+b61bd2d167441969,0,Hà Nội,Cầu Giấy
+64a8f5773eb1a50a,0,Hà Nội,Cầu Giấy
+17f2f1db973fe0af,0,Hà Nội,Cầu Giấy
+636f0cac7315b70d,0,Hà Nội,Nam Từ Liêm
+440dfdae05bca446,0,Hà Nội,Ba Đình
+99695cf29a783b3e,0,Hà Nội,
+17ad0a3f7d1c0eac,0,Hà Nội,Cầu Giấy
+1ead07a160972ac2,0,Hà Nội,Cầu Giấy
+fee643e0c1ed6e50,0,Hà Nội,Ba Đình
+b876e8013f918fc9,0,Hồ Chí Minh,Quận 2
+f20c3f5b5843d7b0,0,Hồ Chí Minh,Quận 10
+6414864fca7563aa,0,Hồ Chí Minh,Bình Tân
+d3ace77ba43aa8a6,0,Hà Nội,
+d1391d44b2fe98ca,0,Hồ Chí Minh,Bình Thạnh
+0ab4adbabed80570,0,Hà Nội,Nam Từ Liêm
+d3648d38ea6f3ec9,0,Hà Nội,Hà Đông
+056cd02f6aa7f59e,0,Hà Nội,Hà Đông
+056cd02f6aa7f59e,1,Hà Nội,Tây Hồ
+cced0348c302c497,0,Hà Nội,Đống Đa
+c3d034145706425d,0,Hà Nội,Hoàn Kiếm
+c3d034145706425d,1,Hồ Chí Minh,Quận 1
+0d0b5ee77d30f8fc,0,Hà Nội,Ba Đình
+2a3d9193a7f0d39a,0,Hồ Chí Minh,Tân Bình
+898414822f87cc2d,0,Hà Nội,Ba Đình
+6b135968af2aa4ee,0,Hà Nội,Ba Đình
+7618932ccb24fdc9,0,Hà Nội,
+71bfc6775c37de41,0,Hà Nội,Thanh Trì
+81c375dc105de293,0,Hà Nội,Thanh Xuân
+81c375dc105de293,1,Hồ Chí Minh,Quận 4
+0257f2466ac28048,0,Hà Nội,Thanh Xuân
+9c58a6de0670fd8b,0,Hồ Chí Minh,Quận 12
+58360c873ba95c2f,0,Hà Nội,Nam Từ Liêm
+f5eacf3b5c60d469,0,Hà Nội,Nam Từ Liêm
+f3063d7e1d2b2d9e,0,Hồ Chí Minh,Quận 2
+cab4ef980e8b974c,0,Hồ Chí Minh,Quận 11
+1b76221688059657,0,Hồ Chí Minh,Quận 1
+1b76221688059657,1,Hà Nội,Đống Đa
+ee2099aa36656831,0,Hà Nội,Hà Đông
+77f0610956e7219a,0,Hà Nội,Cầu Giấy
+c920fad800eaa0ee,0,Hà Nội,Ba Đình
+01ce603e5635570a,0,Hà Nội,Ba Đình
+5cee0180f553454a,0,Hà Nội,Nam Từ Liêm
+340c4825bfd8cf58,0,Hà Nội,Nam Từ Liêm
+340c4825bfd8cf58,1,Đà Nẵng,Hải Châu
+340c4825bfd8cf58,2,Hồ Chí Minh,Bình Thạnh
+eff07c50fc64fe77,0,Hồ Chí Minh,Quận 2
+c702cd1414001c30,0,Hà Nội,Hà Đông
+2ff63f2917f0c16d,0,Hà Nội,Cầu Giấy
+ad24e70318da165e,0,Hà Nội,Cầu Giấy
+fb52dd824538eb55,0,Hà Nội,Cầu Giấy
+fb52dd824538eb55,1,Hà Nội,Hai Bà Trưng
+17ead2c58b2e058e,0,Hà Nội,Nam Từ Liêm
+0e5723eaeed6c49a,0,Hà Nội,Cầu Giấy
+107d88bd9a5c87e8,0,Hà Nội,Bắc Từ Liêm
+2530bbfc9b6a0b09,0,Hà Nội,Bắc Từ Liêm
+493b36319d510730,0,Hà Nội,
+d18d524ed81f95c7,0,Hà Nội,Hoàn Kiếm
+fc5e3b3003810295,0,Hà Nội,Cầu Giấy
+158bca86de5aa115,0,Hồ Chí Minh,Quận 2
+826c89664cdffe7e,0,Hồ Chí Minh,Phú Nhuận
+826c89664cdffe7e,1,Đà Nẵng,Thanh Khê
+b3b351c7d6fbf700,0,Hồ Chí Minh,Quận 4
+15530484878d3182,0,Hồ Chí Minh,Tân Bình
+52028bfb8cfd288e,0,Hà Nội,
+a512b4b681fc3df9,0,Hồ Chí Minh,Quận 4
+4bef7873e63c036f,0,Hà Nội,Đống Đa
+4bef7873e63c036f,1,Hồ Chí Minh,Quận 4
+2ab4a51046832a00,0,Hà Nội,Nam Từ Liêm
+9954c247a1313563,0,Hồ Chí Minh,Bình Thạnh
+364f7de5558103bd,0,Hà Nội,Đống Đa
+56172cc98de8a476,0,Hồ Chí Minh,Quận 1
+c7ffa854d0ebacc2,0,Hồ Chí Minh,
+e706b6c0d3e592d3,0,Hà Nội,Nam Từ Liêm
+a45740378a47277e,0,Hồ Chí Minh,
+7c24900fcdc427f3,0,Hồ Chí Minh,Bình Thạnh
+b082f63cb8029afd,0,Hà Nội,Cầu Giấy
+1ab54f14ca3cd310,0,Hồ Chí Minh,Bình Thạnh
+5944b64eb61b1bb2,0,Hồ Chí Minh,Tân Bình
+023d846bc6f6d636,0,Hà Nội,Hà Đông
+4a7fc34e15b8f2fd,0,Hà Nội,Cầu Giấy
+4a7fc34e15b8f2fd,1,Hồ Chí Minh,Thủ Đức
+4a7fc34e15b8f2fd,2,Đà Nẵng,Ngũ Hành Sơn
+7ee6e3782e02a85d,0,Đà Nẵng,Ngũ Hành Sơn
+a4888387553cc78c,0,Hồ Chí Minh,
+5fdbbb3e565fb250,0,Hồ Chí Minh,
+1fa122f438b1db7f,0,Hà Nội,Cầu Giấy
+b31a8e7826737105,0,Hà Nội,Cầu Giấy
+04d5d37cd1ea5c08,0,Hà Nội,Nam Từ Liêm
+2ebcfd00fe69d966,0,Hà Nội,Thanh Xuân
+aacb98c455c0d6db,0,Hà Nội,Từ Liêm
+4f36d73c7d4ef012,0,Hà Nội,Từ Liêm
+2504a1997649bc69,0,Hà Nội,Cầu Giấy
+0551083e35390253,0,Hà Nội,Cầu Giấy
+199341aa876f1b99,0,Hồ Chí Minh,Phú Nhuận
+792c441fad4fc4d2,0,Hồ Chí Minh,Phú Nhuận
+057125bde10713d7,0,Hà Nội,Cầu Giấy
+e77c893c79871b92,0,Hà Nội,Nam Từ Liêm
+df5d421dc49f2343,0,Hà Nội,Thanh Xuân
+fdb09e4793df46fb,0,Hà Nội,Thanh Xuân
+d6537416e516290a,0,Hà Nội,Gia Lâm
+bb9e15cb151e8af8,0,Hồ Chí Minh,Bình Thạnh
+ee629592d0a11bc8,0,Hồ Chí Minh,Bình Thạnh
+53c3964483b35351,0,Hà Nội,Cầu Giấy
+f3358341c140b520,0,Hồ Chí Minh,Đà Nẵng
+f3358341c140b520,1,Hà Nội,
+7b4c5ccd6f22424a,0,Hồ Chí Minh,
+d71a52df7af754db,0,Hà Nội,
+bf860647685a3280,0,Hồ Chí Minh,Quận 12
+a6b2e12d86d669d7,0,Hà Nội,Cầu Giấy
+735175d6cc37f00a,0,Hà Nội,Cầu Giấy
+d0f9b1a0d67f16df,0,Hà Nội,Cầu Giấy
+2ab5203910204500,0,Hà Nội,
+2d0f8568b6380386,0,Hồ Chí Minh,Tân Bình
+9cef102b160c98ce,0,Hà Nội,
+8e3b3fae6dce91a7,0,Hồ Chí Minh,Tân Bình
+0655096f636edf00,0,Hồ Chí Minh,Tân Bình
+665ec570b24108c9,0,Hồ Chí Minh,Tân Bình
+6436a688c1487ab0,0,Hồ Chí Minh,Quận 1
+e909e185701f131d,0,Hồ Chí Minh,
+45a588175a5d81b9,0,Hà Nội,Thanh Xuân
+24f5891bdc288d7f,0,Bắc Ninh,Từ Sơn
+889d8ef93b3a1399,0,Hồ Chí Minh,Quận 4
+3f8f8d98f20cd725,0,Hồ Chí Minh,Quận 1
+31abf91153e32e05,0,Hồ Chí Minh,Quận 12
+bf63435fbd48d277,0,Hà Nội,Thanh Xuân
+dc5b7436f88eb453,0,Hà Nội,Cầu Giấy
+f8a140dad9a84957,0,Hà Nội,Cầu Giấy
+c6802914a05a94d8,0,Hà Nội,Cầu Giấy
+03ed47203e247be0,0,Hồ Chí Minh,Bình Thạnh
+8f0767df3f00eddd,0,Hồ Chí Minh,Tân Phú
+fd0038b2dbf57fa8,0,Hà Nội,Hoàng Mai
+7e2d91a7575f3802,0,Hà Nội,Hoàng Mai
+10b56032ba8edbda,0,Hà Nội,Cầu Giấy
+91226afe243bceab,0,Nước Ngoài,
+a0e778fa7c1fa7f3,0,Nước Ngoài,
+1a8384d36765479b,0,Nước Ngoài,
+daceef9f4b43274b,0,Hồ Chí Minh,Bình Thạnh
+f143bad6bd97bcac,0,Hồ Chí Minh,Quận 2
+44291ba445b37f38,0,Hà Nội,Thanh Xuân
+8054d8efbfbf8795,0,Hà Nội,Thanh Xuân
+93365095031907ad,0,Hồ Chí Minh,
+6f34e7694a58a677,0,Hà Nội,Cầu Giấy
+345ab7a3ae6c4489,0,Hà Nội,Hai Bà Trưng
+45f21e1afc7519fd,0,Hà Nội,Tây Hồ
+fb158d96361d4320,0,Hà Nội,Đống Đa
+65108b9e8a65a03d,0,Hà Nội,Đống Đa
+fd9dc3ba6a4708d9,0,Hồ Chí Minh,
+c90105d4a489bc5f,0,Hồ Chí Minh,
+8f0bef5b610b8daf,0,Hồ Chí Minh,Tân Bình
+e1eb403c376dc576,0,Hồ Chí Minh,Quận 3
+b47d009fd4b1a661,0,Hồ Chí Minh,Quận 1
+2767e46c97c891cb,0,Hà Nội,
+dfab87132f45799a,0,Đồng Tháp,TP Cao Lãnh
+b449f7aeae29bce3,0,Hà Nội,
+b4bc9b64982c52b8,0,Khánh Hoà,TP Nha Trang
+e46cd2937ece04af,0,Hà Nội,Từ Liêm
+44554541b37bd508,0,Hà Nội,Từ Liêm
+ad3a75009219d956,0,Hà Nội,
+7c2da755c38a7370,0,Hà Nội,Ba Đình
+44a16dc3961c5617,0,Hà Nội,Hai Bà Trưng
+388f9a9117104daa,0,Hồ Chí Minh,Tân Bình
+abb20b01d74f19cc,0,Hồ Chí Minh,Tân Bình
+d02cf6400843d81c,0,Đà Nẵng,Ngũ Hành Sơn
+7695baf7d641e3db,0,Hồ Chí Minh,Tân Bình
+37bfdab287ebf833,0,Đà Nẵng,Ngũ Hành Sơn
+52be19d82b78e0b9,0,Hà Nội,Nam Từ Liêm
+b6f394799eaf3e0b,0,Hà Nội,
+3e06b3deecf480ba,0,Hà Nội,
+096a5d7f54924771,0,Hà Nội,
+9e708c2fc78a914c,0,Hà Nội,Hà Đông
+2b6e295ec12893d1,0,Hà Nội,Thanh Xuân
+01a9c69bee10ae91,0,Khánh Hoà,
+da38eb06ba5f0ec2,0,Hà Nội,Cầu Giấy
+bbee0240f17bf5cb,0,Hà Nội,Cầu Giấy
+dc624c8e4e8ef075,0,Hà Nội,Đống Đa
+9a1105795471789b,0,Hồ Chí Minh,
+14182b15aca538aa,0,Hà Nội,Đống Đa
+e047a23611ee4fc2,0,Hà Nội,Nam Từ Liêm
+f3cfd9c806da8a02,0,Hồ Chí Minh,Đà Nẵng
+dce6a551e54dc8a2,0,Hà Nội,Đống Đa
+9851f84705c0feb5,0,Hà Nội,Hai Bà Trưng
+a353f38fc28b9213,0,Hà Nội,Thanh Xuân
+5b4aa6e0c684bbe7,0,Hà Nội,Cầu Giấy
+0175ee11730b1023,0,Hà Nội,Cầu Giấy
+77fcce3617e61dd5,0,Hà Nội,Cầu Giấy
+906c311ec729a679,0,Hà Nội,Thanh Xuân
+6b292a90302d75f5,0,Hà Nội,Hoàn Kiếm
+6b292a90302d75f5,1,Hồ Chí Minh,Quận 1
+7635d66de7f08267,0,Hà Nội,Nam Từ Liêm
+416cef77b2eecb62,0,Hồ Chí Minh,Quận 2
+167770e2dd3e1a9a,0,Hà Nội,Cầu Giấy
+c8866736e287d799,0,Hồ Chí Minh,
+0ddb9a3a36b94222,0,Hồ Chí Minh,Quận 10
+d2d27cf1f552f4be,0,Hà Nội,Cầu Giấy
+498e344047843ede,0,Hồ Chí Minh,Quận 4
+a27c5ba5913930c9,0,Hà Nội,Cầu Giấy
+5ad0ec39ca9f388d,0,Hà Nội,Nam Từ Liêm
+1684d78750583cee,0,Hồ Chí Minh,
+f1e66a9ba32e161a,0,Hà Nội,Hà Đông
+0171e33ff8cd59bd,0,Hà Nội,Cầu Giấy
+dd8d8964228e7786,0,Hồ Chí Minh,Đà Nẵng
+04e7e7265be96340,0,Hà Nội,Cầu Giấy
+2c25cd8e63a4c0eb,0,Hồ Chí Minh,
+5ba7848e6e8f6d2d,0,Hồ Chí Minh,Bình Thạnh
+019b6bfe1e0cece7,0,Hồ Chí Minh,Đà Nẵng
+e908c340b4e913f7,0,Hồ Chí Minh,Đà Nẵng
+3ca86dea1b124efe,0,Hồ Chí Minh,Hà Nội
+a6b127a9694b3862,0,Hà Nội,Thanh Xuân
+30e7ccfbb0d2def0,0,Hà Nội,Đống Đa
+c3f96ead5d4a3772,0,Hà Nội,Đống Đa
+b3f4f30a9b0fe604,0,Hà Nội,Đan Phượng
+b3f4f30a9b0fe604,1,Hà Nội,Hoàng Mai
+59b7a62c9c3dff31,0,Hà Nội,Đống Đa
+8bbe8d73962c1107,0,Hà Nội,Hà Đông
+e1a27fc01f233289,0,Hà Nội,Hà Đông
+c14f7d8f7c5ab463,0,Hà Nội,
+21a098b0853ff0df,0,Bến Tre,TP Bến Tre
+54ad977156e34088,0,Hà Nội,Cầu Giấy
+54ad977156e34088,1,Đà Nẵng,Hải Châu
+b943db5329273cea,0,Hải Phòng,Lê Chân
+b943db5329273cea,1,Vĩnh Phúc,TP Vĩnh Yên
+b943db5329273cea,2,Hà Nội,Cầu Giấy
+b943db5329273cea,3,Hà Nội,Hà Đông
+1a4bc62a18f8484e,0,Hà Nội,Hai Bà Trưng
+cf83c5ca88c71805,0,Hà Nội,Nam Từ Liêm
+370c3a56819e0cf7,0,Hà Nội,Đống Đa
+142a736bbc2dc1b4,0,Hà Nội,Thạch Thất
+142a736bbc2dc1b4,1,Hà Nội,Tây Hồ
+36595ed9d8768c69,0,Hà Nội,Đống Đa
+50fab65a18c46755,0,Hà Nội,Thanh Xuân
+50fab65a18c46755,1,Hồ Chí Minh,Quận 1
+6f4c9f00ce3fd515,0,Hà Nội,Hà Đông
+6f4c9f00ce3fd515,1,Hà Nội,Cầu Giấy
+64f0129713d55cb5,0,Hà Nội,
+74fecc838ab10caf,0,Hà Nội,
+951a235a35a83985,0,Hà Nội,

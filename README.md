@@ -1,6 +1,6 @@
 # Basic CSV → PostgreSQL ETL Pipeline
 
-A minimal Python project that reads CSV files with pandas, optionally cleans them with your own transformation code, and loads the result into PostgreSQL using SQLAlchemy. Docker Compose runs PostgreSQL 16 and pgAdmin locally so you do not need a separate database install.
+A Python ETL that reads job postings from CSV with pandas, transforms salary and location fields, normalizes job titles into role categories, and loads results into PostgreSQL with SQLAlchemy. Docker Compose runs PostgreSQL 16 and pgAdmin locally.
 
 ## Prerequisites
 
@@ -9,7 +9,7 @@ A minimal Python project that reads CSV files with pandas, optionally cleans the
 
 ## Setup
 
-1. Clone this repository and `cd` into the project root (required so `python` can import `config` and `etl`).
+1. Clone this repository and `cd` into the project root (required so imports like `config` and `etl` resolve).
 2. Create a virtual environment and install dependencies:
    ```bash
    python3 -m venv .venv
@@ -17,25 +17,56 @@ A minimal Python project that reads CSV files with pandas, optionally cleans the
    pip install -r requirements.txt
    ```
 3. Copy the environment template: `cp .env.example .env`  
-   Adjust values if needed. **Do not commit `.env`**—it is listed in `.gitignore`. Only `.env.example` belongs in the repo.
+   Adjust values if needed. **Do not commit `.env`**—it is listed in `.gitignore`.
 4. Start PostgreSQL and pgAdmin:
    ```bash
    docker compose up -d
    ```
-5. Ensure `DB_HOST=localhost` in `.env` when you run `main.py` on your machine (not inside Docker).
+5. Use `DB_HOST=localhost` in `.env` when you run `main.py` on the host (not inside a container).
 
 ## How to run
 
 ```bash
-python main.py data/raw/your_file.csv --table your_table
+python main.py data/raw/data.csv
 ```
 
-- Omit `--table` to use the default table name **`records`** (see also `config/schema.sql` for the initial DDL on first DB init).
-- The CLI prints a one-line summary: `rows extracted: N / rows loaded: N`.
-- Logging is at **INFO** to the terminal (timestamps included). For container logs:
-  ```bash
-  docker compose logs -f postgres
-  ```
+Optional arguments:
+
+| Argument | Default | Description |
+|----------|---------|-------------|
+| `filepath` | `data.csv` (project root) | Path to the input CSV. |
+| `--table` | `records` | Table for the main job rows. |
+| `--locations-table` | `job_locations` | Table for job ↔ location rows. |
+
+Example:
+
+```bash
+python main.py data/raw/data.csv --table records --locations-table job_locations
+```
+
+The CLI prints extract/transform stats and a summary such as:  
+`rows extracted: N / loaded: N records, M job_locations`.
+
+Logging uses **INFO** to the terminal. For Postgres container logs:
+
+```bash
+docker compose logs -f postgres
+```
+
+## Transform pipeline
+
+`etl.transform.transform` runs after extract:
+
+1. **Salary** (`etl/transform/salary.py`): parses the `salary` column into `min_salary`, `max_salary`, `salary_unit` (VND / USD).
+2. **Job title** (`etl/transform/job_title.py`): adds `job_role_category` (e.g. Software Development, QA & Testing) from keyword rules on `job_title`.
+3. **Address** (`etl/transform/address.py`): expands `address` into one row per `(city, district)` in `job_locations`, keyed by `job_id`. Colon-separated regions and comma-separated districts under a city are supported.
+
+The main dataframe gets a **`job_id`** column (stable row index). Processed CSVs are written under `data/processed/`:
+
+| File | Contents |
+|------|----------|
+| `salary_cleaned.csv` | Full transformed job table (includes `job_role_category`, not separate city/district columns). |
+| `job_locations.csv` | `job_id`, `sort_order`, `city`, `district`. |
 
 ## Inspecting the database
 
@@ -44,29 +75,40 @@ python main.py data/raw/your_file.csv --table your_table
 **psql inside the Postgres container:**
 
 ```bash
-docker compose exec postgres psql -U postgres -d etl_db
+docker compose exec postgres psql -U "$DB_USER" -d "$DB_NAME"
 ```
 
-Use your actual `DB_USER` and `DB_NAME` if they differ. Inside `psql`, try `\dt` to list tables and `SELECT * FROM your_table LIMIT 20;`.
+Inside `psql`, use `\dt` to list tables. Join locations with jobs:
 
-## Adding your own transformation
+```sql
+SELECT r.job_title, l.city, l.district
+FROM records r
+LEFT JOIN job_locations l ON r.job_id = l.job_id
+LIMIT 20;
+```
 
-1. Add `etl/transform.py` with a function such as `transform(df) -> df`.
-2. In `main.py`, replace the marked **TODO** block: import your function and set `clean_df = transform(raw_df)`, then remove the temporary `clean_df = raw_df` line.
-3. Optionally write intermediate files under `data/processed/` using `PROCESSED_DIR` from `config.settings` (nothing writes there until you add that code).
+(`records` columns follow your CSV; `config/schema.sql` seeds an example table on **first** volume init—`pandas.to_sql(..., if_exists="replace")` overwrites with the current DataFrame shape.)
+
+## Scheduled runs
+
+- **`scripts/run_pipeline.sh`**: runs `main.py` from the repo root (prefers `.venv/bin/python`, default CSV `data/raw/data.csv`).
+- **`scripts/crontab.example`**: example cron line with logging to `logs/`.
+- **`.github/workflows/etl-scheduled.yml`**: daily schedule (UTC) and manual **workflow_dispatch**. Configure repository secrets `DB_HOST`, `DB_PORT`, `DB_NAME`, `DB_USER`, `DB_PASSWORD` so the runner can reach PostgreSQL (a public host or tunnel; `localhost` will not work from GitHub-hosted runners).
 
 ## Project layout
 
 | Path | Purpose |
 |------|---------|
-| `data/raw/` | Typical location for source CSV inputs. |
-| `data/processed/` | For you to save cleaned or intermediate files when you implement transforms. |
-| `data/failed/` | For quarantined or rejected rows/files (optional). |
-| `config/settings.py` | Loads `.env`, `get_engine()`, and `Path` constants for data dirs. |
-| `config/schema.sql` | Mounted into Postgres init; creates `records` on **first** volume init only. |
-| `etl/extract.py` | CSV extract: UTF-8 with Latin-1 fallback, stripped column names. |
-| `etl/load.py` | Load via `pandas.to_sql` with `if_exists="replace"`. |
-| `main.py` | CLI: extract → transform placeholder → load. |
+| `data/raw/` | Source CSV inputs. |
+| `data/processed/` | Outputs from transform (`salary_cleaned.csv`, `job_locations.csv`). |
+| `data/failed/` | Reserved for quarantined rows (optional). |
+| `config/settings.py` | Loads `.env`, `get_engine()`, data directory paths. |
+| `config/schema.sql` | Mounted into Postgres init on first volume creation. |
+| `etl/extract/` | CSV read (UTF-8 with Latin-1 fallback, stripped column names). |
+| `etl/transform/` | Salary parsing, address → locations, job title categories. |
+| `etl/load/` | `pandas.to_sql` with `if_exists="replace"`. |
+| `main.py` | CLI: extract → transform → load (two tables). |
+| `scripts/` | Helper shell script and cron example for scheduling. |
 
 ## Troubleshooting
 
@@ -74,4 +116,4 @@ Use your actual `DB_USER` and `DB_NAME` if they differ. Inside `psql`, try `\dt`
 |--------|----------------|
 | `No module named 'config'` | Run `python main.py` from the project root directory. |
 | Connection refused / cannot connect | `docker compose ps`; Postgres must be up; `DB_HOST` / `DB_PORT` must match how you reach the container from the host. |
-| Password authentication failed | Another Postgres may be bound to the same port, or `.env` does not match the container’s `POSTGRES_*` credentials. Stop conflicting services or change the host port in `.env` and in `docker compose` port mapping. |
+| Password authentication failed | Another Postgres may use the same port, or `.env` does not match the container’s `POSTGRES_*` credentials. Stop conflicting services or change the host port in `.env` and in `docker compose` port mapping. |

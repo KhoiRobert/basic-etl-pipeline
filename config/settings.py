@@ -20,9 +20,24 @@ FAILED_DIR = _BASE_DIR / "data" / "failed"
 for _dir in (RAW_DIR, PROCESSED_DIR, FAILED_DIR):
     _dir.mkdir(parents=True, exist_ok=True)
 
+_REQUIRED_ENV = ("DB_HOST", "DB_PORT", "DB_NAME", "DB_USER", "DB_PASSWORD")
+
 
 def get_engine() -> Engine:
-    """Return a SQLAlchemy engine using credentials from the environment."""
+    """Return a SQLAlchemy engine using credentials from the environment.
+
+    Raises:
+        ConfigError: one or more required environment variables are missing.
+    """
+    from etl.errors import ConfigError  # local import to avoid circular deps
+
+    missing = [k for k in _REQUIRED_ENV if not os.environ.get(k)]
+    if missing:
+        raise ConfigError(
+            f"Missing required environment variable(s): {', '.join(missing)}. "
+            f"Copy .env.example to .env and fill in the values."
+        )
+
     host = os.environ["DB_HOST"]
     port = os.environ["DB_PORT"]
     name = os.environ["DB_NAME"]
