@@ -86,7 +86,16 @@ def _log_salary_stats(out: pd.DataFrame) -> None:
             logger.warning("  ... +%d more unparseable", len(samples) - 20)
 
 
-def _write_processed(out: pd.DataFrame, locations: pd.DataFrame) -> None:
+def write_processed(out: pd.DataFrame, locations: pd.DataFrame) -> None:
+    """Persist the two processed DataFrames as CSV files.
+
+    Separated from :func:`transform` so that the transform step is a pure
+    function (no file-system side effects).  Call this from the pipeline
+    entrypoint after a successful transform if you want a local CSV snapshot.
+
+    Raises:
+        TransformError: the output directory or files cannot be written.
+    """
     try:
         OUT.parent.mkdir(parents=True, exist_ok=True)
         out.to_csv(OUT, index=False, encoding="utf-8")
@@ -99,10 +108,13 @@ def _write_processed(out: pd.DataFrame, locations: pd.DataFrame) -> None:
 # ── Public API ────────────────────────────────────────────────────────────────
 
 def transform(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
-    """Run all transform steps; return (jobs_df, locations_df).
+    """Run all transform steps; return ``(jobs_df, locations_df)``.
+
+    Pure function: no file-system or database side effects.
+    Call :func:`write_processed` afterwards if a CSV snapshot is wanted.
 
     Raises:
-        TransformError: input is unusable or processed CSV cannot be written.
+        TransformError: input DataFrame is unusable (empty or missing columns).
     """
     if df.empty:
         raise TransformError("Cannot transform an empty DataFrame.")
@@ -117,6 +129,5 @@ def transform(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
     locations = _build_locations(out)
 
     _log_salary_stats(out)
-    _write_processed(out, locations)
 
     return out, locations

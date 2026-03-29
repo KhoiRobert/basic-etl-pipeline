@@ -14,7 +14,7 @@ from config.settings import get_engine
 from etl.errors import ConfigError, ExtractError, LoadError, TransformError
 from etl.extract import extract
 from etl.load import load_all
-from etl.transform import transform
+from etl.transform import transform, write_processed
 
 _DEFAULT_CSV = Path(__file__).resolve().parent / "data.csv"
 
@@ -65,6 +65,7 @@ def main() -> int:
     # ── Transform ─────────────────────────────────────────────────────────────
     try:
         clean_df, job_locations = transform(raw_df)
+        write_processed(clean_df, job_locations)
     except TransformError as exc:
         log.error("Transform failed: %s", exc)
         return 1
