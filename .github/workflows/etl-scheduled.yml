@@ -1,17 +1,23 @@
-# Scheduled ETL: requires PostgreSQL reachable from GitHub-hosted runners and repo secrets.
-# Set secrets: DB_HOST, DB_PORT, DB_NAME, DB_USER, DB_PASSWORD (same as .env).
-# Adjust cron schedule as needed (UTC).
+# Scheduled ETL pipeline
+#
+# Prerequisites:
+#   - Set repository secrets: DB_HOST, DB_PORT, DB_NAME, DB_USER, DB_PASSWORD
+#   - DB_HOST must point to a publicly reachable PostgreSQL instance
+#     (localhost will NOT work from GitHub-hosted runners — use Supabase, Railway, Neon, etc.)
+#   - Adjust cron schedule as needed (UTC time)
 
 name: ETL pipeline
 
 on:
   schedule:
-    - cron: "0 6 * * *"
-  workflow_dispatch:
+    - cron: "0 6 * * *"   # daily at 06:00 UTC
+  workflow_dispatch:        # manual trigger from GitHub UI
 
 jobs:
   run:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
+    timeout-minutes: 15
+
     steps:
       - uses: actions/checkout@v4
 
@@ -23,11 +29,14 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Run unit tests
+        run: python -m pytest tests/ -v
+
       - name: Run pipeline
         env:
-          DB_HOST: ${{ secrets.DB_HOST }}
-          DB_PORT: ${{ secrets.DB_PORT }}
-          DB_NAME: ${{ secrets.DB_NAME }}
-          DB_USER: ${{ secrets.DB_USER }}
+          DB_HOST:     ${{ secrets.DB_HOST }}
+          DB_PORT:     ${{ secrets.DB_PORT }}
+          DB_NAME:     ${{ secrets.DB_NAME }}
+          DB_USER:     ${{ secrets.DB_USER }}
           DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
         run: python main.py data/raw/data.csv
