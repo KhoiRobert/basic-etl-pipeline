@@ -39,9 +39,9 @@ def _check_connection(engine: Engine) -> None:
         with engine.connect() as conn:
             conn.execute(text("SELECT 1"))
     except OperationalError as exc:
+        # Avoid str(exc): may include connection details.
         raise LoadError(
-            "Cannot reach the database. Is Postgres running and are DB_HOST/DB_PORT correct?\n"
-            f"  Detail: {exc.__cause__ or exc}"
+            "Cannot reach the database. Is Postgres running and are DB_HOST/DB_PORT correct?"
         ) from exc
 
 
@@ -143,7 +143,7 @@ def load_all(
                 df.to_sql(table_name, conn, if_exists="append", index=False)
             except SQLAlchemyError as exc:
                 raise LoadError(
-                    f"Failed to write {n} rows to '{table_name}': {exc}. "
+                    f"Failed to write {n} rows to '{table_name}'. "
                     "All tables rolled back."
                 ) from exc
 
