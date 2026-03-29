@@ -423,8 +423,8 @@ LIMIT 10;
 **Local (cron):**
 
 ```bash
-# Add to crontab -e
-15 6 * * * cd /path/to/basic-etl-pipeline && ./scripts/run_pipeline.sh >> logs/pipeline.log 2>&1
+# Add to crontab -e (mkdir -p logs must run before >> opens logs/pipeline.log)
+15 6 * * * cd /path/to/basic-etl-pipeline && mkdir -p logs && ./scripts/run_pipeline.sh >> logs/pipeline.log 2>&1
 ```
 
 **GitHub Actions:** set repository secrets `DB_HOST`, `DB_PORT`, `DB_NAME`, `DB_USER`, `DB_PASSWORD`  
