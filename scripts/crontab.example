@@ -1,6 +1,11 @@
 # Edit path to your clone. Crontab format: minute hour day month weekday
-# Run daily at 06:15 (server local time):
-# 15 6 * * * cd /absolute/path/to/basic-etl-pipeline && ./scripts/run_pipeline.sh >> /absolute/path/to/basic-etl-pipeline/logs/pipeline.log 2>&1
 #
-# Ensure logs/ exists or create it first:
-#   mkdir -p /absolute/path/to/basic-etl-pipeline/logs
+# Logging uses shell redirect (>> file), not Python. The shell cannot create
+# logs/ by itself — use mkdir -p logs BEFORE ./scripts/run_pipeline.sh in the
+# same line so the redirect can open logs/pipeline.log.
+#
+# Run daily at 06:15 (server local time):
+# 15 6 * * * cd /absolute/path/to/basic-etl-pipeline && mkdir -p logs && ./scripts/run_pipeline.sh >> /absolute/path/to/basic-etl-pipeline/logs/pipeline.log 2>&1
+#
+# (run_pipeline.sh also runs mkdir -p logs at startup, but that runs too late for
+# the redirect above — the mkdir in THIS line is what matters for cron.)
