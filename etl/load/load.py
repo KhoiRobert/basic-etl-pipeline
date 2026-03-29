@@ -84,10 +84,10 @@ def _drop_schema_mismatches(
         missing = set(df.columns) - _columns_in_db(conn, table_name)
         if missing:
             logger.warning(
-                "Schema mismatch on '%s' -- columns absent from DB: %s. "
+                "Schema mismatch on '%s': %d column(s) in DataFrame not present in DB. "
                 "Dropping and recreating the table.",
                 table_name,
-                sorted(missing),
+                len(missing),
             )
             conn.execute(text(f'DROP TABLE IF EXISTS "{table_name}" CASCADE'))
 
