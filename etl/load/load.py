@@ -84,9 +84,8 @@ def _drop_schema_mismatches(
         missing = set(df.columns) - _columns_in_db(conn, table_name)
         if missing:
             logger.warning(
-                "Schema mismatch on '%s': %d column(s) in DataFrame not present in DB. "
+                "Schema mismatch: %d column(s) in DataFrame not present in DB. "
                 "Dropping and recreating the table.",
-                table_name,
                 len(missing),
             )
             conn.execute(text(f'DROP TABLE IF EXISTS "{table_name}" CASCADE'))
@@ -97,7 +96,7 @@ def _truncate_tables(table_names: list[str], conn) -> None:
     for name in table_names:
         if _has_table(conn, name):
             conn.execute(text(f'TRUNCATE TABLE "{name}"'))
-            logger.debug("Truncated %s", name)
+            logger.debug("Truncated existing table before reload")
 
 
 def load_all(
@@ -134,7 +133,7 @@ def load_all(
         # Phase 3: INSERT (parent -> child)
         for df, table_name in tables:
             if df.empty:
-                logger.warning("DataFrame is empty; skipping %s", table_name)
+                logger.warning("DataFrame is empty; skipping table load")
                 counts.append(0)
                 continue
 
@@ -143,11 +142,10 @@ def load_all(
                 df.to_sql(table_name, conn, if_exists="append", index=False)
             except SQLAlchemyError as exc:
                 raise LoadError(
-                    f"Failed to write {n} rows to '{table_name}'. "
-                    "All tables rolled back."
+                    f"Failed to write {n} rows. All tables rolled back."
                 ) from exc
 
-            logger.info("Loaded %d rows into %s", n, table_name)
+            logger.info("Loaded %d rows", n)
             counts.append(n)
 
     return counts
