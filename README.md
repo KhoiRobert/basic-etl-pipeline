@@ -238,6 +238,35 @@ Steps:
 > - **AI/ML (20), Go (20), Data Engineering (16)** are present but still niche relative to the mainstream stack.
 > - Week-to-week fluctuations reflect sample noise; the snapshot bar (Panel B) is the more reliable signal.
 
+> ⚠️ **Note:** The time axis is reverse-engineered from "days remaining to apply" — an approximation,
+> not a real timestamp. See Chart 8 below for a fully real-data alternative.
+
+---
+
+#### 3.4 Technology Demand by City (Real Geographic Trend)
+
+**Approach**
+
+Rather than approximating time, this chart uses **actual location data** from `job_locations.csv`
+— a genuine dimension that requires no inference.
+
+1. Merge `job_locations` with `salary_cleaned` on `job_id`; deduplicate to one row per job.
+2. Detect technologies by matching 14 regex patterns against lowercased `job_title`.
+3. For each city compute: `% of that city's jobs mentioning the technology`.
+4. Filter to cities with **≥ 15 jobs** (smaller samples produce unreliable percentages).
+5. Plot as lines (Panel A — geographic shift) and heatmap (Panel B — full matrix).
+
+**Chart 8 — Tech demand by city (line chart + heatmap)**
+
+![Tech by location](reports/figures/tech_by_location.png)
+
+> Key findings:
+> - **Java peaks sharply in Đà Nẵng (11.4%)** — highest of any tech in any city; strong outsourcing concentration.
+> - **PHP dominates Hồ Chí Minh (6.1%)** over all other cities — driven by HCM's large web/e-commerce sector.
+> - **Android + React are both 6.8% in Đà Nẵng** — mobile and frontend are proportionally more active there than in Hà Nội or HCM.
+> - **PHP is 0% in Đà Nẵng** — sharp contrast with HCM; Đà Nẵng companies prefer Java and mobile stacks.
+> - **Hà Nội is the most balanced** — no single technology dominates; demand is spread across Java, PHP, React, Android, Python.
+
 ---
 
 ## Project Layout
