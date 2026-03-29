@@ -122,29 +122,121 @@ ETLError
 
 ### Requirement 3 — Data Analysis
 
-All charts live in `notebooks/salary_analysis.ipynb` and are saved to `reports/figures/`.
+All charts are produced in `notebooks/salary_analysis.ipynb` and saved to `reports/figures/`.  
+Reproduce them by running every cell in the notebook.
 
-#### 3.1 Salary distribution by job position
+---
 
-| Chart | File | What it shows |
-|---|---|---|
-| Box plot | `salary_boxplot.png` | Spread and outliers per category |
-| Median bar | `salary_median_bar.png` | Ranked median salary per category |
-| KDE histogram | `salary_kde_top3.png` | Salary density for the top 3 categories |
-| Dual-axis | `salary_count_vs_median.png` | Job volume vs median salary (volume ≠ pay) |
+#### 3.1 Salary Distribution by Job Position
 
-#### 3.2 Heatmap — jobs by region
+**Approach**
 
-| Chart | File | What it shows |
-|---|---|---|
-| Count heatmap | `heatmap_region_category_count.png` | Absolute job count per city × category |
-| % mix heatmap | `heatmap_region_category_pct.png` | Category share within each city (normalised per row) |
+1. Load `data/processed/salary_cleaned.csv`.
+2. Drop rows where both `min_salary` and `max_salary` are null (genuinely negotiable / missing).
+3. Convert USD → VND at a fixed rate (1 USD = 25,000 VND) so all values are comparable.
+4. Scale to **millions of VND** for readability.
+5. Compute `mid_salary = (min + max) / 2`; remove extreme outliers (`mid_salary > 200 triệu`).
+6. Plot four complementary views.
 
-#### 3.3 Technology trend chart
+**Chart 1 — Box plot: spread & outliers per category**
 
-`tech_trend.png` — reverse-engineers approximate posting dates from the "N days remaining" field, bins into 4 weekly cohorts, and plots:
-- **Panel A**: % of weekly postings mentioning each of the top 10 technologies (trend lines)
-- **Panel B**: overall tech popularity snapshot (horizontal bar chart)
+![Salary box plot](reports/figures/salary_boxplot.png)
+
+> Each box shows the interquartile range (25th–75th percentile) of mid-salary.
+> DevOps & Cloud and Data & Analytics sit at the top; IT & Technical Support at the bottom.
+
+---
+
+**Chart 2 — Median salary bar: ranked pay per category**
+
+![Median salary bar](reports/figures/salary_median_bar.png)
+
+> Sorted horizontal bar with the exact median value labelled.
+> Useful for a quick salary benchmark per role.
+
+---
+
+**Chart 3 — KDE histogram: salary density for the top 3 categories**
+
+![KDE histogram](reports/figures/salary_kde_top3.png)
+
+> Kernel Density Estimation (KDE) overlaid on a histogram.
+> Shows the full shape of the distribution, not just the median.
+> Software Development has the widest spread; QA & Testing is more concentrated around 10–15 triệu.
+
+---
+
+**Chart 4 — Dual-axis: job count vs median salary**
+
+![Count vs median](reports/figures/salary_count_vs_median.png)
+
+> Left axis = number of job postings (bars); right axis = median mid-salary (line).
+> Key insight: **volume ≠ pay** — Software Development dominates in headcount but not always in median salary.
+
+---
+
+#### 3.2 Heatmap — Job Distribution by Region
+
+**Approach**
+
+1. Merge `job_locations.csv` (city per job) with `salary_cleaned.csv` (category per job) on `job_id`.
+2. Filter to the **top 10 cities** by posting count; exclude generic entries (`Toàn Quốc`, `Nước Ngoài`).
+3. Filter to the **top 10 categories** by posting count.
+4. Build a pivot table: rows = cities, columns = categories, values = job count.
+5. Produce two views — raw count and row-normalised percentage.
+
+**Chart 5 — Count heatmap (city × category)**
+
+![Region heatmap count](reports/figures/heatmap_region_category_count.png)
+
+> Raw number of job postings per city–category pair.
+> Hà Nội and Hồ Chí Minh dominate every category due to sheer volume.
+
+---
+
+**Chart 6 — % mix heatmap (normalised per city)**
+
+![Region heatmap pct](reports/figures/heatmap_region_category_pct.png)
+
+> Each row sums to 100%, removing the volume bias.
+> Key findings:
+> - **Nghệ An** is almost entirely Software Development (87.5%) — very specialised market.
+> - **Bình Dương** has unusually high IT & Technical Support (52.6%) — manufacturing-adjacent IT.
+> - **Đà Nẵng** skews more toward Software Development (69.3%) than HCM or Hà Nội.
+> - **Đồng Nai / Hải Phòng** lean on IT & Technical Support / Network & Infrastructure, matching their industrial-zone character.
+
+---
+
+#### 3.3 Trend Chart — In-Demand (Hot) Technologies
+
+**Approach**
+
+The dataset is a single-day scrape (2023-08-01). Each job's `time` field encodes
+**"Còn N ngày để ứng tuyển"** (N days remaining to apply), which lets us
+reverse-engineer an approximate posting date:
+
+```
+days_ago ≈ 30 − days_left     (for standard 30-day posting windows)
+```
+
+Steps:
+
+1. Filter to jobs with `days_left` between 1–30 (standard 30-day posting window).
+2. Define 18 technology keyword patterns (regex) matched against lowercased `job_title`.
+3. Bucket postings into **4 weekly cohorts** (oldest Week 4 → latest Week 1).
+4. Compute each technology's **% share of that week's postings**.
+5. Plot two panels — weekly % trend lines (top 10 techs) and overall snapshot bar (all techs).
+
+**Chart 7 — Technology trend (weekly lines + snapshot bar)**
+
+![Tech trend](reports/figures/tech_trend.png)
+
+> Key findings:
+> - **Java (123 postings)** is the dominant language, consistently 6–8% of weekly postings.
+> - **PHP (70) and React (69)** are neck-and-neck as the second tier; React shows an uptick in the latest week.
+> - **Mobile** (Android 39 + Flutter/Dart 25 + Swift/iOS 24 = 88 combined) rivals Python (37) — mobile is a major hiring segment.
+> - **AI/ML (20), Go (20), Data Engineering (16)** are present but still niche relative to the mainstream stack.
+> - Week-to-week fluctuations reflect sample noise; the snapshot bar (Panel B) is the more reliable signal.
 
 ---
 
