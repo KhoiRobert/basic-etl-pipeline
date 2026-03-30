@@ -1,7 +1,29 @@
-# Basic ETL Pipeline — CSV → PostgreSQL
+# Basic ETL Pipeline — TopCV → PostgreSQL
 
-A production-quality Python ETL pipeline for Vietnamese IT job posting data.  
-Extracts from CSV, normalises salary / address / job-title fields, and loads into PostgreSQL.
+A production-quality Python ETL pipeline that crawls Vietnamese IT job postings from [TopCV](https://www.topcv.vn/), cleans and enriches the data, and loads it into PostgreSQL with full deduplication, schema-safe migrations, and automated scheduling via GitHub Actions.
+
+---
+
+## Architecture overview
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  scripts/crawl_topcv.py          (run every 2 days)     │
+│                                                          │
+│  1. Query DB → known job links  (hard fail if DB down)   │
+│  2. Crawl TopCV pages           (retry + backoff)        │
+│  3. Archive previous data.csv   (timestamped copy)       │
+│  4. Write new batch → data/raw/data.csv                  │
+└──────────────────────────┬──────────────────────────────┘
+                           │
+┌──────────────────────────▼──────────────────────────────┐
+│  main.py   (extract → transform → load)                  │
+│                                                          │
+│  Extract   read CSV, validate columns                    │
+│  Transform salary parse · title classify · address expand│
+│  Load      ALTER TABLE for new columns · INSERT (append) │
+└─────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -14,18 +36,18 @@ Extracts from CSV, normalises salary / address / job-title fields, and loads int
 Raw salary strings come in many formats. `etl/transform/salary.py` handles all of them:
 
 | Raw value | `min_salary` | `max_salary` | `salary_unit` |
-|-----------|-------------|-------------|---------------|
+|---|---|---|---|
 | `10 - 20 triệu` | 10 000 000 | 20 000 000 | VND |
 | `Trên 15 triệu` | 15 000 000 | — | VND |
 | `Tới 30 triệu` | — | 30 000 000 | VND |
-| `$1 500 - $2 000` | 1 500 | 2 000 | USD |
+| `$1,500 - $2,000` | 1 500 | 2 000 | USD |
 | `Thoả thuận` / `Negotiable` | — | — | — |
 
 #### 1.2 Address parsing → `job_locations` table
 
-Raw addresses follow patterns like `City: District` or `City: D1, D2, D3` or  
-`City1: D1: City2: D2`. `etl/transform/address.py` expands each into one row per  
-`(city, district)` pair, stored in a separate normalised table:
+Raw addresses follow patterns like `City: District`, `City: D1, D2`, or multi-city `City1 & City2`.  
+TopCV UI badges like `(mới)` are stripped; vague entries like `"3 nơi khác"` are discarded.  
+`etl/transform/address.py` expands each address into one row per `(city, district)` pair:
 
 ```
 job_id | sort_order | city        | district
@@ -39,8 +61,8 @@ def456 | 0          | Hồ Chí Minh | Quận 7
 
 `etl/transform/job_title.py` uses a **3-stage pipeline** to classify every title into one of 14 categories:
 
-1. **Noise stripping** — removes parentheticals, salary hints, job codes  
-2. **Rule-based matching** — keyword lookup (ordered by specificity, bilingual EN/VI)  
+1. **Noise stripping** — removes parentheticals, salary hints, job codes
+2. **Rule-based matching** — keyword lookup (ordered by specificity, bilingual EN/VI)
 3. **TF-IDF fallback** — char n-gram cosine similarity against seed phrases (handles typos & Vietnamese variants)
 
 | Category | Example titles |
@@ -60,13 +82,38 @@ def456 | 0          | Hồ Chí Minh | Quận 7
 | Technical Writing | Technical Writer |
 | Other | Anything that does not match |
 
-Results on real data: **99.3% classified** (only 14/1 933 rows fall to "Other").
-
 ---
 
 ### Requirement 2 — Data Pipeline
 
-#### 2.1 ETL flow
+#### 2.1 Crawl step — `scripts/crawl_topcv.py`
+
+Runs before the ETL to fetch only **new** job postings:
+
+```
+1. get_engine()           → hard fail if DB credentials missing
+2. fetch_known_links()    → query records.link_description from DB
+                            hard fail if DB unreachable
+                            empty set only on first-ever run (table absent)
+3. crawl_topcv()          → paginate TopCV, skip known links
+                            stop early when an entire page is all-known
+                            retry with exponential backoff on 5xx / 429
+4. archive_raw_file()     → copy previous data.csv to data/raw/archive/
+                            prune oldest archives (default: keep 14)
+5. write CSV              → overwrite data/raw/data.csv with new batch only
+```
+
+Key flags:
+
+```bash
+python scripts/crawl_topcv.py \
+  --max-pages 15   \   # pages to crawl (~40 jobs/page)
+  --delay 2.0      \   # polite pause between requests (seconds)
+  --max-retries 3  \   # HTTP retry attempts per page
+  --archive-keep 14    # number of archive snapshots to retain
+```
+
+#### 2.2 ETL step — `main.py`
 
 ```
 data/raw/data.csv
@@ -79,25 +126,26 @@ data/raw/data.csv
       │
       ▼
 [ Transform ]  etl/transform/transform.py
-  • Generate stable job_id  (MD5 of link + company + title + date)
-  • Parse salary   → min_salary, max_salary, salary_unit
-  • Classify title → job_role_category
-  • Expand address → (city, district) pairs
-  • Save snapshots → data/processed/salary_cleaned.csv
-                      data/processed/job_locations.csv
+  • _validate_input        — raise early on unusable input
+  • step_add_job_id        — MD5(link + company + title + date) → stable PK
+  • step_parse_salary      — min_salary, max_salary, salary_unit
+  • step_classify_job_title — job_role_category (rule + TF-IDF)
+  • step_extract_locations — (city, district) child table
+  • write_processed()      — data/processed/salary_cleaned.csv
+                             data/processed/job_locations.csv
       │
       ▼
 [ Load ]  etl/load/load.py
-  • Pre-flight connection check
+  • Connection check (fail fast before opening transaction)
   • Single transaction (engine.begin()):
-      TRUNCATE job_locations  ← child first (respects FK)
-      TRUNCATE records
-      INSERT   records        ← parent first (satisfies FK on insert)
-      INSERT   job_locations
-  • Either all tables commit or all roll back
+      ALTER TABLE … ADD COLUMN IF NOT EXISTS   ← schema migration, no DROP
+      INSERT INTO records        (parent first, satisfies FK)
+      INSERT INTO job_locations  (child after)
+  • Append-only — existing rows never deleted
+  • records.job_id PRIMARY KEY rejects duplicates (last-resort guard)
 ```
 
-#### 2.2 Error handling
+#### 2.3 Error handling
 
 Custom exception hierarchy in `etl/errors.py`:
 
@@ -106,24 +154,27 @@ ETLError
 ├── ExtractError   — file not found, unreadable, empty, missing columns
 ├── TransformError — empty DataFrame, missing salary column, CSV write failure
 ├── LoadError      — DB unreachable, write failure (triggers full rollback)
-└── ConfigError    — missing environment variables
+├── ConfigError    — missing environment variables
+└── CrawlError     — page fetch failed after all retries exhausted
 ```
 
-`main.py` catches each exception type separately, logs a clear message, and returns a non-zero exit code so cron and CI/CD detect failures automatically.
+`main.py` catches each type separately, logs a clear message, and exits with a non-zero code so CI/CD detects failures automatically.
 
-#### 2.3 Scheduled execution
+#### 2.4 Scheduled execution
 
 | Method | File | Schedule |
 |---|---|---|
-| **Cron (local)** | `scripts/run_pipeline.sh` + `scripts/crontab.example` | Configure freely |
-| **GitHub Actions** | `.github/workflows/etl-scheduled.yml` | Daily 06:00 UTC + manual trigger |
+| **GitHub Actions** | `.github/workflows/etl-scheduled.yml` | Every 2 days at 06:00 UTC + manual trigger |
+| **Local cron** | `scripts/run_pipeline.sh` + `scripts/crontab.example` | Configure freely |
+
+The GitHub Actions workflow runs the full crawl → test → ETL sequence. Data files are **not committed to git** — PostgreSQL is the source of truth.
 
 ---
 
 ### Requirement 3 — Data Analysis
 
 All charts are produced in `notebooks/salary_analysis.ipynb` and saved to `reports/figures/`.  
-Reproduce them by running every cell in the notebook.
+Re-run all cells to regenerate from the latest data.
 
 ---
 
@@ -138,40 +189,15 @@ Reproduce them by running every cell in the notebook.
 5. Compute `mid_salary = (min + max) / 2`; remove extreme outliers (`mid_salary > 200 triệu`).
 6. Plot four complementary views.
 
-**Chart 1 — Box plot: spread & outliers per category**
+| Chart 1 — Box plot: spread & outliers per category | Chart 2 — Median salary bar: ranked pay per category |
+|:---:|:---:|
+| ![Salary box plot](reports/figures/salary_boxplot.png) | ![Median salary bar](reports/figures/salary_median_bar.png) |
+| Each box shows the IQR (25th–75th percentile) of mid-salary. DevOps & Cloud and Data & Analytics sit at the top; IT & Technical Support at the bottom. | Sorted horizontal bar with the exact median labelled. Quick salary benchmark per role. |
 
-![Salary box plot](reports/figures/salary_boxplot.png)
-
-> Each box shows the interquartile range (25th–75th percentile) of mid-salary.
-> DevOps & Cloud and Data & Analytics sit at the top; IT & Technical Support at the bottom.
-
----
-
-**Chart 2 — Median salary bar: ranked pay per category**
-
-![Median salary bar](reports/figures/salary_median_bar.png)
-
-> Sorted horizontal bar with the exact median value labelled.
-> Useful for a quick salary benchmark per role.
-
----
-
-**Chart 3 — KDE histogram: salary density for the top 3 categories**
-
-![KDE histogram](reports/figures/salary_kde_top3.png)
-
-> Kernel Density Estimation (KDE) overlaid on a histogram.
-> Shows the full shape of the distribution, not just the median.
-> Software Development has the widest spread; QA & Testing is more concentrated around 10–15 triệu.
-
----
-
-**Chart 4 — Dual-axis: job count vs median salary**
-
-![Count vs median](reports/figures/salary_count_vs_median.png)
-
-> Left axis = number of job postings (bars); right axis = median mid-salary (line).
-> Key insight: **volume ≠ pay** — Software Development dominates in headcount but not always in median salary.
+| Chart 3 — KDE: salary density for the top 3 categories | Chart 4 — Dual-axis: job count vs median salary |
+|:---:|:---:|
+| ![KDE histogram](reports/figures/salary_kde_top3.png) | ![Count vs median](reports/figures/salary_count_vs_median.png) |
+| KDE overlaid on histogram — shows the full shape of the distribution, not just the median. | Bars = job count (left axis) · Line = median salary (right axis). **Volume ≠ pay** — Software Development leads in headcount, not necessarily in salary. |
 
 ---
 
@@ -179,93 +205,53 @@ Reproduce them by running every cell in the notebook.
 
 **Approach**
 
-1. Merge `job_locations.csv` (city per job) with `salary_cleaned.csv` (category per job) on `job_id`.
-2. Filter to the **top 10 cities** by posting count; exclude generic entries (`Toàn Quốc`, `Nước Ngoài`).
+1. Merge `job_locations.csv` with `salary_cleaned.csv` on `job_id`.
+2. Filter to the **top 10 cities** by posting count.
 3. Filter to the **top 10 categories** by posting count.
 4. Build a pivot table: rows = cities, columns = categories, values = job count.
 5. Produce two views — raw count and row-normalised percentage.
 
-**Chart 5 — Count heatmap (city × category)**
-
-![Region heatmap count](reports/figures/heatmap_region_category_count.png)
-
-> Raw number of job postings per city–category pair.
-> Hà Nội and Hồ Chí Minh dominate every category due to sheer volume.
+| Chart 5 — Count heatmap (city × category) | Chart 6 — % mix heatmap (normalised per city) |
+|:---:|:---:|
+| ![Region heatmap count](reports/figures/heatmap_region_category_count.png) | ![Region heatmap pct](reports/figures/heatmap_region_category_pct.png) |
+| Raw number of job postings per city–category pair. Hà Nội and Hồ Chí Minh dominate by volume. | Each row sums to 100% — removes volume bias. Reveals what each city's market actually specialises in. |
 
 ---
 
-**Chart 6 — % mix heatmap (normalised per city)**
-
-![Region heatmap pct](reports/figures/heatmap_region_category_pct.png)
-
-> Each row sums to 100%, removing the volume bias.
-> Key findings:
-> - **Nghệ An** is almost entirely Software Development (87.5%) — very specialised market.
-> - **Bình Dương** has unusually high IT & Technical Support (52.6%) — manufacturing-adjacent IT.
-> - **Đà Nẵng** skews more toward Software Development (69.3%) than HCM or Hà Nội.
-> - **Đồng Nai / Hải Phòng** lean on IT & Technical Support / Network & Infrastructure, matching their industrial-zone character.
-
----
-
-#### 3.3 Trend Chart — In-Demand (Hot) Technologies
+#### 3.3 Trend Chart — In-Demand Technologies (Weekly)
 
 **Approach**
 
-The dataset is a single-day scrape (2023-08-01). Each job's `time` field encodes
-**"Còn N ngày để ứng tuyển"** (N days remaining to apply), which lets us
-reverse-engineer an approximate posting date:
+The `time` field records how long ago a job was posted (`"Đăng X ngày trước"`, `"Đăng X tuần trước"`, `"Đăng hôm nay"`).  
+This is parsed into `days_ago` and bucketed into 4 weekly cohorts (oldest Week 4 → latest Week 1).
 
-```
-days_ago ≈ 30 − days_left     (for standard 30-day posting windows)
-```
-
-Steps:
-
-1. Filter to jobs with `days_left` between 1–30 (standard 30-day posting window).
-2. Define 18 technology keyword patterns (regex) matched against lowercased `job_title`.
-3. Bucket postings into **4 weekly cohorts** (oldest Week 4 → latest Week 1).
+1. Parse `time` → `days_ago` (days / weeks / today formats).
+2. Filter to jobs posted within the last 30 days.
+3. Match 18 technology keyword patterns (regex) against lowercased `job_title`.
 4. Compute each technology's **% share of that week's postings**.
-5. Plot two panels — weekly % trend lines (top 10 techs) and overall snapshot bar (all techs).
+5. Plot trend lines (top 10 techs) + bar chart (all techs).
 
-**Chart 7 — Technology trend (weekly lines + snapshot bar)**
+**Chart 7 — Technology trend (weekly % lines + snapshot bar)**
 
 ![Tech trend](reports/figures/tech_trend.png)
 
-> Key findings:
-> - **Java (123 postings)** is the dominant language, consistently 6–8% of weekly postings.
-> - **PHP (70) and React (69)** are neck-and-neck as the second tier; React shows an uptick in the latest week.
-> - **Mobile** (Android 39 + Flutter/Dart 25 + Swift/iOS 24 = 88 combined) rivals Python (37) — mobile is a major hiring segment.
-> - **AI/ML (20), Go (20), Data Engineering (16)** are present but still niche relative to the mainstream stack.
-> - Week-to-week fluctuations reflect sample noise; the snapshot bar (Panel B) is the more reliable signal.
-
-> ⚠️ **Note:** The time axis is reverse-engineered from "days remaining to apply" — an approximation,
-> not a real timestamp. See Chart 8 below for a fully real-data alternative.
-
 ---
 
-#### 3.4 Technology Demand by City (Real Geographic Trend)
+#### 3.4 Technology Demand by City
 
 **Approach**
 
-Rather than approximating time, this chart uses **actual location data** from `job_locations.csv`
-— a genuine dimension that requires no inference.
+Uses actual `job_locations.csv` — a genuine geographic dimension requiring no inference.
 
-1. Merge `job_locations` with `salary_cleaned` on `job_id`; deduplicate to one row per job.
-2. Detect technologies by matching 14 regex patterns against lowercased `job_title`.
+1. Merge `job_locations` with `salary_cleaned` on `job_id`; keep primary location only (`sort_order = 0`).
+2. Detect technologies by matching 8 regex patterns against lowercased `job_title`.
 3. For each city compute: `% of that city's jobs mentioning the technology`.
-4. Filter to cities with **≥ 15 jobs** (smaller samples produce unreliable percentages).
-5. Plot as lines (Panel A — geographic shift) and heatmap (Panel B — full matrix).
+4. Filter to cities with **≥ 5 jobs** (smaller samples produce unreliable percentages).
+5. Plot as lines (geographic shift) and heatmap (full matrix).
 
 **Chart 8 — Tech demand by city (line chart + heatmap)**
 
 ![Tech by location](reports/figures/tech_by_location.png)
-
-> Key findings:
-> - **Java peaks sharply in Đà Nẵng (11.4%)** — highest of any tech in any city; strong outsourcing concentration.
-> - **PHP dominates Hồ Chí Minh (6.1%)** over all other cities — driven by HCM's large web/e-commerce sector.
-> - **Android + React are both 6.8% in Đà Nẵng** — mobile and frontend are proportionally more active there than in Hà Nội or HCM.
-> - **PHP is 0% in Đà Nẵng** — sharp contrast with HCM; Đà Nẵng companies prefer Java and mobile stacks.
-> - **Hà Nội is the most balanced** — no single technology dominates; demand is spread across Java, PHP, React, Android, Python.
 
 ---
 
@@ -274,37 +260,40 @@ Rather than approximating time, this chart uses **actual location data** from `j
 ```
 basic-etl-pipeline/
 ├── config/
-│   ├── schema.sql          # PostgreSQL DDL (PK, FK, indexes) — applied on first Docker run
-│   └── settings.py         # Loads .env, get_engine(), directory constants
+│   ├── schema.sql              # PostgreSQL DDL (PK, FK, indexes)
+│   └── settings.py             # Loads .env, get_engine(), directory constants
 ├── data/
-│   ├── raw/                # Source CSV files
-│   └── processed/          # salary_cleaned.csv, job_locations.csv (written after each run)
+│   ├── raw/
+│   │   ├── data.csv            # Latest crawl batch (gitignored)
+│   │   └── archive/            # Timestamped previous batches (gitignored)
+│   └── processed/              # salary_cleaned.csv, job_locations.csv (gitignored)
 ├── etl/
-│   ├── __init__.py
-│   ├── errors.py           # Custom exception hierarchy
-│   ├── extract/extract.py  # CSV → DataFrame
+│   ├── errors.py               # ETLError · ExtractError · TransformError
+│   │                           # LoadError · ConfigError · CrawlError
+│   ├── extract/extract.py      # CSV → DataFrame
 │   ├── transform/
-│   │   ├── salary.py       # Salary string → (min, max, unit)
-│   │   ├── address.py      # Address string → [(city, district), …]
-│   │   ├── job_title.py    # Title → category (rules + TF-IDF)
-│   │   └── transform.py    # Orchestrates all transform steps
-│   └── load/load.py        # TRUNCATE + INSERT in one transaction
+│   │   ├── salary.py           # Salary string → (min, max, unit)
+│   │   ├── address.py          # Address string → [(city, district), …]
+│   │   ├── job_title.py        # Title → category (rules + TF-IDF)
+│   │   └── transform.py        # Orchestrates all transform steps
+│   └── load/load.py            # ALTER TABLE + INSERT (append-only)
 ├── notebooks/
-│   └── salary_analysis.ipynb  # All analysis charts
-├── reports/figures/           # PNG outputs from the notebook
+│   └── salary_analysis.ipynb  # All 8 analysis charts
+├── reports/figures/            # PNG outputs from the notebook
 ├── scripts/
-│   ├── run_pipeline.sh        # Shell wrapper for cron
-│   └── crontab.example        # Example cron entry
+│   ├── crawl_topcv.py          # Crawl orchestrator (DB dedup + archive + ETL trigger)
+│   ├── run_pipeline.sh         # Shell wrapper for local cron
+│   └── crontab.example         # Example cron entry
 ├── tests/
-│   ├── test_salary.py      # 25 cases
-│   ├── test_address.py     # 13 cases
-│   └── test_job_title.py   # 32 cases
+│   ├── test_salary.py          # 17 cases — VND/USD range/bound/exact/negotiable
+│   ├── test_address.py         # 27 cases — colon blocks, & separator, (mới), nơi khác
+│   └── test_job_title.py       # 44 cases — all 14 categories + edge cases
 ├── .github/workflows/
-│   └── etl-scheduled.yml   # GitHub Actions daily schedule
-├── .env.example            # Template — copy to .env and fill in
-├── docker-compose.yml      # PostgreSQL 16 + pgAdmin
-├── main.py                 # CLI entrypoint
-└── requirements.txt        # Pinned dependencies
+│   └── etl-scheduled.yml       # Crawl → test → ETL every 2 days at 06:00 UTC
+├── .env.example                # Template — copy to .env and fill in
+├── docker-compose.yml          # PostgreSQL 16 + pgAdmin (local dev)
+├── main.py                     # ETL CLI entrypoint
+└── requirements.txt            # Pinned dependencies
 ```
 
 ---
@@ -314,7 +303,7 @@ basic-etl-pipeline/
 ### 1. Prerequisites
 
 - Python 3.11+
-- [Docker](https://docs.docker.com/get-docker/) with Docker Compose
+- PostgreSQL — local via [Docker](https://docs.docker.com/get-docker/) **or** a cloud instance (Supabase, Railway, Neon)
 
 ### 2. Install
 
@@ -331,62 +320,87 @@ pip install -r requirements.txt
 
 ```bash
 cp .env.example .env
-# Edit .env — set DB_HOST=localhost and keep other defaults or adjust to your setup
+# Edit .env — fill in DB_HOST, DB_PORT, DB_NAME, DB_USER, DB_PASSWORD
 ```
 
-### 4. Start the database
+### 4. Start the database (local Docker only)
 
 ```bash
 docker compose up -d
-# Schema (tables, FK, indexes) is applied automatically on first volume creation
+# Schema (tables, FK, indexes) applied automatically on first volume creation
 ```
 
-### 5. Run the pipeline
+Skip this step if using a cloud PostgreSQL instance — just point `.env` at it.
+
+### 5. Run the full pipeline
 
 ```bash
+# Step 1 — crawl new jobs from TopCV
+python scripts/crawl_topcv.py --max-pages 15
+
+# Step 2 — transform and load into PostgreSQL
 python main.py data/raw/data.csv
+```
+
+Or as a one-liner:
+
+```bash
+python scripts/crawl_topcv.py --max-pages 15 && python main.py data/raw/data.csv
+```
+
+For a quick local test (3 pages, verbose logging):
+
+```bash
+python scripts/crawl_topcv.py --max-pages 3 -v && python main.py data/raw/data.csv
 ```
 
 Expected output:
 
 ```
-2024-01-01 06:00:00 INFO etl.extract.extract: Extracted 1933 rows from data/raw/data.csv
-2024-01-01 06:00:01 INFO etl.transform.transform: rows: 1933 | salary parsed: 1223 | unparseable (had digit): 0
-2024-01-01 06:00:03 INFO etl.load.load: Loaded 1933 rows into records
-2024-01-01 06:00:03 INFO etl.load.load: Loaded 2166 rows into job_locations
-2024-01-01 06:00:03 INFO __main__: rows extracted: 1933 / loaded: 1933 records, 2166 job_locations
-```
-
-Optional CLI flags:
-
-```bash
-python main.py data/raw/data.csv --table records --locations-table job_locations
-LOG_LEVEL=DEBUG python main.py data/raw/data.csv   # verbose output
+2026-03-30 12:00:00 INFO scripts.crawl_topcv: Fetched 509 known links from database.
+2026-03-30 12:00:01 INFO etl.extract.topcv_crawl: Crawling page 1/15 — https://...
+...
+2026-03-30 12:01:00 INFO scripts.crawl_topcv: Wrote 750 rows to data/raw/data.csv (overwrite)
+2026-03-30 12:01:01 INFO etl.extract.extract: Extracted 750 rows from data/raw/data.csv
+2026-03-30 12:01:02 INFO etl.transform.transform: Salary parse — rows: 750 | parsed: 472 (63%)
+2026-03-30 12:01:03 INFO etl.load.load: Inserted 750 rows into 'records'
+2026-03-30 12:01:03 INFO etl.load.load: Inserted 792 rows into 'job_locations'
 ```
 
 ### 6. Run unit tests
 
 ```bash
 python -m pytest tests/ -v
-# 70 passed in ~1s
+# 84 passed in ~1s
 ```
 
 ### 7. Open the analysis notebook
 
 ```bash
 jupyter notebook notebooks/salary_analysis.ipynb
+# Run all cells to regenerate all 8 charts
+```
+
+Or regenerate headlessly:
+
+```bash
+jupyter nbconvert --to notebook --execute notebooks/salary_analysis.ipynb --inplace
 ```
 
 ---
 
 ## Inspecting the database
 
-**pgAdmin:** [http://localhost:8080](http://localhost:8080) — sign in with `PGADMIN_EMAIL` / `PGADMIN_PASSWORD` from `.env`.
+**pgAdmin (Docker only):** [http://localhost:8080](http://localhost:8080) — sign in with `PGADMIN_EMAIL` / `PGADMIN_PASSWORD` from `.env`.
 
 **psql:**
 
 ```bash
+# Docker
 docker compose exec postgres psql -U "$DB_USER" -d "$DB_NAME"
+
+# Cloud / local install
+psql "postgresql://$DB_USER:$DB_PASSWORD@$DB_HOST:$DB_PORT/$DB_NAME"
 ```
 
 Useful queries:
@@ -414,22 +428,30 @@ FROM job_locations
 GROUP BY city
 ORDER BY postings DESC
 LIMIT 10;
+
+-- Total unique jobs loaded
+SELECT COUNT(*) FROM records;
 ```
 
 ---
 
-## Scheduled runs
+## Scheduled runs (GitHub Actions)
 
-**Local (cron):**
+1. Go to **Settings → Secrets → Actions** in the repository.
+2. Add five secrets: `DB_HOST`, `DB_PORT`, `DB_NAME`, `DB_USER`, `DB_PASSWORD`.  
+   The host must be publicly reachable — `localhost` will not work from GitHub runners.  
+   Use [Supabase](https://supabase.com), [Railway](https://railway.app), or [Neon](https://neon.tech) for a free cloud PostgreSQL.
+3. The workflow (`.github/workflows/etl-scheduled.yml`) runs automatically every 2 days at 06:00 UTC and can be triggered manually via **Actions → Run workflow**.
 
-```bash
-# Add to crontab -e (mkdir -p logs must run before >> opens logs/pipeline.log)
-15 6 * * * cd /path/to/basic-etl-pipeline && mkdir -p logs && ./scripts/run_pipeline.sh >> logs/pipeline.log 2>&1
+Run sequence on each trigger:
+
+```
+Crawl   → query DB for known links → fetch new jobs → archive + write CSV
+Tests   → pytest tests/
+ETL     → extract → transform → load into PostgreSQL (append-only)
 ```
 
-**GitHub Actions:** set repository secrets `DB_HOST`, `DB_PORT`, `DB_NAME`, `DB_USER`, `DB_PASSWORD`  
-pointing to a publicly reachable PostgreSQL instance (localhost will not work from GitHub runners).  
-Workflow runs daily at 06:00 UTC and can be triggered manually via **workflow_dispatch**.
+Data files are never committed to git — the database accumulates all history.
 
 ---
 
@@ -437,8 +459,10 @@ Workflow runs daily at 06:00 UTC and can be triggered manually via **workflow_di
 
 | Symptom | Fix |
 |---|---|
-| `No module named 'config'` | Run `python main.py` from the project root, not from inside a subdirectory |
-| `Connection refused` | `docker compose ps` — Postgres must be running; `DB_HOST=localhost` when running on host |
-| `Password authentication failed` | Check `.env` matches the credentials Docker used on the first volume creation; if they changed, run `docker compose down -v` and restart |
-| `ConfigError: Missing required environment variable` | Copy `.env.example` to `.env` and fill in all five DB variables |
-| Salary parse rate seems low | Expected — ~37% of salaries are genuinely "Thoả thuận" / negotiable / blank |
+| `RuntimeError: Cannot fetch known links from database` | DB is unreachable. Check `.env` credentials and that the database is running before crawling. |
+| `ConfigError: Missing required environment variable` | Copy `.env.example` to `.env` and fill in all five DB variables. |
+| `No module named 'config'` | Run `python main.py` from the project root, not from inside a subdirectory. |
+| `Connection refused` | `docker compose ps` — Postgres must be running; use `DB_HOST=localhost` when running on the host machine. |
+| `Password authentication failed` | Check `.env` matches the credentials Docker used on first volume creation. If they changed, run `docker compose down -v` and restart. |
+| Salary parse rate seems low | Expected — ~37% of salaries are genuinely `"Thoả thuận"` (negotiable) or blank. |
+| Charts look outdated | Re-run the notebook: `jupyter nbconvert --to notebook --execute notebooks/salary_analysis.ipynb --inplace` |

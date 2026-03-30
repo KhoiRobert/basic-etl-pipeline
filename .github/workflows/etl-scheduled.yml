@@ -1,25 +1,49 @@
-# Scheduled ETL pipeline
+# Scheduled ETL pipeline — production-ready configuration
 #
 # Prerequisites:
-#   - Set repository secrets: DB_HOST, DB_PORT, DB_NAME, DB_USER, DB_PASSWORD
-#   - DB_HOST must point to a publicly reachable PostgreSQL instance
-#     (localhost will NOT work from GitHub-hosted runners — use Supabase, Railway, Neon, etc.)
-#   - Adjust cron schedule as needed (UTC time)
+#   Set these repository secrets (Settings → Secrets → Actions):
+#     DB_HOST, DB_PORT, DB_NAME, DB_USER, DB_PASSWORD
+#   DB_HOST must be a publicly reachable PostgreSQL instance
+#   (Supabase, Railway, Neon — localhost will NOT work from GH runners).
+#
+# Schedule: every 2 days at 06:00 UTC.
+#
+# Run sequence:
+#   1. Crawl — queries DB for known links, fetches only new jobs, archives
+#              the previous raw CSV, writes a fresh data/raw/data.csv.
+#   2. Test  — runs the unit-test suite against the transform helpers.
+#   3. ETL   — extract → transform → append-insert into PostgreSQL.
+#
+# Data files (data/raw/) are intentionally NOT committed back to git.
+# Archiving is handled locally by the crawl script (data/raw/archive/).
+# The database is the sole source of truth for persisted job data.
 
 name: ETL pipeline
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # daily at 06:00 UTC
-  workflow_dispatch:        # manual trigger from GitHub UI
+    - cron: "0 6 */2 * *"   # every 2 days at 06:00 UTC
+  workflow_dispatch:          # manual trigger from GitHub UI
+
+permissions:
+  contents: read
 
 jobs:
   run:
     runs-on: ubuntu-22.04
-    timeout-minutes: 15
+    timeout-minutes: 30
+
+    env:
+      DB_HOST:     ${{ secrets.DB_HOST }}
+      DB_PORT:     ${{ secrets.DB_PORT }}
+      DB_NAME:     ${{ secrets.DB_NAME }}
+      DB_USER:     ${{ secrets.DB_USER }}
+      DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
       - uses: actions/setup-python@v5
         with:
@@ -29,14 +53,16 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Crawl TopCV — deduplicate via DB, archive previous batch
+        run: |
+          python scripts/crawl_topcv.py \
+            --max-pages 15 \
+            --delay 2.0 \
+            --max-retries 3 \
+            --archive-keep 14
+
       - name: Run unit tests
         run: python -m pytest tests/ -v
 
-      - name: Run pipeline
-        env:
-          DB_HOST:     ${{ secrets.DB_HOST }}
-          DB_PORT:     ${{ secrets.DB_PORT }}
-          DB_NAME:     ${{ secrets.DB_NAME }}
-          DB_USER:     ${{ secrets.DB_USER }}
-          DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+      - name: Run ETL pipeline
         run: python main.py data/raw/data.csv

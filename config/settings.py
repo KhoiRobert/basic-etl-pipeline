@@ -15,9 +15,8 @@ load_dotenv(_BASE_DIR / ".env")
 
 RAW_DIR = _BASE_DIR / "data" / "raw"
 PROCESSED_DIR = _BASE_DIR / "data" / "processed"
-FAILED_DIR = _BASE_DIR / "data" / "failed"
 
-for _dir in (RAW_DIR, PROCESSED_DIR, FAILED_DIR):
+for _dir in (RAW_DIR, PROCESSED_DIR):
     _dir.mkdir(parents=True, exist_ok=True)
 
 _REQUIRED_ENV = ("DB_HOST", "DB_PORT", "DB_NAME", "DB_USER", "DB_PASSWORD")

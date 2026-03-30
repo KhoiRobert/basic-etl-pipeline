@@ -22,6 +22,12 @@ htmlcov/
 # Pipeline logs (optional; cron may append here)
 logs/
 
+# Data files — source of truth is PostgreSQL, not git
+data/raw/data.csv
+data/raw/archive/
+data/raw/known_links.txt
+data/processed/
+
 # OS / editor
 .DS_Store
 .idea/
