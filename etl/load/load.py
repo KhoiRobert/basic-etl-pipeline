@@ -98,9 +98,8 @@ def _migrate_schema(
             continue
         for col in sorted(missing):
             logger.warning(
-                "Schema drift: adding column '%s' to table '%s' (existing rows → NULL).",
+                "Schema drift: adding column '%s' to target table (existing rows → NULL).",
                 col,
-                table_name,
             )
             conn.execute(
                 text(
@@ -142,7 +141,7 @@ def load_all(
         # Phase 2: INSERT (parent -> child) — no TRUNCATE, rows accumulate
         for df, table_name in tables:
             if df.empty:
-                logger.warning("DataFrame for '%s' is empty; skipping.", table_name)
+                logger.warning("DataFrame for target table is empty; skipping.")
                 counts.append(0)
                 continue
 
@@ -156,7 +155,7 @@ def load_all(
                     "Check for duplicate job_id values or schema mismatches."
                 ) from exc
 
-            logger.info("Inserted %d rows into '%s'", n, table_name)
+            logger.info("Inserted %d rows into target table.", n)
             counts.append(n)
 
     return counts
