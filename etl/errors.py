@@ -21,3 +21,7 @@ class LoadError(ETLError):
 
 class ConfigError(ETLError):
     """Raised when required configuration (e.g. env vars) is missing."""
+
+
+class CrawlError(ETLError):
+    """Raised when a page fetch fails after all retries are exhausted."""
